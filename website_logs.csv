@@ -1,0 +1,4001 @@
+timestamp,customer_id,page,session_duration,device
+2024-10-01 18:00:00,216,Search,56.3,Mobile
+2024-12-13 06:00:00,72,Checkout,183.4,Mobile
+2024-02-01 13:00:00,278,Search,196.6,Tablet
+2024-08-12 18:00:00,263,Search,289.4,Tablet
+2024-03-20 16:00:00,317,Homepage,178.1,Mobile
+2024-02-18 09:00:00,118,Homepage,297.9,Tablet
+2024-09-06 23:00:00,219,Checkout,112.7,Tablet
+2024-08-10 22:00:00,184,Product Page,27.6,Tablet
+2024-11-12 11:00:00,3,Search,287.9,Tablet
+2024-07-08 18:00:00,190,Search,92.4,Desktop
+2024-02-24 13:00:00,82,Cart,174.0,Tablet
+2024-09-11 19:00:00,325,Product Page,133.8,Tablet
+2024-06-24 09:00:00,380,Search,5.7,Desktop
+2024-07-13 06:00:00,94,Product Page,70.7,Desktop
+2024-12-10 01:00:00,371,Product Page,217.3,Tablet
+2024-08-26 09:00:00,339,Product Page,135.5,Mobile
+2024-09-30 19:00:00,224,Product Page,207.2,Mobile
+2024-06-09 06:00:00,128,Product Page,78.5,Tablet
+2024-12-26 11:00:00,343,Cart,204.2,Mobile
+2024-03-06 17:00:00,208,Checkout,35.3,Tablet
+2024-11-10 23:00:00,240,Homepage,178.8,Desktop
+2024-01-14 17:00:00,221,Cart,54.6,Desktop
+2024-11-15 13:00:00,293,Search,266.8,Tablet
+2024-04-05 02:00:00,59,Homepage,93.8,Mobile
+2024-11-06 04:00:00,168,Checkout,88.0,Desktop
+2024-03-22 05:00:00,327,Product Page,186.7,Desktop
+2024-11-04 10:00:00,374,Product Page,111.6,Mobile
+2024-04-02 08:00:00,293,Homepage,111.1,Desktop
+2024-05-04 23:00:00,244,Cart,65.4,Mobile
+2024-10-14 06:00:00,189,Cart,60.2,Mobile
+2024-04-11 15:00:00,341,Product Page,293.3,Tablet
+2024-01-10 09:00:00,414,Homepage,242.5,Mobile
+2024-09-13 05:00:00,442,Cart,89.7,Mobile
+2024-05-02 20:00:00,336,Homepage,75.0,Tablet
+2024-04-08 21:00:00,39,Search,236.8,Mobile
+2024-12-06 07:00:00,289,Search,40.8,Tablet
+2024-11-12 01:00:00,97,Product Page,276.0,Desktop
+2024-10-14 09:00:00,307,Homepage,181.6,Desktop
+2024-12-15 21:00:00,277,Homepage,40.8,Mobile
+2024-03-05 07:00:00,363,Cart,74.8,Tablet
+2024-07-03 17:00:00,9,Homepage,128.0,Tablet
+2024-02-17 19:00:00,193,Product Page,33.7,Mobile
+2024-08-14 11:00:00,481,Homepage,287.8,Tablet
+2024-12-16 05:00:00,73,Search,43.0,Tablet
+2024-06-01 18:00:00,247,Search,294.8,Tablet
+2024-10-06 13:00:00,479,Product Page,89.7,Mobile
+2024-03-16 13:00:00,490,Product Page,20.1,Tablet
+2024-04-21 22:00:00,398,Product Page,285.4,Mobile
+2024-06-12 17:00:00,160,Search,25.8,Desktop
+2024-03-27 23:00:00,37,Homepage,96.8,Mobile
+2024-08-19 22:00:00,372,Checkout,299.9,Desktop
+2024-01-03 22:00:00,479,Homepage,259.8,Desktop
+2024-11-05 13:00:00,403,Cart,281.0,Desktop
+2024-04-30 02:00:00,429,Homepage,5.7,Mobile
+2024-12-12 07:00:00,460,Cart,102.9,Tablet
+2024-11-07 07:00:00,35,Checkout,168.7,Desktop
+2024-01-27 09:00:00,332,Checkout,63.9,Tablet
+2024-02-03 14:00:00,244,Cart,79.1,Mobile
+2024-12-02 13:00:00,289,Homepage,89.1,Tablet
+2024-12-29 17:00:00,27,Checkout,184.8,Tablet
+2024-04-03 03:00:00,352,Checkout,124.4,Tablet
+2024-12-15 12:00:00,278,Cart,16.3,Mobile
+2024-05-09 09:00:00,243,Homepage,7.1,Desktop
+2024-07-17 08:00:00,165,Cart,80.5,Desktop
+2024-06-09 11:00:00,46,Product Page,71.9,Desktop
+2024-03-10 10:00:00,266,Homepage,85.0,Desktop
+2024-04-03 12:00:00,64,Search,83.2,Mobile
+2024-12-12 19:00:00,329,Search,96.1,Tablet
+2024-12-05 15:00:00,167,Cart,108.1,Tablet
+2024-01-15 03:00:00,278,Cart,90.9,Desktop
+2024-12-09 01:00:00,370,Homepage,125.0,Mobile
+2024-09-08 07:00:00,206,Checkout,171.1,Mobile
+2024-11-21 14:00:00,181,Checkout,155.2,Desktop
+2024-10-17 20:00:00,30,Homepage,182.4,Tablet
+2024-03-05 13:00:00,144,Search,162.5,Desktop
+2024-08-02 21:00:00,272,Cart,277.1,Desktop
+2024-06-17 14:00:00,20,Cart,185.9,Mobile
+2024-08-05 16:00:00,470,Checkout,150.2,Desktop
+2024-01-13 16:00:00,223,Cart,237.1,Tablet
+2024-05-21 22:00:00,147,Product Page,48.9,Desktop
+2024-05-31 11:00:00,411,Homepage,280.4,Mobile
+2024-06-27 03:00:00,195,Cart,201.1,Tablet
+2024-04-09 13:00:00,208,Homepage,233.6,Desktop
+2024-02-13 03:00:00,363,Checkout,247.0,Mobile
+2024-10-18 01:00:00,321,Homepage,60.8,Desktop
+2024-02-14 21:00:00,212,Cart,10.5,Tablet
+2024-01-11 13:00:00,231,Checkout,32.1,Tablet
+2024-10-15 19:00:00,165,Cart,177.5,Mobile
+2024-11-08 18:00:00,375,Checkout,140.3,Mobile
+2024-07-10 17:00:00,75,Homepage,132.6,Tablet
+2024-05-12 18:00:00,68,Search,283.1,Tablet
+2024-12-25 06:00:00,401,Product Page,245.7,Desktop
+2024-10-21 08:00:00,416,Homepage,135.0,Desktop
+2024-07-18 21:00:00,180,Homepage,14.0,Tablet
+2024-02-03 13:00:00,472,Checkout,267.1,Desktop
+2024-06-10 10:00:00,307,Homepage,162.1,Mobile
+2024-07-02 08:00:00,449,Cart,214.0,Desktop
+2024-11-13 21:00:00,13,Checkout,239.6,Tablet
+2024-05-21 09:00:00,121,Product Page,71.2,Mobile
+2024-05-18 07:00:00,104,Search,55.9,Tablet
+2024-11-05 21:00:00,130,Product Page,130.3,Desktop
+2024-03-11 14:00:00,366,Product Page,185.1,Desktop
+2024-12-10 10:00:00,171,Checkout,223.4,Mobile
+2024-04-26 22:00:00,362,Search,254.4,Mobile
+2024-06-27 02:00:00,188,Product Page,8.8,Tablet
+2024-10-04 02:00:00,43,Product Page,42.3,Desktop
+2024-05-30 13:00:00,412,Search,98.9,Mobile
+2024-12-10 14:00:00,42,Checkout,202.9,Desktop
+2024-08-09 21:00:00,242,Product Page,74.3,Tablet
+2024-03-29 21:00:00,223,Cart,198.9,Tablet
+2024-10-15 04:00:00,14,Product Page,44.0,Tablet
+2024-11-15 16:00:00,20,Product Page,237.4,Desktop
+2024-04-15 05:00:00,438,Homepage,50.7,Desktop
+2024-01-31 03:00:00,445,Product Page,177.5,Mobile
+2024-05-13 22:00:00,179,Checkout,35.7,Desktop
+2024-09-16 09:00:00,321,Cart,197.1,Mobile
+2024-03-12 12:00:00,282,Homepage,6.5,Mobile
+2024-07-07 23:00:00,408,Cart,177.9,Tablet
+2024-07-21 16:00:00,478,Homepage,114.3,Mobile
+2024-09-23 12:00:00,32,Cart,229.2,Tablet
+2024-07-11 17:00:00,445,Product Page,228.4,Tablet
+2024-10-19 00:00:00,11,Cart,98.3,Mobile
+2024-07-17 21:00:00,441,Cart,111.6,Desktop
+2024-12-27 18:00:00,287,Product Page,188.7,Mobile
+2024-10-19 14:00:00,277,Homepage,25.6,Mobile
+2024-07-22 19:00:00,57,Checkout,36.9,Desktop
+2024-08-21 20:00:00,481,Search,102.8,Mobile
+2024-12-26 02:00:00,318,Search,88.1,Tablet
+2024-04-29 19:00:00,440,Search,229.9,Tablet
+2024-02-19 06:00:00,110,Homepage,113.2,Mobile
+2024-03-15 14:00:00,477,Checkout,150.7,Mobile
+2024-07-27 08:00:00,319,Search,19.4,Desktop
+2024-05-24 15:00:00,259,Checkout,115.4,Mobile
+2024-01-13 23:00:00,364,Homepage,127.6,Desktop
+2024-01-06 00:00:00,309,Search,288.2,Desktop
+2024-04-20 12:00:00,238,Product Page,219.0,Tablet
+2024-07-29 21:00:00,209,Product Page,219.1,Mobile
+2024-08-02 20:00:00,20,Search,7.1,Mobile
+2024-12-23 14:00:00,71,Product Page,148.3,Tablet
+2024-07-12 03:00:00,259,Cart,247.6,Desktop
+2024-06-27 02:00:00,308,Product Page,89.5,Desktop
+2024-05-23 05:00:00,183,Checkout,172.7,Tablet
+2024-11-01 22:00:00,37,Homepage,90.4,Tablet
+2024-04-10 04:00:00,84,Checkout,263.4,Desktop
+2024-08-31 07:00:00,54,Search,171.4,Mobile
+2024-04-27 18:00:00,132,Search,182.4,Desktop
+2024-08-31 08:00:00,71,Cart,37.1,Desktop
+2024-11-18 06:00:00,219,Product Page,160.3,Desktop
+2024-10-07 08:00:00,132,Search,108.8,Desktop
+2024-05-14 23:00:00,74,Search,187.0,Desktop
+2024-08-27 18:00:00,500,Product Page,92.5,Mobile
+2024-04-15 13:00:00,415,Cart,270.6,Tablet
+2024-10-02 17:00:00,382,Cart,150.3,Desktop
+2024-12-03 13:00:00,160,Homepage,187.4,Tablet
+2024-06-25 00:00:00,216,Checkout,37.2,Tablet
+2024-09-09 23:00:00,176,Product Page,176.6,Desktop
+2024-07-13 20:00:00,310,Cart,150.3,Desktop
+2024-04-14 03:00:00,491,Search,102.5,Tablet
+2024-05-14 21:00:00,332,Product Page,145.0,Mobile
+2024-09-03 23:00:00,206,Cart,272.5,Tablet
+2024-05-04 12:00:00,173,Checkout,162.7,Mobile
+2024-08-19 10:00:00,298,Checkout,62.4,Desktop
+2024-07-05 11:00:00,231,Homepage,235.4,Mobile
+2024-08-12 09:00:00,342,Homepage,122.4,Desktop
+2024-11-15 19:00:00,282,Cart,107.0,Desktop
+2024-07-19 02:00:00,225,Checkout,243.0,Mobile
+2024-04-07 12:00:00,16,Search,99.2,Mobile
+2024-07-02 13:00:00,143,Cart,280.3,Tablet
+2024-06-12 05:00:00,98,Product Page,290.2,Desktop
+2024-01-02 06:00:00,199,Checkout,9.8,Desktop
+2024-07-16 23:00:00,184,Search,158.5,Mobile
+2024-01-12 23:00:00,118,Homepage,228.7,Mobile
+2024-03-26 09:00:00,252,Homepage,43.0,Mobile
+2024-04-27 04:00:00,12,Homepage,107.9,Mobile
+2024-02-06 01:00:00,201,Checkout,130.7,Desktop
+2024-06-22 02:00:00,288,Homepage,146.0,Desktop
+2024-11-06 04:00:00,9,Homepage,225.6,Desktop
+2024-01-25 00:00:00,376,Cart,257.4,Tablet
+2024-07-06 16:00:00,380,Checkout,219.0,Tablet
+2024-12-16 17:00:00,369,Checkout,254.9,Mobile
+2024-08-28 22:00:00,207,Homepage,267.4,Desktop
+2024-09-07 14:00:00,490,Homepage,177.1,Desktop
+2024-09-07 04:00:00,238,Search,102.2,Desktop
+2024-09-05 15:00:00,457,Search,25.8,Mobile
+2024-05-03 11:00:00,268,Search,94.3,Desktop
+2024-06-22 21:00:00,415,Search,138.7,Mobile
+2024-01-05 06:00:00,360,Cart,173.6,Desktop
+2024-06-29 07:00:00,362,Homepage,284.7,Desktop
+2024-07-04 05:00:00,26,Search,250.8,Tablet
+2024-08-12 02:00:00,369,Homepage,180.5,Mobile
+2024-03-13 08:00:00,356,Cart,147.7,Tablet
+2024-08-12 02:00:00,89,Homepage,59.5,Desktop
+2024-05-17 22:00:00,283,Homepage,81.6,Desktop
+2024-01-08 21:00:00,18,Checkout,168.4,Mobile
+2024-03-20 09:00:00,284,Checkout,12.6,Mobile
+2024-03-18 04:00:00,82,Product Page,29.7,Tablet
+2024-11-11 06:00:00,410,Search,160.6,Tablet
+2024-11-21 00:00:00,404,Checkout,69.2,Mobile
+2024-04-16 20:00:00,288,Cart,187.9,Desktop
+2024-01-02 10:00:00,368,Cart,72.6,Mobile
+2024-05-15 13:00:00,174,Product Page,244.3,Mobile
+2024-03-04 06:00:00,216,Cart,97.8,Mobile
+2024-07-16 05:00:00,229,Homepage,283.7,Tablet
+2024-12-07 21:00:00,283,Search,69.8,Tablet
+2024-08-05 22:00:00,406,Product Page,166.2,Desktop
+2024-08-16 01:00:00,401,Search,56.8,Tablet
+2024-06-17 21:00:00,392,Homepage,113.0,Desktop
+2024-02-22 15:00:00,391,Product Page,220.7,Mobile
+2024-03-14 04:00:00,115,Product Page,49.9,Mobile
+2024-12-06 01:00:00,469,Homepage,265.3,Mobile
+2024-08-03 00:00:00,467,Product Page,78.1,Desktop
+2024-06-14 03:00:00,117,Checkout,51.8,Tablet
+2024-02-27 07:00:00,384,Homepage,63.5,Mobile
+2024-11-29 20:00:00,200,Homepage,108.4,Mobile
+2024-09-29 04:00:00,472,Product Page,113.4,Mobile
+2024-11-16 06:00:00,255,Search,243.4,Desktop
+2024-07-12 10:00:00,176,Checkout,94.3,Desktop
+2024-12-17 05:00:00,495,Checkout,60.3,Tablet
+2024-05-13 02:00:00,35,Cart,23.8,Mobile
+2024-03-01 23:00:00,373,Search,102.2,Tablet
+2024-02-29 13:00:00,199,Product Page,56.3,Desktop
+2024-07-28 05:00:00,244,Checkout,136.4,Desktop
+2024-10-09 21:00:00,115,Checkout,76.6,Mobile
+2024-08-12 07:00:00,347,Homepage,299.1,Mobile
+2024-08-24 11:00:00,471,Product Page,92.2,Desktop
+2024-10-15 21:00:00,146,Product Page,188.0,Mobile
+2024-04-21 20:00:00,329,Cart,163.5,Tablet
+2024-01-11 12:00:00,435,Checkout,247.8,Desktop
+2024-08-22 15:00:00,84,Cart,221.0,Tablet
+2024-09-12 14:00:00,248,Homepage,161.3,Desktop
+2024-01-23 09:00:00,277,Search,172.7,Desktop
+2024-11-29 03:00:00,39,Product Page,135.8,Desktop
+2024-12-26 17:00:00,492,Product Page,14.6,Tablet
+2024-07-21 01:00:00,479,Checkout,259.4,Tablet
+2024-10-15 21:00:00,405,Homepage,227.3,Mobile
+2024-04-06 05:00:00,42,Product Page,209.7,Tablet
+2024-05-21 07:00:00,23,Search,218.7,Tablet
+2024-12-28 18:00:00,401,Product Page,81.5,Tablet
+2024-11-15 03:00:00,144,Product Page,112.6,Desktop
+2024-06-13 08:00:00,284,Cart,283.3,Tablet
+2024-07-08 18:00:00,89,Checkout,167.0,Desktop
+2024-01-13 09:00:00,354,Search,132.1,Desktop
+2024-12-17 18:00:00,105,Homepage,62.1,Desktop
+2024-08-03 19:00:00,419,Homepage,243.6,Desktop
+2024-04-29 06:00:00,454,Checkout,286.8,Mobile
+2024-08-28 16:00:00,219,Homepage,241.4,Mobile
+2024-09-06 14:00:00,494,Checkout,182.3,Tablet
+2024-12-03 08:00:00,221,Checkout,183.3,Desktop
+2024-10-28 19:00:00,437,Search,190.0,Tablet
+2024-08-10 19:00:00,203,Search,248.5,Tablet
+2024-09-26 07:00:00,491,Product Page,7.2,Desktop
+2024-05-01 08:00:00,357,Search,286.9,Desktop
+2024-06-30 09:00:00,326,Homepage,253.3,Tablet
+2024-06-17 09:00:00,57,Cart,125.7,Tablet
+2024-09-14 13:00:00,429,Homepage,19.5,Desktop
+2024-04-15 00:00:00,22,Cart,72.4,Mobile
+2024-02-02 05:00:00,432,Search,285.7,Mobile
+2024-10-11 14:00:00,212,Checkout,76.8,Mobile
+2024-05-12 02:00:00,227,Checkout,175.8,Tablet
+2024-02-05 10:00:00,237,Cart,190.6,Tablet
+2024-11-22 00:00:00,321,Homepage,173.7,Tablet
+2024-01-15 02:00:00,447,Search,237.9,Mobile
+2024-02-18 00:00:00,47,Product Page,86.6,Tablet
+2024-02-17 19:00:00,66,Search,278.0,Tablet
+2024-10-26 20:00:00,475,Search,126.3,Desktop
+2024-08-17 02:00:00,184,Homepage,16.6,Desktop
+2024-10-05 22:00:00,239,Search,272.0,Tablet
+2024-08-20 13:00:00,486,Product Page,154.3,Mobile
+2024-12-30 06:00:00,47,Checkout,128.5,Desktop
+2024-08-01 17:00:00,471,Checkout,29.1,Desktop
+2024-06-13 15:00:00,310,Cart,245.7,Mobile
+2024-03-31 23:00:00,223,Product Page,260.5,Mobile
+2024-03-07 07:00:00,134,Cart,10.5,Mobile
+2024-11-18 20:00:00,87,Search,298.4,Mobile
+2024-09-25 12:00:00,200,Checkout,139.1,Tablet
+2024-04-06 12:00:00,132,Checkout,109.4,Mobile
+2024-08-22 18:00:00,68,Product Page,177.0,Desktop
+2024-11-16 15:00:00,393,Cart,89.1,Mobile
+2024-06-21 22:00:00,91,Cart,29.3,Mobile
+2024-03-06 01:00:00,85,Checkout,91.5,Tablet
+2024-09-10 12:00:00,98,Checkout,245.4,Desktop
+2024-04-10 13:00:00,54,Search,161.5,Tablet
+2024-01-27 07:00:00,408,Cart,240.4,Mobile
+2024-09-14 13:00:00,193,Homepage,122.4,Mobile
+2024-01-29 23:00:00,233,Product Page,247.7,Desktop
+2024-11-18 03:00:00,390,Search,183.1,Tablet
+2024-07-09 00:00:00,153,Product Page,115.2,Tablet
+2024-03-15 03:00:00,32,Product Page,220.7,Tablet
+2024-07-06 18:00:00,78,Checkout,206.0,Tablet
+2024-04-12 22:00:00,159,Homepage,196.9,Tablet
+2024-07-02 20:00:00,482,Checkout,115.4,Desktop
+2024-12-18 21:00:00,493,Search,138.1,Tablet
+2024-05-29 17:00:00,499,Homepage,35.7,Tablet
+2024-11-27 15:00:00,115,Checkout,200.2,Mobile
+2024-10-22 13:00:00,267,Checkout,289.7,Mobile
+2024-03-26 04:00:00,449,Cart,6.1,Desktop
+2024-01-21 15:00:00,234,Checkout,50.9,Desktop
+2024-09-18 12:00:00,311,Search,198.7,Desktop
+2024-12-17 10:00:00,23,Product Page,242.4,Desktop
+2024-08-26 02:00:00,312,Search,195.2,Desktop
+2024-01-27 16:00:00,76,Checkout,203.8,Mobile
+2024-04-12 07:00:00,7,Checkout,52.4,Mobile
+2024-10-08 21:00:00,19,Product Page,281.8,Mobile
+2024-09-25 00:00:00,490,Cart,271.2,Mobile
+2024-04-30 14:00:00,424,Cart,103.9,Mobile
+2024-11-06 18:00:00,121,Checkout,154.1,Desktop
+2024-09-19 18:00:00,150,Search,187.6,Desktop
+2024-01-23 13:00:00,278,Homepage,292.6,Tablet
+2024-01-13 01:00:00,149,Homepage,257.6,Mobile
+2024-04-05 21:00:00,473,Checkout,57.5,Desktop
+2024-01-20 17:00:00,4,Checkout,114.1,Desktop
+2024-12-02 06:00:00,395,Homepage,115.8,Mobile
+2024-06-09 02:00:00,332,Checkout,230.7,Desktop
+2024-01-29 17:00:00,121,Product Page,213.7,Tablet
+2024-06-22 01:00:00,393,Checkout,270.7,Mobile
+2024-01-10 22:00:00,294,Checkout,215.1,Tablet
+2024-02-23 23:00:00,339,Product Page,283.5,Desktop
+2024-07-17 15:00:00,58,Cart,178.9,Desktop
+2024-02-07 12:00:00,438,Homepage,195.5,Desktop
+2024-02-13 19:00:00,484,Cart,273.2,Desktop
+2024-02-26 19:00:00,106,Search,63.7,Desktop
+2024-06-29 18:00:00,403,Search,226.0,Mobile
+2024-09-22 18:00:00,21,Product Page,64.5,Tablet
+2024-04-08 19:00:00,195,Search,7.7,Mobile
+2024-01-16 19:00:00,408,Cart,18.2,Mobile
+2024-04-09 01:00:00,362,Product Page,92.4,Tablet
+2024-03-28 11:00:00,366,Search,173.7,Desktop
+2024-05-11 19:00:00,225,Homepage,50.6,Mobile
+2024-05-27 20:00:00,476,Product Page,181.4,Desktop
+2024-04-08 17:00:00,173,Product Page,51.5,Tablet
+2024-02-11 17:00:00,440,Homepage,276.2,Mobile
+2024-03-07 14:00:00,153,Homepage,259.1,Mobile
+2024-11-16 03:00:00,310,Homepage,275.0,Desktop
+2024-05-19 14:00:00,213,Product Page,287.6,Desktop
+2024-06-16 21:00:00,172,Product Page,218.9,Mobile
+2024-05-28 16:00:00,150,Checkout,220.3,Mobile
+2024-06-02 21:00:00,133,Search,247.2,Mobile
+2024-11-15 01:00:00,374,Checkout,147.1,Mobile
+2024-03-19 21:00:00,64,Search,64.5,Tablet
+2024-10-17 12:00:00,294,Checkout,252.8,Mobile
+2024-05-13 02:00:00,319,Homepage,97.9,Desktop
+2024-11-22 19:00:00,198,Product Page,18.4,Tablet
+2024-07-31 11:00:00,182,Homepage,17.0,Desktop
+2024-12-04 20:00:00,147,Cart,280.9,Tablet
+2024-03-15 07:00:00,50,Homepage,296.2,Desktop
+2024-08-19 00:00:00,494,Homepage,148.2,Tablet
+2024-12-02 21:00:00,37,Homepage,96.9,Desktop
+2024-01-19 21:00:00,238,Product Page,252.4,Desktop
+2024-09-09 16:00:00,160,Product Page,293.2,Desktop
+2024-05-04 00:00:00,39,Checkout,248.4,Mobile
+2024-10-17 14:00:00,148,Product Page,28.7,Mobile
+2024-09-03 03:00:00,359,Checkout,142.1,Mobile
+2024-03-12 08:00:00,109,Search,219.2,Mobile
+2024-12-28 14:00:00,459,Cart,160.3,Mobile
+2024-07-15 06:00:00,153,Cart,29.9,Desktop
+2024-03-15 03:00:00,410,Cart,6.4,Tablet
+2024-02-24 06:00:00,457,Checkout,170.6,Tablet
+2024-06-20 02:00:00,98,Cart,291.4,Desktop
+2024-02-29 04:00:00,303,Search,121.3,Mobile
+2024-03-09 12:00:00,214,Cart,283.0,Mobile
+2024-04-19 07:00:00,485,Cart,110.8,Desktop
+2024-03-03 09:00:00,121,Search,250.7,Mobile
+2024-08-20 06:00:00,334,Product Page,269.6,Mobile
+2024-07-31 14:00:00,316,Product Page,219.9,Mobile
+2024-08-02 01:00:00,59,Cart,176.4,Mobile
+2024-02-24 21:00:00,418,Product Page,68.2,Tablet
+2024-04-05 09:00:00,178,Homepage,179.4,Tablet
+2024-05-27 00:00:00,291,Cart,198.3,Mobile
+2024-05-16 23:00:00,35,Search,191.1,Desktop
+2024-01-19 18:00:00,467,Product Page,134.2,Tablet
+2024-03-18 15:00:00,484,Cart,188.1,Desktop
+2024-06-11 06:00:00,413,Checkout,139.4,Tablet
+2024-04-25 10:00:00,119,Checkout,50.3,Mobile
+2024-03-21 20:00:00,322,Homepage,104.7,Desktop
+2024-08-10 21:00:00,295,Checkout,292.7,Tablet
+2024-07-19 09:00:00,227,Checkout,139.6,Desktop
+2024-11-04 12:00:00,35,Homepage,249.4,Desktop
+2024-11-23 23:00:00,217,Homepage,137.3,Tablet
+2024-12-16 11:00:00,309,Checkout,163.5,Tablet
+2024-01-04 16:00:00,478,Checkout,25.6,Desktop
+2024-08-15 02:00:00,217,Product Page,219.7,Desktop
+2024-09-15 09:00:00,442,Checkout,261.2,Tablet
+2024-05-10 04:00:00,215,Homepage,34.0,Mobile
+2024-02-02 01:00:00,81,Product Page,89.1,Tablet
+2024-08-28 22:00:00,312,Search,297.0,Desktop
+2024-03-24 14:00:00,430,Checkout,271.0,Desktop
+2024-07-07 06:00:00,77,Checkout,41.3,Tablet
+2024-09-26 04:00:00,105,Homepage,63.4,Mobile
+2024-09-19 05:00:00,325,Cart,207.4,Tablet
+2024-03-01 02:00:00,397,Product Page,293.7,Desktop
+2024-01-18 23:00:00,21,Product Page,94.6,Tablet
+2024-08-10 23:00:00,233,Product Page,118.9,Mobile
+2024-11-23 14:00:00,298,Search,161.3,Desktop
+2024-09-18 12:00:00,219,Checkout,65.9,Desktop
+2024-08-06 12:00:00,201,Cart,199.8,Tablet
+2024-04-26 16:00:00,368,Product Page,24.2,Mobile
+2024-04-26 08:00:00,445,Product Page,175.2,Tablet
+2024-09-12 00:00:00,438,Search,181.2,Desktop
+2024-01-31 03:00:00,239,Product Page,7.4,Desktop
+2024-11-21 22:00:00,58,Search,87.5,Mobile
+2024-12-10 17:00:00,163,Cart,249.1,Desktop
+2024-09-05 05:00:00,235,Cart,40.1,Desktop
+2024-07-07 08:00:00,209,Product Page,140.0,Desktop
+2024-04-30 11:00:00,27,Homepage,8.2,Mobile
+2024-08-26 13:00:00,184,Checkout,178.6,Mobile
+2024-04-06 20:00:00,415,Homepage,221.2,Tablet
+2024-12-15 05:00:00,232,Product Page,95.7,Mobile
+2024-12-17 23:00:00,289,Checkout,36.9,Desktop
+2024-07-19 14:00:00,209,Homepage,22.4,Tablet
+2024-01-22 12:00:00,261,Cart,77.8,Tablet
+2024-06-01 20:00:00,307,Checkout,294.9,Desktop
+2024-09-07 19:00:00,7,Cart,167.7,Tablet
+2024-09-20 08:00:00,185,Search,61.7,Desktop
+2024-01-03 08:00:00,430,Cart,269.7,Desktop
+2024-03-29 21:00:00,443,Product Page,20.9,Tablet
+2024-07-26 08:00:00,385,Cart,297.0,Desktop
+2024-01-17 09:00:00,92,Cart,63.3,Desktop
+2024-02-17 19:00:00,207,Search,110.3,Desktop
+2024-02-09 05:00:00,365,Product Page,74.3,Tablet
+2024-02-24 04:00:00,186,Checkout,234.8,Mobile
+2024-03-02 15:00:00,223,Cart,179.1,Desktop
+2024-03-18 16:00:00,264,Search,202.0,Mobile
+2024-08-16 23:00:00,192,Homepage,212.0,Desktop
+2024-05-27 20:00:00,22,Checkout,25.3,Desktop
+2024-11-06 15:00:00,6,Search,250.8,Tablet
+2024-02-18 08:00:00,168,Homepage,21.3,Mobile
+2024-01-28 15:00:00,233,Homepage,92.4,Mobile
+2024-01-24 07:00:00,184,Search,107.2,Desktop
+2024-11-07 13:00:00,105,Homepage,40.3,Mobile
+2024-05-20 12:00:00,376,Product Page,170.2,Desktop
+2024-08-15 19:00:00,401,Homepage,247.6,Tablet
+2024-08-04 23:00:00,285,Cart,147.4,Desktop
+2024-12-17 21:00:00,166,Search,241.5,Mobile
+2024-02-26 18:00:00,270,Cart,157.5,Desktop
+2024-11-01 09:00:00,383,Homepage,135.0,Tablet
+2024-08-25 23:00:00,423,Search,62.6,Desktop
+2024-05-06 17:00:00,415,Product Page,185.2,Mobile
+2024-12-28 02:00:00,230,Product Page,16.2,Tablet
+2024-09-26 11:00:00,200,Homepage,279.4,Desktop
+2024-04-07 18:00:00,354,Product Page,132.1,Tablet
+2024-10-30 05:00:00,65,Homepage,141.1,Tablet
+2024-08-01 14:00:00,95,Search,274.0,Tablet
+2024-07-26 22:00:00,435,Product Page,134.9,Desktop
+2024-01-24 00:00:00,390,Search,58.1,Desktop
+2024-06-01 04:00:00,323,Product Page,286.4,Desktop
+2024-12-22 05:00:00,225,Cart,214.5,Tablet
+2024-09-07 08:00:00,288,Checkout,91.7,Tablet
+2024-07-17 02:00:00,235,Homepage,242.0,Mobile
+2024-02-25 06:00:00,69,Search,144.2,Mobile
+2024-10-19 16:00:00,314,Checkout,69.5,Tablet
+2024-05-06 09:00:00,69,Homepage,277.3,Desktop
+2024-03-17 18:00:00,261,Checkout,72.6,Tablet
+2024-11-05 19:00:00,323,Product Page,15.9,Tablet
+2024-02-12 18:00:00,4,Homepage,243.6,Desktop
+2024-10-05 05:00:00,239,Homepage,44.4,Tablet
+2024-04-08 02:00:00,28,Cart,299.2,Mobile
+2024-12-24 02:00:00,420,Checkout,117.6,Mobile
+2024-01-02 03:00:00,383,Product Page,183.1,Mobile
+2024-11-09 21:00:00,219,Search,192.1,Mobile
+2024-10-31 15:00:00,465,Product Page,115.8,Mobile
+2024-05-23 21:00:00,172,Checkout,181.2,Desktop
+2024-05-23 20:00:00,124,Product Page,45.7,Desktop
+2024-11-01 12:00:00,465,Homepage,76.5,Tablet
+2024-12-12 21:00:00,143,Cart,41.1,Tablet
+2024-10-02 01:00:00,58,Checkout,57.8,Desktop
+2024-04-10 13:00:00,486,Cart,124.9,Mobile
+2024-04-28 23:00:00,78,Product Page,290.5,Mobile
+2024-07-23 17:00:00,332,Cart,23.3,Tablet
+2024-04-17 16:00:00,184,Homepage,38.5,Tablet
+2024-05-27 16:00:00,99,Search,63.0,Mobile
+2024-04-13 06:00:00,169,Cart,17.3,Mobile
+2024-11-15 06:00:00,306,Search,201.0,Desktop
+2024-09-17 09:00:00,249,Homepage,173.5,Mobile
+2024-11-23 07:00:00,64,Search,221.7,Desktop
+2024-07-22 19:00:00,126,Product Page,252.2,Desktop
+2024-12-22 16:00:00,199,Cart,250.5,Desktop
+2024-05-17 09:00:00,200,Cart,293.5,Mobile
+2024-08-25 03:00:00,39,Homepage,113.9,Mobile
+2024-09-12 17:00:00,203,Homepage,53.4,Desktop
+2024-05-17 17:00:00,32,Search,49.1,Tablet
+2024-01-10 17:00:00,391,Checkout,182.6,Desktop
+2024-09-17 02:00:00,301,Homepage,17.1,Tablet
+2024-10-05 12:00:00,397,Checkout,80.9,Desktop
+2024-03-15 14:00:00,320,Homepage,285.5,Desktop
+2024-11-27 09:00:00,425,Homepage,15.4,Mobile
+2024-11-08 23:00:00,484,Cart,134.8,Desktop
+2024-09-25 17:00:00,323,Search,227.3,Tablet
+2024-08-14 03:00:00,325,Product Page,53.8,Tablet
+2024-06-13 21:00:00,43,Homepage,74.1,Mobile
+2024-10-07 11:00:00,475,Product Page,123.8,Mobile
+2024-11-23 01:00:00,444,Search,124.6,Tablet
+2024-07-31 10:00:00,37,Product Page,86.8,Mobile
+2024-09-02 07:00:00,317,Cart,49.6,Tablet
+2024-09-27 20:00:00,259,Search,151.0,Mobile
+2024-07-28 05:00:00,494,Product Page,173.8,Tablet
+2024-05-26 21:00:00,199,Cart,50.1,Desktop
+2024-01-23 22:00:00,362,Product Page,53.5,Desktop
+2024-12-21 15:00:00,323,Product Page,212.1,Tablet
+2024-10-24 03:00:00,270,Homepage,134.0,Mobile
+2024-05-22 04:00:00,90,Cart,47.3,Desktop
+2024-07-14 21:00:00,382,Homepage,160.4,Desktop
+2024-03-23 13:00:00,256,Product Page,39.8,Desktop
+2024-07-06 19:00:00,21,Search,47.6,Mobile
+2024-10-25 20:00:00,379,Search,268.8,Mobile
+2024-12-20 17:00:00,171,Search,126.1,Desktop
+2024-03-23 15:00:00,223,Checkout,25.8,Desktop
+2024-01-30 11:00:00,259,Search,261.4,Tablet
+2024-07-11 10:00:00,416,Product Page,16.7,Tablet
+2024-06-14 22:00:00,331,Checkout,153.3,Desktop
+2024-03-07 11:00:00,67,Search,130.8,Mobile
+2024-06-26 23:00:00,381,Checkout,106.1,Tablet
+2024-12-08 08:00:00,327,Search,89.2,Desktop
+2024-08-01 00:00:00,283,Homepage,291.1,Tablet
+2024-03-11 19:00:00,448,Cart,247.7,Mobile
+2024-10-15 15:00:00,72,Homepage,77.5,Tablet
+2024-09-12 02:00:00,315,Cart,8.8,Desktop
+2024-08-31 02:00:00,7,Homepage,80.5,Tablet
+2024-02-15 15:00:00,474,Checkout,244.3,Desktop
+2024-12-18 02:00:00,37,Checkout,50.7,Desktop
+2024-11-04 21:00:00,329,Cart,183.5,Tablet
+2024-04-15 05:00:00,380,Search,31.7,Desktop
+2024-08-17 21:00:00,250,Product Page,248.2,Mobile
+2024-07-29 06:00:00,469,Product Page,184.4,Mobile
+2024-04-21 22:00:00,19,Product Page,218.1,Mobile
+2024-06-26 13:00:00,311,Product Page,90.6,Desktop
+2024-06-28 11:00:00,213,Search,74.3,Desktop
+2024-12-15 02:00:00,120,Product Page,278.5,Mobile
+2024-05-27 10:00:00,14,Homepage,221.2,Desktop
+2024-08-03 03:00:00,304,Search,268.0,Mobile
+2024-04-16 04:00:00,244,Homepage,56.3,Mobile
+2024-01-11 09:00:00,436,Homepage,58.4,Desktop
+2024-06-25 00:00:00,4,Search,42.3,Desktop
+2024-04-03 08:00:00,187,Search,108.1,Tablet
+2024-11-26 18:00:00,214,Homepage,45.4,Desktop
+2024-01-18 08:00:00,420,Homepage,98.5,Desktop
+2024-12-13 11:00:00,329,Homepage,219.5,Desktop
+2024-04-23 16:00:00,423,Checkout,271.3,Mobile
+2024-08-29 07:00:00,153,Cart,191.2,Mobile
+2024-10-14 12:00:00,468,Cart,186.9,Mobile
+2024-01-28 05:00:00,101,Search,261.1,Desktop
+2024-09-11 11:00:00,157,Cart,219.2,Mobile
+2024-04-08 05:00:00,88,Cart,106.1,Mobile
+2024-11-30 04:00:00,215,Homepage,182.2,Tablet
+2024-05-05 20:00:00,227,Checkout,102.5,Tablet
+2024-05-06 05:00:00,99,Checkout,168.0,Desktop
+2024-09-05 08:00:00,182,Search,19.4,Tablet
+2024-09-22 07:00:00,428,Checkout,253.2,Tablet
+2024-11-14 21:00:00,499,Cart,45.1,Desktop
+2024-07-06 12:00:00,246,Cart,259.9,Desktop
+2024-03-18 16:00:00,387,Cart,63.7,Tablet
+2024-05-27 18:00:00,35,Checkout,230.9,Mobile
+2024-06-19 19:00:00,407,Product Page,187.9,Desktop
+2024-09-25 04:00:00,302,Homepage,201.6,Tablet
+2024-04-26 06:00:00,303,Product Page,299.7,Desktop
+2024-12-25 03:00:00,378,Checkout,149.8,Desktop
+2024-07-08 07:00:00,417,Checkout,133.2,Mobile
+2024-08-20 07:00:00,92,Homepage,44.9,Mobile
+2024-10-06 19:00:00,327,Homepage,179.5,Tablet
+2024-10-26 03:00:00,146,Search,152.7,Tablet
+2024-09-28 11:00:00,162,Cart,137.1,Desktop
+2024-01-21 09:00:00,367,Homepage,85.5,Tablet
+2024-09-21 14:00:00,357,Search,57.5,Desktop
+2024-09-18 11:00:00,7,Search,82.0,Mobile
+2024-12-08 12:00:00,167,Search,159.5,Mobile
+2024-06-21 18:00:00,464,Search,181.0,Tablet
+2024-06-06 16:00:00,143,Checkout,75.2,Mobile
+2024-09-14 05:00:00,378,Product Page,192.3,Mobile
+2024-02-26 16:00:00,380,Checkout,161.3,Tablet
+2024-02-25 23:00:00,9,Cart,267.5,Mobile
+2024-02-16 08:00:00,15,Cart,231.2,Desktop
+2024-08-14 07:00:00,411,Homepage,292.6,Tablet
+2024-12-06 04:00:00,24,Product Page,260.3,Tablet
+2024-02-01 15:00:00,302,Checkout,120.3,Tablet
+2024-08-12 22:00:00,324,Product Page,246.4,Desktop
+2024-04-01 03:00:00,33,Search,186.4,Tablet
+2024-08-04 13:00:00,21,Homepage,247.4,Mobile
+2024-03-05 06:00:00,470,Cart,191.1,Mobile
+2024-03-15 18:00:00,164,Checkout,131.5,Mobile
+2024-05-23 06:00:00,247,Checkout,183.3,Mobile
+2024-06-19 20:00:00,264,Product Page,267.3,Desktop
+2024-04-14 00:00:00,240,Homepage,241.5,Mobile
+2024-12-13 17:00:00,368,Product Page,205.4,Mobile
+2024-10-29 20:00:00,183,Homepage,97.5,Tablet
+2024-10-12 20:00:00,45,Product Page,295.3,Mobile
+2024-03-26 11:00:00,483,Product Page,10.8,Mobile
+2024-08-21 04:00:00,4,Product Page,148.1,Mobile
+2024-08-03 12:00:00,129,Product Page,282.8,Mobile
+2024-06-09 11:00:00,64,Homepage,143.7,Tablet
+2024-11-11 15:00:00,239,Homepage,25.9,Tablet
+2024-08-18 09:00:00,366,Product Page,236.4,Desktop
+2024-06-13 00:00:00,169,Product Page,63.9,Tablet
+2024-08-18 03:00:00,76,Product Page,165.0,Tablet
+2024-12-28 12:00:00,348,Search,266.7,Tablet
+2024-10-24 20:00:00,8,Product Page,138.2,Mobile
+2024-07-08 00:00:00,156,Search,153.5,Tablet
+2024-10-22 18:00:00,216,Product Page,159.3,Desktop
+2024-11-09 17:00:00,206,Search,64.6,Mobile
+2024-11-27 15:00:00,471,Homepage,293.0,Tablet
+2024-07-16 16:00:00,328,Checkout,173.9,Mobile
+2024-06-20 14:00:00,19,Checkout,121.6,Desktop
+2024-01-01 00:00:00,291,Search,10.1,Mobile
+2024-03-11 16:00:00,282,Search,275.9,Tablet
+2024-01-07 22:00:00,250,Product Page,19.8,Mobile
+2024-08-18 20:00:00,25,Search,270.7,Mobile
+2024-02-09 01:00:00,395,Search,238.9,Desktop
+2024-04-05 17:00:00,474,Checkout,288.7,Mobile
+2024-05-25 15:00:00,135,Search,235.5,Tablet
+2024-10-31 09:00:00,76,Homepage,174.3,Desktop
+2024-12-06 23:00:00,37,Search,266.8,Desktop
+2024-04-07 19:00:00,464,Product Page,202.8,Tablet
+2024-02-08 10:00:00,99,Search,186.6,Mobile
+2024-02-27 07:00:00,238,Cart,104.6,Mobile
+2024-01-25 18:00:00,327,Product Page,218.9,Tablet
+2024-11-25 22:00:00,88,Cart,7.2,Desktop
+2024-09-16 23:00:00,434,Cart,106.7,Desktop
+2024-05-18 09:00:00,331,Checkout,182.5,Tablet
+2024-10-19 09:00:00,315,Checkout,117.5,Mobile
+2024-02-05 06:00:00,224,Checkout,168.7,Desktop
+2024-06-08 19:00:00,145,Product Page,241.0,Desktop
+2024-03-20 18:00:00,328,Homepage,229.1,Desktop
+2024-01-28 14:00:00,74,Homepage,272.7,Desktop
+2024-08-14 17:00:00,91,Search,277.5,Desktop
+2024-06-26 20:00:00,490,Cart,294.1,Desktop
+2024-12-23 20:00:00,119,Homepage,282.2,Mobile
+2024-06-22 02:00:00,390,Checkout,108.9,Mobile
+2024-09-30 12:00:00,254,Product Page,74.2,Mobile
+2024-11-05 19:00:00,353,Product Page,287.3,Desktop
+2024-12-02 01:00:00,68,Cart,154.0,Mobile
+2024-01-10 04:00:00,34,Checkout,86.6,Desktop
+2024-11-26 09:00:00,247,Homepage,10.8,Tablet
+2024-10-30 07:00:00,386,Checkout,199.7,Tablet
+2024-10-27 14:00:00,142,Homepage,102.6,Tablet
+2024-11-04 19:00:00,409,Search,168.5,Mobile
+2024-11-30 05:00:00,248,Search,96.4,Desktop
+2024-12-05 16:00:00,368,Checkout,117.1,Tablet
+2024-04-29 17:00:00,56,Product Page,127.6,Tablet
+2024-07-19 11:00:00,345,Search,91.6,Desktop
+2024-06-10 17:00:00,383,Cart,185.4,Mobile
+2024-07-08 22:00:00,382,Product Page,261.9,Mobile
+2024-10-06 10:00:00,102,Product Page,61.7,Tablet
+2024-06-17 07:00:00,387,Homepage,17.5,Mobile
+2024-07-02 02:00:00,487,Checkout,127.0,Mobile
+2024-04-16 20:00:00,164,Search,99.3,Mobile
+2024-05-31 18:00:00,467,Product Page,151.0,Tablet
+2024-02-10 19:00:00,144,Checkout,247.2,Tablet
+2024-01-14 06:00:00,13,Checkout,233.7,Mobile
+2024-05-11 09:00:00,265,Cart,6.5,Desktop
+2024-03-26 06:00:00,382,Homepage,299.1,Tablet
+2024-09-07 20:00:00,354,Cart,289.9,Mobile
+2024-03-20 16:00:00,94,Checkout,209.3,Tablet
+2024-05-02 02:00:00,223,Search,216.9,Desktop
+2024-09-21 06:00:00,383,Search,94.3,Desktop
+2024-08-02 18:00:00,304,Cart,70.2,Tablet
+2024-11-03 06:00:00,86,Homepage,105.9,Tablet
+2024-11-12 06:00:00,372,Cart,234.5,Desktop
+2024-08-09 08:00:00,44,Homepage,277.0,Desktop
+2024-11-10 11:00:00,289,Cart,237.3,Desktop
+2024-06-10 10:00:00,395,Search,72.6,Tablet
+2024-08-31 01:00:00,134,Checkout,44.6,Tablet
+2024-01-07 08:00:00,427,Product Page,253.4,Desktop
+2024-03-14 13:00:00,145,Cart,199.9,Desktop
+2024-11-20 17:00:00,176,Checkout,162.5,Mobile
+2024-05-19 21:00:00,4,Homepage,140.9,Mobile
+2024-07-22 10:00:00,370,Cart,249.9,Mobile
+2024-06-23 21:00:00,430,Product Page,235.8,Mobile
+2024-03-18 04:00:00,389,Homepage,244.1,Tablet
+2024-04-23 13:00:00,419,Homepage,64.4,Mobile
+2024-10-28 01:00:00,378,Checkout,170.0,Tablet
+2024-06-23 20:00:00,138,Product Page,224.5,Tablet
+2024-12-05 05:00:00,41,Cart,114.8,Tablet
+2024-07-17 08:00:00,4,Search,115.1,Desktop
+2024-01-11 02:00:00,297,Checkout,176.1,Desktop
+2024-11-02 02:00:00,416,Search,186.1,Tablet
+2024-08-12 15:00:00,267,Cart,45.8,Desktop
+2024-06-25 15:00:00,94,Checkout,144.1,Desktop
+2024-01-26 21:00:00,244,Search,236.8,Mobile
+2024-12-18 03:00:00,297,Checkout,228.4,Tablet
+2024-12-27 23:00:00,141,Checkout,251.1,Desktop
+2024-12-24 22:00:00,133,Homepage,199.9,Mobile
+2024-02-08 04:00:00,360,Homepage,92.1,Mobile
+2024-11-07 09:00:00,373,Search,121.7,Tablet
+2024-02-02 15:00:00,57,Search,211.2,Mobile
+2024-11-30 13:00:00,220,Search,114.7,Mobile
+2024-06-05 03:00:00,236,Cart,89.0,Tablet
+2024-09-06 23:00:00,426,Cart,200.1,Tablet
+2024-09-19 03:00:00,247,Search,269.9,Mobile
+2024-01-29 08:00:00,152,Homepage,281.6,Mobile
+2024-10-31 03:00:00,241,Homepage,146.4,Mobile
+2024-07-25 13:00:00,203,Cart,100.8,Desktop
+2024-05-08 23:00:00,314,Checkout,149.5,Mobile
+2024-10-17 13:00:00,250,Homepage,146.6,Desktop
+2024-07-05 02:00:00,162,Search,140.6,Desktop
+2024-06-28 03:00:00,198,Search,69.7,Tablet
+2024-11-02 10:00:00,28,Search,83.3,Mobile
+2024-04-15 07:00:00,135,Product Page,42.7,Mobile
+2024-12-15 04:00:00,29,Checkout,106.2,Tablet
+2024-12-26 12:00:00,23,Cart,74.5,Desktop
+2024-02-10 10:00:00,139,Cart,140.8,Mobile
+2024-07-03 22:00:00,160,Search,104.7,Mobile
+2024-10-28 12:00:00,256,Product Page,6.9,Desktop
+2024-01-04 06:00:00,454,Homepage,160.0,Mobile
+2024-06-01 08:00:00,244,Cart,45.3,Desktop
+2024-01-22 04:00:00,207,Search,299.9,Mobile
+2024-12-01 06:00:00,430,Checkout,40.4,Tablet
+2024-08-30 09:00:00,121,Search,37.9,Mobile
+2024-09-13 00:00:00,127,Checkout,214.7,Mobile
+2024-08-14 09:00:00,33,Product Page,241.9,Mobile
+2024-09-03 06:00:00,51,Product Page,221.7,Tablet
+2024-02-05 02:00:00,437,Product Page,98.1,Mobile
+2024-01-04 06:00:00,371,Product Page,18.3,Desktop
+2024-09-22 07:00:00,402,Checkout,88.0,Tablet
+2024-12-19 03:00:00,105,Search,147.0,Tablet
+2024-09-18 04:00:00,405,Homepage,242.5,Tablet
+2024-12-07 06:00:00,8,Homepage,219.1,Desktop
+2024-08-05 08:00:00,65,Search,62.7,Tablet
+2024-02-13 16:00:00,34,Cart,279.9,Desktop
+2024-12-19 11:00:00,223,Checkout,226.7,Mobile
+2024-12-13 20:00:00,148,Search,133.0,Tablet
+2024-11-06 09:00:00,469,Search,103.9,Tablet
+2024-08-09 00:00:00,277,Search,263.5,Mobile
+2024-07-17 12:00:00,296,Search,177.4,Tablet
+2024-11-11 18:00:00,121,Homepage,41.5,Tablet
+2024-09-16 03:00:00,210,Homepage,31.1,Desktop
+2024-07-29 01:00:00,357,Product Page,225.6,Tablet
+2024-05-11 23:00:00,193,Homepage,159.4,Desktop
+2024-10-11 17:00:00,469,Cart,207.0,Tablet
+2024-06-17 09:00:00,200,Product Page,10.9,Mobile
+2024-04-22 01:00:00,395,Homepage,15.4,Desktop
+2024-05-12 10:00:00,203,Cart,57.5,Tablet
+2024-03-02 06:00:00,159,Search,131.4,Tablet
+2024-09-05 07:00:00,255,Homepage,138.0,Desktop
+2024-07-23 19:00:00,270,Checkout,33.8,Mobile
+2024-04-09 11:00:00,385,Cart,41.3,Mobile
+2024-08-24 05:00:00,15,Cart,8.1,Mobile
+2024-12-17 07:00:00,402,Product Page,207.6,Desktop
+2024-10-25 21:00:00,473,Product Page,136.2,Mobile
+2024-11-28 04:00:00,28,Checkout,7.2,Desktop
+2024-09-13 04:00:00,491,Product Page,12.7,Desktop
+2024-03-20 14:00:00,94,Product Page,182.5,Desktop
+2024-11-16 08:00:00,301,Checkout,142.7,Mobile
+2024-04-10 11:00:00,293,Product Page,144.1,Tablet
+2024-05-03 15:00:00,439,Product Page,45.8,Tablet
+2024-02-23 19:00:00,4,Cart,206.8,Tablet
+2024-03-07 22:00:00,408,Product Page,60.6,Tablet
+2024-02-17 11:00:00,222,Homepage,179.2,Mobile
+2024-07-09 05:00:00,395,Homepage,178.6,Desktop
+2024-07-20 09:00:00,327,Search,250.7,Tablet
+2024-07-31 12:00:00,451,Cart,165.0,Mobile
+2024-03-24 03:00:00,245,Product Page,225.1,Tablet
+2024-06-15 15:00:00,61,Search,293.3,Tablet
+2024-02-22 11:00:00,163,Product Page,196.8,Desktop
+2024-10-28 22:00:00,157,Checkout,78.2,Desktop
+2024-07-21 06:00:00,262,Product Page,288.5,Mobile
+2024-11-25 17:00:00,128,Product Page,225.2,Desktop
+2024-05-30 22:00:00,291,Homepage,32.7,Desktop
+2024-08-17 01:00:00,410,Checkout,167.8,Mobile
+2024-05-11 12:00:00,303,Checkout,30.1,Tablet
+2024-05-02 17:00:00,161,Product Page,261.8,Mobile
+2024-03-24 03:00:00,191,Search,63.4,Tablet
+2024-03-23 04:00:00,442,Homepage,56.6,Mobile
+2024-11-01 11:00:00,289,Homepage,110.1,Desktop
+2024-09-24 22:00:00,488,Cart,6.8,Tablet
+2024-09-03 21:00:00,8,Cart,227.8,Tablet
+2024-12-11 06:00:00,406,Product Page,183.4,Tablet
+2024-10-23 20:00:00,287,Homepage,201.9,Mobile
+2024-02-09 07:00:00,123,Search,18.1,Tablet
+2024-02-27 22:00:00,160,Homepage,186.5,Mobile
+2024-11-12 02:00:00,341,Checkout,17.6,Desktop
+2024-05-12 19:00:00,199,Homepage,138.1,Tablet
+2024-09-23 00:00:00,382,Product Page,292.3,Desktop
+2024-11-23 07:00:00,11,Cart,13.9,Desktop
+2024-03-19 23:00:00,53,Homepage,245.4,Desktop
+2024-03-27 20:00:00,249,Checkout,178.5,Tablet
+2024-02-29 08:00:00,293,Product Page,28.3,Tablet
+2024-07-06 19:00:00,10,Search,66.3,Desktop
+2024-09-01 18:00:00,333,Homepage,280.0,Tablet
+2024-11-11 21:00:00,160,Homepage,199.1,Desktop
+2024-08-01 21:00:00,113,Checkout,201.0,Mobile
+2024-03-05 17:00:00,232,Search,66.1,Desktop
+2024-08-11 17:00:00,324,Search,244.6,Mobile
+2024-08-14 16:00:00,343,Search,56.4,Mobile
+2024-11-03 01:00:00,14,Checkout,54.7,Mobile
+2024-11-08 23:00:00,224,Checkout,291.4,Tablet
+2024-08-24 10:00:00,270,Homepage,195.2,Tablet
+2024-08-16 17:00:00,355,Search,22.3,Tablet
+2024-11-19 01:00:00,66,Homepage,167.1,Tablet
+2024-11-27 05:00:00,407,Search,61.3,Desktop
+2024-07-17 00:00:00,495,Product Page,117.8,Tablet
+2024-04-12 19:00:00,9,Checkout,295.6,Desktop
+2024-08-24 05:00:00,321,Checkout,296.7,Desktop
+2024-10-12 22:00:00,387,Cart,225.6,Desktop
+2024-12-19 17:00:00,141,Product Page,175.7,Mobile
+2024-06-11 14:00:00,302,Product Page,267.8,Mobile
+2024-07-09 06:00:00,89,Search,162.5,Mobile
+2024-03-25 03:00:00,446,Product Page,34.4,Desktop
+2024-01-21 21:00:00,477,Checkout,272.3,Tablet
+2024-02-21 21:00:00,357,Product Page,243.7,Desktop
+2024-06-24 00:00:00,380,Checkout,272.2,Tablet
+2024-03-16 21:00:00,462,Checkout,49.6,Desktop
+2024-04-26 19:00:00,365,Homepage,216.3,Desktop
+2024-12-30 10:00:00,190,Search,122.2,Tablet
+2024-07-07 16:00:00,111,Checkout,57.7,Mobile
+2024-08-27 15:00:00,414,Homepage,267.1,Mobile
+2024-04-26 17:00:00,198,Homepage,283.8,Tablet
+2024-08-23 05:00:00,272,Search,168.1,Desktop
+2024-08-21 08:00:00,67,Search,212.4,Desktop
+2024-09-04 05:00:00,458,Product Page,140.0,Mobile
+2024-01-23 15:00:00,21,Search,262.1,Desktop
+2024-04-15 03:00:00,103,Product Page,139.5,Desktop
+2024-11-29 19:00:00,52,Cart,50.0,Tablet
+2024-02-01 15:00:00,398,Checkout,35.6,Mobile
+2024-06-08 03:00:00,217,Search,131.9,Desktop
+2024-12-29 10:00:00,78,Homepage,76.4,Tablet
+2024-08-03 16:00:00,201,Homepage,248.6,Desktop
+2024-05-04 10:00:00,396,Checkout,100.3,Desktop
+2024-07-17 10:00:00,111,Checkout,178.9,Desktop
+2024-11-10 16:00:00,497,Product Page,52.5,Desktop
+2024-05-23 09:00:00,397,Search,140.6,Mobile
+2024-04-10 19:00:00,53,Search,242.5,Tablet
+2024-08-07 00:00:00,143,Homepage,154.9,Desktop
+2024-10-11 22:00:00,407,Search,24.8,Mobile
+2024-09-04 23:00:00,420,Cart,51.6,Desktop
+2024-10-05 02:00:00,469,Cart,177.4,Desktop
+2024-01-28 02:00:00,101,Product Page,35.8,Tablet
+2024-04-10 08:00:00,179,Homepage,173.3,Tablet
+2024-12-11 01:00:00,450,Cart,49.1,Mobile
+2024-07-06 18:00:00,145,Checkout,102.2,Tablet
+2024-01-31 12:00:00,109,Product Page,101.4,Desktop
+2024-01-16 02:00:00,353,Checkout,237.3,Mobile
+2024-04-20 15:00:00,275,Product Page,230.3,Tablet
+2024-04-19 06:00:00,178,Search,121.7,Tablet
+2024-04-06 16:00:00,376,Product Page,9.5,Mobile
+2024-12-11 21:00:00,466,Product Page,266.0,Tablet
+2024-05-04 13:00:00,124,Search,217.1,Tablet
+2024-08-15 16:00:00,328,Checkout,191.7,Tablet
+2024-10-20 04:00:00,371,Search,120.2,Mobile
+2024-09-05 09:00:00,175,Homepage,164.0,Tablet
+2024-02-18 10:00:00,407,Search,116.8,Mobile
+2024-05-26 00:00:00,142,Checkout,273.7,Desktop
+2024-07-29 02:00:00,354,Homepage,175.8,Desktop
+2024-11-23 02:00:00,143,Search,84.4,Tablet
+2024-04-16 02:00:00,140,Cart,258.0,Mobile
+2024-06-26 21:00:00,21,Search,159.3,Tablet
+2024-02-02 05:00:00,342,Homepage,151.4,Tablet
+2024-02-03 20:00:00,422,Checkout,143.0,Desktop
+2024-12-22 14:00:00,195,Search,174.1,Mobile
+2024-03-26 17:00:00,391,Product Page,11.7,Tablet
+2024-02-12 00:00:00,348,Homepage,224.5,Desktop
+2024-10-01 14:00:00,463,Checkout,265.3,Desktop
+2024-09-22 04:00:00,474,Homepage,6.7,Desktop
+2024-06-25 13:00:00,187,Homepage,252.8,Desktop
+2024-07-15 10:00:00,456,Product Page,208.4,Tablet
+2024-11-14 14:00:00,447,Product Page,107.5,Tablet
+2024-02-24 06:00:00,437,Product Page,67.6,Desktop
+2024-10-15 11:00:00,181,Search,297.8,Tablet
+2024-11-11 16:00:00,264,Cart,227.4,Mobile
+2024-08-11 02:00:00,91,Checkout,41.4,Mobile
+2024-10-10 15:00:00,241,Homepage,153.8,Tablet
+2024-11-28 02:00:00,475,Product Page,132.6,Tablet
+2024-08-08 00:00:00,277,Search,36.6,Tablet
+2024-10-04 01:00:00,308,Search,196.2,Desktop
+2024-06-20 16:00:00,37,Search,69.2,Desktop
+2024-01-01 22:00:00,179,Checkout,184.0,Desktop
+2024-06-04 00:00:00,376,Cart,37.0,Mobile
+2024-06-11 01:00:00,22,Cart,7.6,Mobile
+2024-03-19 19:00:00,351,Search,123.1,Mobile
+2024-09-07 02:00:00,189,Search,31.9,Mobile
+2024-10-24 15:00:00,106,Product Page,72.0,Desktop
+2024-11-02 05:00:00,276,Product Page,148.3,Tablet
+2024-08-27 05:00:00,386,Search,87.3,Mobile
+2024-12-26 18:00:00,111,Homepage,254.5,Desktop
+2024-06-05 02:00:00,113,Homepage,142.9,Desktop
+2024-06-27 23:00:00,211,Checkout,216.6,Desktop
+2024-07-21 00:00:00,177,Search,169.9,Desktop
+2024-07-05 13:00:00,144,Search,71.8,Desktop
+2024-09-30 06:00:00,295,Homepage,298.3,Tablet
+2024-04-18 10:00:00,422,Cart,211.9,Desktop
+2024-01-07 23:00:00,470,Cart,68.3,Tablet
+2024-04-28 20:00:00,232,Cart,216.8,Mobile
+2024-05-28 19:00:00,370,Search,62.2,Tablet
+2024-05-24 18:00:00,256,Checkout,193.1,Tablet
+2024-01-30 17:00:00,145,Homepage,300.0,Desktop
+2024-03-29 02:00:00,346,Homepage,10.6,Tablet
+2024-05-18 16:00:00,372,Product Page,121.4,Desktop
+2024-07-20 08:00:00,35,Search,242.4,Desktop
+2024-11-14 06:00:00,448,Checkout,69.2,Mobile
+2024-01-11 06:00:00,228,Search,135.0,Desktop
+2024-01-21 13:00:00,436,Cart,173.0,Mobile
+2024-01-08 15:00:00,424,Product Page,9.7,Mobile
+2024-03-02 19:00:00,205,Product Page,157.4,Desktop
+2024-07-13 19:00:00,273,Cart,176.0,Tablet
+2024-10-05 04:00:00,167,Cart,73.9,Desktop
+2024-06-14 17:00:00,342,Cart,217.7,Tablet
+2024-05-11 08:00:00,206,Homepage,186.5,Mobile
+2024-10-10 15:00:00,451,Homepage,28.0,Desktop
+2024-02-03 13:00:00,7,Checkout,202.8,Mobile
+2024-04-30 02:00:00,383,Search,150.2,Tablet
+2024-07-09 11:00:00,108,Search,11.0,Mobile
+2024-07-01 00:00:00,384,Search,240.9,Mobile
+2024-12-14 05:00:00,386,Checkout,139.4,Mobile
+2024-08-24 04:00:00,485,Homepage,246.3,Mobile
+2024-05-14 17:00:00,189,Search,238.8,Mobile
+2024-08-16 17:00:00,30,Cart,148.7,Tablet
+2024-07-07 12:00:00,3,Search,267.3,Desktop
+2024-04-18 17:00:00,11,Homepage,176.8,Desktop
+2024-08-30 15:00:00,145,Homepage,208.5,Desktop
+2024-09-09 20:00:00,193,Checkout,292.8,Desktop
+2024-03-03 05:00:00,257,Checkout,283.8,Tablet
+2024-03-13 10:00:00,248,Homepage,69.2,Tablet
+2024-06-08 22:00:00,75,Search,72.2,Tablet
+2024-08-14 11:00:00,350,Checkout,291.1,Tablet
+2024-07-30 20:00:00,10,Search,149.6,Mobile
+2024-09-06 10:00:00,299,Homepage,139.2,Tablet
+2024-04-02 04:00:00,217,Checkout,6.6,Tablet
+2024-05-15 09:00:00,498,Homepage,180.2,Desktop
+2024-09-03 12:00:00,130,Product Page,83.5,Tablet
+2024-10-13 00:00:00,5,Search,7.3,Mobile
+2024-06-21 06:00:00,300,Search,73.8,Tablet
+2024-12-28 07:00:00,123,Checkout,53.2,Mobile
+2024-03-05 04:00:00,103,Product Page,282.7,Mobile
+2024-01-21 22:00:00,490,Homepage,218.1,Mobile
+2024-07-19 13:00:00,60,Search,61.8,Tablet
+2024-02-19 16:00:00,371,Checkout,28.2,Tablet
+2024-10-27 11:00:00,131,Search,189.8,Desktop
+2024-03-03 00:00:00,449,Product Page,71.2,Tablet
+2024-12-29 19:00:00,293,Checkout,263.2,Desktop
+2024-02-25 06:00:00,24,Product Page,251.1,Mobile
+2024-01-21 23:00:00,180,Search,177.6,Desktop
+2024-11-23 11:00:00,105,Product Page,278.2,Desktop
+2024-04-30 20:00:00,42,Search,48.0,Tablet
+2024-12-17 02:00:00,272,Homepage,92.0,Desktop
+2024-07-07 19:00:00,466,Checkout,198.3,Tablet
+2024-12-13 13:00:00,302,Search,77.2,Desktop
+2024-10-22 07:00:00,76,Cart,287.2,Tablet
+2024-07-08 19:00:00,103,Homepage,287.2,Mobile
+2024-12-13 03:00:00,244,Checkout,133.4,Mobile
+2024-02-19 17:00:00,374,Search,79.3,Desktop
+2024-02-02 05:00:00,119,Cart,162.5,Mobile
+2024-01-03 17:00:00,328,Product Page,266.7,Desktop
+2024-10-13 07:00:00,390,Cart,17.1,Mobile
+2024-02-08 08:00:00,408,Homepage,45.5,Tablet
+2024-01-28 13:00:00,432,Homepage,103.9,Desktop
+2024-03-18 00:00:00,222,Checkout,207.3,Mobile
+2024-05-22 10:00:00,182,Search,61.8,Desktop
+2024-03-08 04:00:00,362,Product Page,273.0,Desktop
+2024-01-05 16:00:00,73,Homepage,254.5,Mobile
+2024-03-04 15:00:00,258,Cart,21.2,Desktop
+2024-10-24 20:00:00,224,Search,113.0,Desktop
+2024-11-11 02:00:00,462,Search,238.6,Tablet
+2024-02-12 17:00:00,436,Product Page,137.4,Mobile
+2024-06-06 22:00:00,28,Product Page,204.7,Tablet
+2024-09-10 08:00:00,458,Cart,274.4,Mobile
+2024-01-28 01:00:00,489,Homepage,36.8,Tablet
+2024-09-02 23:00:00,274,Homepage,161.2,Tablet
+2024-08-08 13:00:00,239,Cart,233.7,Mobile
+2024-01-08 20:00:00,54,Checkout,174.0,Mobile
+2024-06-11 00:00:00,319,Homepage,207.3,Desktop
+2024-07-25 14:00:00,228,Checkout,155.0,Tablet
+2024-09-09 16:00:00,39,Product Page,19.2,Tablet
+2024-05-09 21:00:00,276,Homepage,159.0,Tablet
+2024-03-09 02:00:00,189,Checkout,101.0,Mobile
+2024-11-01 05:00:00,255,Checkout,84.5,Mobile
+2024-07-05 03:00:00,19,Cart,94.6,Desktop
+2024-12-08 12:00:00,285,Cart,268.2,Tablet
+2024-02-27 10:00:00,419,Search,241.4,Desktop
+2024-09-15 17:00:00,105,Checkout,96.3,Desktop
+2024-11-08 12:00:00,464,Homepage,160.9,Desktop
+2024-07-03 14:00:00,37,Cart,36.3,Tablet
+2024-12-03 13:00:00,224,Product Page,11.8,Desktop
+2024-01-24 07:00:00,214,Search,33.2,Mobile
+2024-05-05 02:00:00,11,Product Page,115.5,Tablet
+2024-03-13 01:00:00,132,Product Page,170.3,Desktop
+2024-09-09 09:00:00,413,Homepage,81.8,Tablet
+2024-05-17 19:00:00,138,Homepage,106.4,Desktop
+2024-11-22 20:00:00,32,Search,7.8,Desktop
+2024-11-18 22:00:00,151,Product Page,143.3,Tablet
+2024-02-26 21:00:00,22,Cart,100.3,Tablet
+2024-03-23 18:00:00,81,Homepage,190.2,Mobile
+2024-03-05 02:00:00,19,Cart,182.8,Tablet
+2024-03-10 02:00:00,175,Search,129.9,Tablet
+2024-10-12 12:00:00,213,Search,134.8,Desktop
+2024-07-08 06:00:00,435,Homepage,124.1,Desktop
+2024-03-24 00:00:00,438,Homepage,293.8,Tablet
+2024-04-15 16:00:00,345,Product Page,175.6,Desktop
+2024-08-14 17:00:00,125,Product Page,103.8,Desktop
+2024-03-10 18:00:00,16,Search,32.6,Desktop
+2024-07-09 22:00:00,500,Cart,54.8,Mobile
+2024-06-03 11:00:00,261,Cart,181.1,Tablet
+2024-03-07 16:00:00,483,Cart,236.8,Tablet
+2024-03-09 17:00:00,61,Homepage,31.9,Desktop
+2024-09-04 09:00:00,200,Checkout,15.8,Desktop
+2024-06-24 09:00:00,350,Checkout,48.2,Desktop
+2024-11-07 07:00:00,138,Product Page,118.0,Tablet
+2024-03-26 16:00:00,273,Product Page,53.8,Desktop
+2024-06-10 04:00:00,31,Product Page,237.4,Tablet
+2024-12-11 07:00:00,443,Search,14.1,Tablet
+2024-12-20 23:00:00,86,Cart,64.1,Tablet
+2024-05-18 00:00:00,341,Cart,74.8,Tablet
+2024-11-12 21:00:00,327,Product Page,55.8,Tablet
+2024-12-09 03:00:00,234,Cart,221.3,Tablet
+2024-05-27 13:00:00,88,Homepage,145.3,Mobile
+2024-06-01 23:00:00,427,Checkout,107.6,Tablet
+2024-10-24 07:00:00,371,Product Page,25.5,Desktop
+2024-08-09 14:00:00,130,Checkout,252.8,Desktop
+2024-01-19 08:00:00,313,Homepage,204.9,Desktop
+2024-12-14 20:00:00,396,Homepage,15.9,Desktop
+2024-02-21 12:00:00,440,Homepage,172.0,Desktop
+2024-06-28 03:00:00,500,Cart,220.7,Desktop
+2024-01-17 10:00:00,233,Homepage,153.1,Desktop
+2024-04-17 16:00:00,498,Search,299.1,Desktop
+2024-03-21 05:00:00,488,Cart,290.1,Desktop
+2024-01-16 00:00:00,379,Homepage,59.7,Mobile
+2024-03-31 08:00:00,88,Cart,156.4,Desktop
+2024-04-04 00:00:00,308,Checkout,88.4,Tablet
+2024-05-31 21:00:00,43,Cart,60.1,Desktop
+2024-09-25 06:00:00,481,Homepage,75.6,Mobile
+2024-12-18 13:00:00,191,Product Page,73.8,Tablet
+2024-10-30 20:00:00,475,Checkout,254.5,Desktop
+2024-01-13 16:00:00,79,Product Page,131.7,Desktop
+2024-12-27 22:00:00,292,Search,50.2,Desktop
+2024-09-19 00:00:00,456,Checkout,20.6,Mobile
+2024-01-31 02:00:00,294,Checkout,196.8,Desktop
+2024-04-11 21:00:00,493,Homepage,45.4,Desktop
+2024-10-20 21:00:00,158,Checkout,193.9,Mobile
+2024-08-09 05:00:00,205,Product Page,122.0,Desktop
+2024-08-09 17:00:00,409,Cart,212.9,Mobile
+2024-09-12 05:00:00,170,Product Page,147.4,Desktop
+2024-07-22 00:00:00,268,Cart,198.2,Mobile
+2024-03-18 11:00:00,114,Homepage,157.0,Desktop
+2024-02-12 20:00:00,178,Homepage,50.3,Desktop
+2024-04-28 07:00:00,75,Checkout,279.0,Tablet
+2024-02-27 12:00:00,275,Search,294.1,Mobile
+2024-10-12 21:00:00,24,Cart,218.7,Desktop
+2024-04-26 21:00:00,377,Search,66.6,Mobile
+2024-12-27 17:00:00,268,Checkout,201.3,Desktop
+2024-09-06 18:00:00,184,Checkout,297.3,Tablet
+2024-01-21 08:00:00,246,Product Page,82.6,Tablet
+2024-01-20 01:00:00,237,Search,298.8,Mobile
+2024-11-03 13:00:00,433,Search,152.8,Desktop
+2024-08-05 21:00:00,270,Search,17.6,Tablet
+2024-03-19 23:00:00,274,Cart,55.3,Desktop
+2024-03-22 08:00:00,65,Homepage,143.0,Tablet
+2024-12-26 10:00:00,132,Search,23.5,Mobile
+2024-12-22 22:00:00,180,Homepage,221.9,Tablet
+2024-12-21 18:00:00,139,Homepage,50.5,Mobile
+2024-12-04 22:00:00,334,Checkout,107.0,Mobile
+2024-02-03 02:00:00,122,Cart,111.6,Mobile
+2024-11-27 01:00:00,379,Search,216.1,Mobile
+2024-10-08 11:00:00,82,Homepage,203.2,Mobile
+2024-07-16 10:00:00,129,Product Page,292.8,Tablet
+2024-05-24 09:00:00,251,Checkout,196.5,Tablet
+2024-11-17 01:00:00,211,Homepage,164.9,Desktop
+2024-05-24 19:00:00,153,Homepage,155.7,Tablet
+2024-06-20 17:00:00,333,Search,288.1,Desktop
+2024-05-16 08:00:00,491,Cart,95.1,Desktop
+2024-06-15 23:00:00,386,Checkout,273.5,Tablet
+2024-12-26 06:00:00,283,Product Page,57.0,Desktop
+2024-08-15 03:00:00,270,Product Page,210.0,Desktop
+2024-05-17 16:00:00,29,Checkout,121.8,Desktop
+2024-06-27 19:00:00,365,Checkout,148.0,Desktop
+2024-07-07 10:00:00,229,Cart,77.2,Tablet
+2024-08-26 23:00:00,428,Search,240.1,Mobile
+2024-08-30 01:00:00,313,Cart,203.7,Desktop
+2024-01-14 03:00:00,163,Checkout,30.1,Tablet
+2024-05-13 17:00:00,183,Search,235.6,Tablet
+2024-12-28 11:00:00,106,Cart,291.3,Mobile
+2024-10-16 12:00:00,480,Homepage,237.4,Desktop
+2024-10-19 01:00:00,222,Cart,226.2,Mobile
+2024-07-28 12:00:00,179,Search,74.7,Tablet
+2024-05-12 02:00:00,258,Search,291.7,Mobile
+2024-06-21 12:00:00,202,Product Page,269.1,Tablet
+2024-01-03 14:00:00,490,Search,212.4,Tablet
+2024-09-06 09:00:00,20,Homepage,86.6,Tablet
+2024-01-08 02:00:00,103,Search,113.2,Tablet
+2024-09-17 23:00:00,410,Homepage,128.7,Desktop
+2024-06-02 22:00:00,1,Cart,198.1,Mobile
+2024-01-05 12:00:00,83,Product Page,97.9,Tablet
+2024-04-11 11:00:00,93,Product Page,114.1,Mobile
+2024-10-25 18:00:00,372,Search,284.3,Desktop
+2024-11-28 23:00:00,369,Homepage,68.2,Desktop
+2024-03-28 14:00:00,105,Checkout,188.2,Mobile
+2024-10-14 15:00:00,76,Homepage,191.4,Mobile
+2024-07-27 14:00:00,197,Product Page,31.1,Desktop
+2024-03-21 15:00:00,150,Homepage,181.4,Tablet
+2024-02-19 18:00:00,229,Cart,75.6,Desktop
+2024-09-05 00:00:00,90,Product Page,87.2,Desktop
+2024-01-13 03:00:00,300,Checkout,22.5,Desktop
+2024-12-24 11:00:00,124,Checkout,220.7,Tablet
+2024-11-09 17:00:00,321,Homepage,232.5,Tablet
+2024-07-18 06:00:00,114,Product Page,213.4,Mobile
+2024-10-09 23:00:00,494,Search,246.9,Tablet
+2024-11-12 04:00:00,398,Homepage,84.1,Mobile
+2024-01-27 17:00:00,221,Cart,232.4,Tablet
+2024-03-14 16:00:00,263,Checkout,229.0,Desktop
+2024-02-01 20:00:00,198,Cart,266.7,Desktop
+2024-02-14 07:00:00,301,Cart,37.1,Tablet
+2024-10-14 23:00:00,33,Cart,57.1,Desktop
+2024-10-12 19:00:00,316,Cart,81.5,Mobile
+2024-07-09 15:00:00,158,Search,242.8,Desktop
+2024-10-14 01:00:00,420,Search,90.6,Mobile
+2024-07-17 08:00:00,213,Product Page,177.5,Desktop
+2024-04-12 10:00:00,276,Search,206.3,Tablet
+2024-09-13 14:00:00,360,Search,176.5,Mobile
+2024-10-16 06:00:00,228,Cart,261.8,Tablet
+2024-07-04 09:00:00,43,Homepage,31.1,Desktop
+2024-07-22 07:00:00,326,Product Page,243.8,Tablet
+2024-09-07 09:00:00,244,Homepage,163.0,Mobile
+2024-05-15 18:00:00,55,Homepage,116.3,Tablet
+2024-08-13 12:00:00,369,Product Page,166.8,Tablet
+2024-09-21 03:00:00,154,Checkout,82.3,Mobile
+2024-06-28 22:00:00,48,Checkout,283.3,Desktop
+2024-05-25 21:00:00,475,Cart,207.0,Mobile
+2024-03-12 06:00:00,78,Checkout,121.4,Desktop
+2024-11-13 04:00:00,233,Homepage,94.2,Desktop
+2024-04-22 02:00:00,16,Checkout,69.1,Mobile
+2024-11-07 12:00:00,42,Product Page,50.2,Mobile
+2024-10-25 05:00:00,452,Cart,225.5,Desktop
+2024-07-06 08:00:00,366,Checkout,152.2,Tablet
+2024-06-17 07:00:00,289,Search,122.6,Tablet
+2024-12-02 17:00:00,30,Homepage,269.2,Desktop
+2024-09-06 21:00:00,491,Checkout,42.3,Mobile
+2024-05-15 22:00:00,115,Product Page,159.7,Tablet
+2024-08-15 10:00:00,323,Homepage,187.0,Tablet
+2024-01-03 07:00:00,108,Homepage,243.1,Mobile
+2024-02-07 03:00:00,200,Checkout,164.2,Mobile
+2024-01-11 10:00:00,73,Search,298.1,Mobile
+2024-02-29 07:00:00,241,Checkout,221.5,Desktop
+2024-03-25 15:00:00,316,Homepage,14.1,Mobile
+2024-12-22 07:00:00,455,Checkout,217.2,Desktop
+2024-05-30 01:00:00,163,Search,249.3,Mobile
+2024-07-16 11:00:00,85,Homepage,158.4,Mobile
+2024-09-09 19:00:00,481,Homepage,243.2,Desktop
+2024-11-30 19:00:00,291,Search,112.1,Mobile
+2024-10-18 17:00:00,216,Product Page,237.6,Mobile
+2024-01-05 06:00:00,255,Checkout,150.7,Desktop
+2024-05-09 13:00:00,245,Product Page,155.4,Tablet
+2024-12-23 19:00:00,103,Cart,138.5,Tablet
+2024-03-14 14:00:00,386,Homepage,89.1,Desktop
+2024-07-04 23:00:00,211,Homepage,220.3,Mobile
+2024-08-02 14:00:00,192,Checkout,285.4,Tablet
+2024-10-25 18:00:00,390,Cart,285.4,Mobile
+2024-10-03 15:00:00,153,Checkout,135.3,Desktop
+2024-04-23 07:00:00,50,Search,277.4,Desktop
+2024-11-11 23:00:00,403,Cart,121.1,Mobile
+2024-06-11 15:00:00,448,Cart,119.0,Desktop
+2024-02-28 19:00:00,169,Checkout,194.3,Mobile
+2024-11-06 16:00:00,135,Homepage,156.4,Mobile
+2024-08-05 08:00:00,162,Checkout,129.7,Mobile
+2024-03-21 17:00:00,240,Checkout,192.6,Tablet
+2024-01-29 14:00:00,130,Checkout,199.9,Mobile
+2024-11-16 10:00:00,230,Checkout,69.0,Desktop
+2024-08-20 19:00:00,268,Homepage,59.9,Tablet
+2024-09-27 10:00:00,8,Checkout,31.0,Mobile
+2024-04-11 04:00:00,387,Cart,227.4,Desktop
+2024-11-10 15:00:00,32,Search,64.6,Tablet
+2024-11-28 18:00:00,433,Product Page,71.5,Desktop
+2024-08-14 07:00:00,402,Homepage,233.9,Mobile
+2024-10-11 16:00:00,318,Search,235.1,Desktop
+2024-04-15 09:00:00,72,Product Page,287.7,Desktop
+2024-04-29 10:00:00,362,Cart,36.1,Tablet
+2024-10-24 11:00:00,190,Cart,94.9,Mobile
+2024-04-01 08:00:00,496,Cart,76.9,Tablet
+2024-02-19 13:00:00,492,Checkout,146.4,Tablet
+2024-02-01 14:00:00,462,Cart,71.0,Tablet
+2024-01-06 05:00:00,85,Checkout,207.3,Mobile
+2024-02-22 19:00:00,500,Product Page,76.1,Tablet
+2024-09-26 15:00:00,205,Search,234.1,Mobile
+2024-07-23 08:00:00,248,Checkout,150.2,Tablet
+2024-09-11 01:00:00,481,Search,231.1,Mobile
+2024-08-17 05:00:00,489,Product Page,19.5,Mobile
+2024-06-06 06:00:00,84,Checkout,246.8,Tablet
+2024-04-02 10:00:00,344,Homepage,56.2,Tablet
+2024-05-12 10:00:00,264,Checkout,210.0,Mobile
+2024-06-10 20:00:00,213,Homepage,70.4,Mobile
+2024-02-27 05:00:00,413,Homepage,161.6,Tablet
+2024-04-05 16:00:00,239,Homepage,162.9,Tablet
+2024-10-22 23:00:00,36,Search,133.0,Desktop
+2024-03-01 10:00:00,291,Product Page,136.6,Mobile
+2024-08-17 05:00:00,144,Homepage,90.5,Desktop
+2024-06-03 14:00:00,262,Homepage,222.4,Tablet
+2024-03-02 03:00:00,433,Search,127.1,Tablet
+2024-11-24 11:00:00,420,Product Page,139.8,Tablet
+2024-01-28 08:00:00,417,Checkout,280.4,Tablet
+2024-12-06 14:00:00,53,Search,201.5,Tablet
+2024-11-29 09:00:00,361,Checkout,173.0,Desktop
+2024-10-10 23:00:00,76,Homepage,131.7,Mobile
+2024-03-20 18:00:00,60,Cart,226.8,Mobile
+2024-12-16 06:00:00,438,Search,136.1,Mobile
+2024-03-26 17:00:00,184,Homepage,128.4,Desktop
+2024-01-15 10:00:00,320,Product Page,226.7,Tablet
+2024-08-21 04:00:00,316,Checkout,249.5,Mobile
+2024-09-20 23:00:00,244,Homepage,87.9,Desktop
+2024-12-30 19:00:00,55,Search,288.1,Tablet
+2024-11-23 06:00:00,113,Checkout,299.5,Desktop
+2024-03-01 01:00:00,392,Search,76.0,Desktop
+2024-01-24 16:00:00,18,Checkout,107.6,Desktop
+2024-05-31 19:00:00,232,Homepage,281.2,Desktop
+2024-12-04 18:00:00,299,Product Page,119.1,Mobile
+2024-03-28 20:00:00,355,Homepage,177.7,Mobile
+2024-10-28 10:00:00,398,Homepage,254.0,Tablet
+2024-04-12 08:00:00,99,Search,118.1,Desktop
+2024-06-08 00:00:00,83,Product Page,173.9,Tablet
+2024-01-07 13:00:00,432,Checkout,81.5,Tablet
+2024-08-22 02:00:00,444,Homepage,115.4,Mobile
+2024-04-18 20:00:00,49,Product Page,276.5,Desktop
+2024-10-27 09:00:00,370,Product Page,127.5,Mobile
+2024-11-15 03:00:00,155,Search,160.0,Tablet
+2024-11-06 11:00:00,32,Checkout,267.4,Desktop
+2024-03-21 17:00:00,270,Checkout,73.9,Mobile
+2024-07-09 16:00:00,338,Homepage,152.3,Mobile
+2024-03-22 23:00:00,304,Homepage,79.7,Desktop
+2024-10-02 08:00:00,394,Checkout,5.8,Desktop
+2024-08-22 23:00:00,216,Cart,264.1,Desktop
+2024-12-10 20:00:00,440,Cart,284.8,Desktop
+2024-06-21 20:00:00,493,Cart,132.0,Mobile
+2024-05-17 19:00:00,65,Cart,191.4,Mobile
+2024-01-24 19:00:00,239,Cart,269.6,Desktop
+2024-05-11 13:00:00,469,Search,147.7,Mobile
+2024-01-21 06:00:00,370,Checkout,280.6,Desktop
+2024-02-18 07:00:00,314,Homepage,125.7,Tablet
+2024-02-22 05:00:00,471,Product Page,30.4,Desktop
+2024-01-27 23:00:00,61,Cart,127.1,Tablet
+2024-06-14 17:00:00,215,Checkout,167.0,Tablet
+2024-04-11 09:00:00,9,Checkout,71.2,Tablet
+2024-03-27 11:00:00,213,Checkout,251.0,Desktop
+2024-04-24 19:00:00,150,Homepage,128.4,Tablet
+2024-07-04 12:00:00,339,Cart,163.5,Desktop
+2024-09-27 10:00:00,387,Search,238.4,Tablet
+2024-08-31 17:00:00,390,Cart,14.0,Desktop
+2024-07-19 23:00:00,446,Cart,44.9,Desktop
+2024-11-26 16:00:00,430,Product Page,68.9,Tablet
+2024-08-10 20:00:00,306,Checkout,53.2,Desktop
+2024-08-07 01:00:00,281,Search,39.2,Desktop
+2024-08-16 22:00:00,352,Product Page,5.7,Desktop
+2024-10-08 09:00:00,216,Checkout,5.2,Tablet
+2024-12-29 12:00:00,36,Cart,237.5,Desktop
+2024-07-10 11:00:00,425,Cart,24.1,Tablet
+2024-02-02 19:00:00,34,Search,247.0,Mobile
+2024-04-26 20:00:00,262,Checkout,84.7,Tablet
+2024-05-10 17:00:00,294,Cart,280.6,Desktop
+2024-02-09 03:00:00,172,Homepage,70.3,Desktop
+2024-12-22 22:00:00,231,Cart,95.7,Desktop
+2024-07-31 02:00:00,410,Homepage,72.8,Mobile
+2024-07-18 11:00:00,397,Cart,103.9,Mobile
+2024-09-08 10:00:00,149,Cart,292.0,Mobile
+2024-08-13 18:00:00,330,Product Page,34.7,Mobile
+2024-12-02 17:00:00,454,Cart,157.0,Mobile
+2024-06-08 01:00:00,408,Cart,60.5,Tablet
+2024-01-22 05:00:00,349,Search,11.3,Desktop
+2024-08-30 23:00:00,133,Homepage,206.2,Desktop
+2024-09-22 21:00:00,352,Search,266.2,Desktop
+2024-02-16 17:00:00,286,Checkout,17.6,Desktop
+2024-07-07 16:00:00,304,Cart,104.1,Tablet
+2024-11-08 05:00:00,491,Checkout,27.9,Tablet
+2024-08-21 15:00:00,405,Cart,24.7,Mobile
+2024-01-07 06:00:00,88,Checkout,165.2,Tablet
+2024-04-08 04:00:00,290,Search,41.5,Desktop
+2024-12-18 22:00:00,311,Search,185.6,Mobile
+2024-08-24 09:00:00,343,Cart,204.7,Mobile
+2024-11-11 16:00:00,104,Product Page,206.0,Desktop
+2024-11-19 13:00:00,10,Cart,257.7,Mobile
+2024-04-13 23:00:00,380,Search,140.1,Desktop
+2024-05-07 14:00:00,369,Checkout,79.8,Tablet
+2024-06-18 10:00:00,379,Cart,208.8,Tablet
+2024-01-25 22:00:00,263,Search,15.7,Tablet
+2024-12-06 00:00:00,21,Checkout,84.6,Desktop
+2024-11-05 15:00:00,51,Homepage,188.6,Mobile
+2024-07-23 15:00:00,137,Homepage,172.0,Tablet
+2024-01-01 17:00:00,201,Product Page,154.6,Mobile
+2024-01-22 16:00:00,311,Homepage,6.6,Mobile
+2024-04-22 01:00:00,338,Cart,278.1,Tablet
+2024-12-18 01:00:00,308,Checkout,259.0,Mobile
+2024-03-10 13:00:00,472,Checkout,117.8,Mobile
+2024-09-08 07:00:00,477,Cart,9.6,Desktop
+2024-09-21 04:00:00,316,Checkout,244.6,Desktop
+2024-09-22 00:00:00,360,Checkout,132.5,Desktop
+2024-12-23 14:00:00,50,Search,270.9,Tablet
+2024-11-26 01:00:00,81,Checkout,152.4,Tablet
+2024-09-24 19:00:00,495,Checkout,212.4,Desktop
+2024-05-21 23:00:00,404,Product Page,218.0,Desktop
+2024-02-08 20:00:00,53,Checkout,214.0,Desktop
+2024-10-06 20:00:00,60,Cart,215.6,Tablet
+2024-04-22 04:00:00,232,Homepage,233.6,Mobile
+2024-11-04 12:00:00,189,Checkout,53.0,Mobile
+2024-05-17 15:00:00,127,Checkout,97.3,Mobile
+2024-12-28 15:00:00,345,Cart,163.6,Desktop
+2024-12-09 22:00:00,488,Search,101.6,Desktop
+2024-07-07 04:00:00,6,Homepage,220.7,Tablet
+2024-10-09 17:00:00,185,Search,47.6,Mobile
+2024-07-09 18:00:00,430,Cart,195.4,Mobile
+2024-12-15 16:00:00,116,Checkout,97.6,Tablet
+2024-12-01 09:00:00,2,Product Page,260.4,Desktop
+2024-11-23 21:00:00,394,Homepage,203.7,Desktop
+2024-07-18 10:00:00,334,Cart,296.6,Tablet
+2024-03-23 07:00:00,171,Homepage,119.3,Desktop
+2024-09-11 18:00:00,64,Homepage,241.5,Tablet
+2024-12-25 02:00:00,351,Checkout,184.0,Mobile
+2024-08-30 20:00:00,247,Homepage,144.4,Desktop
+2024-11-19 17:00:00,394,Homepage,47.8,Mobile
+2024-01-10 07:00:00,364,Product Page,92.9,Mobile
+2024-06-24 21:00:00,363,Cart,158.7,Tablet
+2024-12-04 00:00:00,477,Checkout,232.3,Tablet
+2024-01-17 09:00:00,303,Product Page,275.6,Mobile
+2024-01-02 18:00:00,434,Checkout,45.8,Mobile
+2024-12-13 16:00:00,397,Checkout,286.2,Desktop
+2024-11-04 19:00:00,47,Search,291.1,Tablet
+2024-04-26 19:00:00,233,Search,13.2,Tablet
+2024-02-24 10:00:00,223,Cart,91.2,Desktop
+2024-10-11 11:00:00,371,Search,295.5,Desktop
+2024-08-24 18:00:00,195,Search,172.6,Tablet
+2024-09-11 23:00:00,174,Product Page,146.5,Tablet
+2024-06-26 05:00:00,362,Cart,134.6,Mobile
+2024-05-10 03:00:00,310,Product Page,142.0,Mobile
+2024-05-16 09:00:00,148,Product Page,89.6,Mobile
+2024-09-14 15:00:00,157,Product Page,151.7,Mobile
+2024-02-01 01:00:00,357,Homepage,20.6,Mobile
+2024-05-20 02:00:00,176,Homepage,272.0,Mobile
+2024-02-29 17:00:00,451,Homepage,196.9,Tablet
+2024-10-24 18:00:00,140,Homepage,221.6,Tablet
+2024-03-12 05:00:00,144,Product Page,132.0,Mobile
+2024-05-28 02:00:00,444,Checkout,87.5,Mobile
+2024-07-21 14:00:00,425,Cart,250.7,Desktop
+2024-11-13 06:00:00,186,Homepage,221.4,Tablet
+2024-07-26 00:00:00,336,Cart,84.6,Desktop
+2024-04-28 13:00:00,176,Product Page,214.3,Desktop
+2024-01-15 23:00:00,259,Cart,93.7,Tablet
+2024-10-21 14:00:00,106,Homepage,165.5,Desktop
+2024-09-22 03:00:00,455,Cart,183.5,Mobile
+2024-12-19 07:00:00,306,Cart,249.6,Tablet
+2024-12-16 09:00:00,323,Checkout,19.0,Mobile
+2024-01-23 07:00:00,230,Checkout,239.9,Tablet
+2024-05-04 05:00:00,384,Checkout,258.0,Tablet
+2024-06-27 12:00:00,95,Search,226.5,Desktop
+2024-03-22 06:00:00,423,Product Page,161.9,Mobile
+2024-08-02 09:00:00,415,Search,7.7,Mobile
+2024-07-05 06:00:00,279,Cart,148.9,Desktop
+2024-05-01 05:00:00,282,Homepage,58.9,Desktop
+2024-09-12 08:00:00,403,Homepage,110.0,Mobile
+2024-12-19 03:00:00,30,Homepage,213.9,Mobile
+2024-01-01 05:00:00,46,Cart,89.8,Tablet
+2024-07-30 16:00:00,420,Search,80.9,Desktop
+2024-02-17 00:00:00,300,Product Page,54.0,Mobile
+2024-10-02 12:00:00,29,Homepage,176.9,Desktop
+2024-11-24 11:00:00,219,Homepage,83.1,Desktop
+2024-05-14 21:00:00,268,Product Page,251.3,Desktop
+2024-12-03 19:00:00,202,Search,112.7,Desktop
+2024-04-28 19:00:00,8,Checkout,88.2,Tablet
+2024-09-13 06:00:00,193,Search,185.1,Tablet
+2024-09-07 05:00:00,125,Cart,32.2,Desktop
+2024-05-06 16:00:00,455,Checkout,271.2,Tablet
+2024-11-17 12:00:00,354,Search,55.9,Mobile
+2024-09-17 06:00:00,500,Checkout,184.5,Mobile
+2024-02-12 18:00:00,67,Homepage,196.5,Desktop
+2024-11-22 17:00:00,357,Homepage,266.9,Tablet
+2024-03-15 09:00:00,4,Checkout,232.4,Tablet
+2024-01-15 02:00:00,308,Checkout,216.1,Desktop
+2024-03-29 02:00:00,207,Product Page,38.9,Mobile
+2024-05-21 06:00:00,46,Checkout,220.8,Mobile
+2024-08-19 07:00:00,244,Search,27.5,Tablet
+2024-08-16 16:00:00,305,Search,205.2,Desktop
+2024-12-17 20:00:00,390,Search,166.0,Desktop
+2024-09-25 23:00:00,336,Checkout,12.3,Tablet
+2024-10-28 19:00:00,134,Search,86.0,Tablet
+2024-02-22 17:00:00,313,Product Page,209.3,Mobile
+2024-12-14 04:00:00,391,Product Page,59.0,Mobile
+2024-05-19 23:00:00,169,Search,178.8,Tablet
+2024-08-20 13:00:00,72,Product Page,29.2,Mobile
+2024-09-19 17:00:00,133,Checkout,165.0,Mobile
+2024-05-30 02:00:00,425,Cart,48.8,Tablet
+2024-09-24 03:00:00,166,Homepage,221.3,Tablet
+2024-05-03 07:00:00,458,Product Page,233.7,Desktop
+2024-09-19 19:00:00,402,Search,204.5,Mobile
+2024-08-08 08:00:00,345,Cart,154.9,Tablet
+2024-08-24 03:00:00,245,Checkout,275.0,Desktop
+2024-05-18 17:00:00,462,Cart,10.7,Mobile
+2024-10-01 11:00:00,235,Checkout,101.4,Mobile
+2024-01-16 07:00:00,3,Product Page,193.9,Desktop
+2024-08-13 12:00:00,159,Product Page,69.3,Desktop
+2024-11-20 19:00:00,3,Cart,41.7,Mobile
+2024-08-07 16:00:00,97,Cart,130.8,Mobile
+2024-10-11 02:00:00,198,Product Page,56.6,Mobile
+2024-07-27 02:00:00,69,Homepage,262.2,Tablet
+2024-03-12 07:00:00,419,Checkout,113.6,Tablet
+2024-06-28 17:00:00,308,Cart,140.0,Mobile
+2024-01-17 02:00:00,348,Homepage,81.2,Desktop
+2024-11-12 00:00:00,237,Cart,164.8,Mobile
+2024-02-19 16:00:00,208,Homepage,49.1,Mobile
+2024-08-07 07:00:00,36,Checkout,36.6,Tablet
+2024-01-16 12:00:00,496,Search,63.2,Mobile
+2024-10-10 03:00:00,210,Product Page,163.7,Desktop
+2024-09-26 00:00:00,217,Cart,197.8,Tablet
+2024-06-11 07:00:00,268,Checkout,33.4,Tablet
+2024-03-20 15:00:00,145,Search,27.1,Tablet
+2024-05-22 10:00:00,214,Homepage,253.9,Mobile
+2024-07-22 15:00:00,116,Checkout,26.6,Tablet
+2024-05-21 13:00:00,376,Search,236.4,Desktop
+2024-11-29 14:00:00,491,Product Page,25.5,Tablet
+2024-12-29 06:00:00,277,Cart,290.0,Desktop
+2024-02-22 22:00:00,448,Search,258.9,Desktop
+2024-10-28 16:00:00,122,Search,212.5,Desktop
+2024-12-09 16:00:00,57,Homepage,106.7,Mobile
+2024-06-23 15:00:00,276,Search,81.2,Tablet
+2024-10-27 06:00:00,439,Search,31.5,Desktop
+2024-09-26 00:00:00,124,Homepage,26.5,Mobile
+2024-07-10 20:00:00,202,Product Page,112.1,Desktop
+2024-05-28 17:00:00,204,Homepage,42.4,Tablet
+2024-08-25 16:00:00,157,Cart,260.9,Tablet
+2024-09-06 13:00:00,398,Product Page,267.5,Desktop
+2024-02-07 04:00:00,182,Checkout,133.5,Desktop
+2024-06-14 00:00:00,383,Cart,248.3,Mobile
+2024-10-10 05:00:00,342,Homepage,276.0,Mobile
+2024-10-05 20:00:00,423,Homepage,161.0,Desktop
+2024-01-31 09:00:00,367,Product Page,20.5,Tablet
+2024-04-18 22:00:00,200,Homepage,164.4,Mobile
+2024-05-25 10:00:00,22,Product Page,34.5,Tablet
+2024-09-09 05:00:00,235,Homepage,61.2,Mobile
+2024-05-07 16:00:00,380,Product Page,216.3,Tablet
+2024-03-16 21:00:00,328,Search,58.8,Desktop
+2024-05-31 04:00:00,471,Homepage,64.6,Tablet
+2024-05-04 05:00:00,160,Product Page,183.5,Tablet
+2024-09-01 02:00:00,354,Checkout,183.1,Tablet
+2024-03-27 07:00:00,369,Search,281.4,Desktop
+2024-12-13 18:00:00,85,Search,116.4,Desktop
+2024-09-17 18:00:00,422,Cart,164.8,Desktop
+2024-04-23 18:00:00,51,Search,293.7,Mobile
+2024-05-28 23:00:00,160,Checkout,200.4,Desktop
+2024-12-19 23:00:00,315,Homepage,49.6,Desktop
+2024-12-03 06:00:00,107,Checkout,238.3,Mobile
+2024-06-06 06:00:00,218,Homepage,211.9,Desktop
+2024-09-11 08:00:00,77,Homepage,20.8,Tablet
+2024-01-28 21:00:00,303,Product Page,71.9,Mobile
+2024-04-03 12:00:00,11,Search,104.6,Mobile
+2024-07-10 05:00:00,368,Cart,219.4,Desktop
+2024-09-25 23:00:00,240,Product Page,63.0,Desktop
+2024-07-09 06:00:00,380,Search,27.9,Tablet
+2024-01-21 17:00:00,61,Product Page,263.1,Desktop
+2024-02-28 03:00:00,54,Product Page,46.8,Mobile
+2024-11-05 23:00:00,118,Cart,274.2,Desktop
+2024-07-12 14:00:00,28,Search,29.7,Tablet
+2024-04-08 16:00:00,469,Search,265.1,Tablet
+2024-11-07 11:00:00,70,Product Page,43.0,Mobile
+2024-03-10 16:00:00,357,Homepage,177.7,Desktop
+2024-03-28 05:00:00,186,Product Page,57.1,Tablet
+2024-04-23 23:00:00,380,Cart,125.4,Tablet
+2024-11-20 08:00:00,234,Homepage,14.8,Mobile
+2024-10-01 02:00:00,323,Product Page,176.1,Mobile
+2024-12-07 14:00:00,140,Cart,71.9,Mobile
+2024-01-29 15:00:00,404,Checkout,49.2,Desktop
+2024-04-28 05:00:00,365,Search,28.5,Tablet
+2024-09-17 11:00:00,209,Cart,34.9,Desktop
+2024-12-24 13:00:00,137,Checkout,150.3,Mobile
+2024-06-18 09:00:00,428,Product Page,53.6,Mobile
+2024-07-22 17:00:00,245,Checkout,25.8,Tablet
+2024-01-08 19:00:00,374,Homepage,98.1,Tablet
+2024-11-30 19:00:00,57,Homepage,112.3,Mobile
+2024-07-01 15:00:00,151,Product Page,99.6,Desktop
+2024-04-12 19:00:00,380,Homepage,52.9,Desktop
+2024-10-21 03:00:00,326,Search,223.5,Mobile
+2024-04-11 09:00:00,51,Checkout,229.1,Desktop
+2024-11-14 17:00:00,356,Search,157.8,Desktop
+2024-06-16 10:00:00,2,Cart,12.4,Tablet
+2024-10-24 22:00:00,419,Homepage,119.3,Desktop
+2024-07-09 10:00:00,399,Homepage,277.0,Mobile
+2024-09-03 01:00:00,270,Checkout,171.8,Tablet
+2024-05-05 08:00:00,323,Homepage,137.3,Mobile
+2024-05-21 15:00:00,65,Product Page,255.0,Mobile
+2024-12-18 00:00:00,218,Homepage,72.5,Mobile
+2024-01-30 15:00:00,468,Search,190.5,Desktop
+2024-12-15 20:00:00,27,Product Page,229.8,Desktop
+2024-11-17 07:00:00,60,Homepage,289.1,Tablet
+2024-01-12 05:00:00,37,Homepage,18.5,Tablet
+2024-05-30 01:00:00,109,Homepage,242.6,Tablet
+2024-05-18 03:00:00,255,Product Page,166.8,Tablet
+2024-03-03 17:00:00,231,Search,63.7,Desktop
+2024-01-05 12:00:00,83,Search,106.1,Desktop
+2024-05-22 22:00:00,299,Search,45.6,Tablet
+2024-07-28 17:00:00,341,Checkout,212.7,Desktop
+2024-02-18 11:00:00,111,Product Page,98.2,Tablet
+2024-09-29 23:00:00,368,Product Page,132.8,Mobile
+2024-09-14 08:00:00,96,Cart,145.2,Mobile
+2024-10-30 22:00:00,365,Search,93.2,Tablet
+2024-10-29 19:00:00,191,Cart,57.6,Desktop
+2024-07-20 11:00:00,246,Homepage,229.9,Desktop
+2024-02-22 13:00:00,294,Homepage,215.3,Desktop
+2024-06-14 08:00:00,381,Cart,245.4,Mobile
+2024-12-02 02:00:00,366,Search,137.4,Desktop
+2024-12-09 20:00:00,245,Search,183.9,Desktop
+2024-02-11 04:00:00,340,Homepage,73.5,Tablet
+2024-10-02 08:00:00,90,Cart,253.2,Desktop
+2024-04-24 01:00:00,104,Homepage,219.6,Tablet
+2024-04-19 18:00:00,88,Cart,191.7,Mobile
+2024-04-22 08:00:00,171,Product Page,9.6,Mobile
+2024-10-05 07:00:00,247,Homepage,188.1,Desktop
+2024-04-05 16:00:00,339,Checkout,253.8,Mobile
+2024-08-21 09:00:00,297,Search,190.9,Desktop
+2024-09-15 15:00:00,389,Search,222.0,Desktop
+2024-12-13 20:00:00,133,Cart,210.8,Mobile
+2024-10-05 03:00:00,322,Search,33.4,Tablet
+2024-05-31 21:00:00,298,Search,285.5,Mobile
+2024-09-11 13:00:00,349,Homepage,40.5,Mobile
+2024-05-23 19:00:00,88,Search,72.2,Tablet
+2024-01-27 10:00:00,483,Cart,218.4,Desktop
+2024-07-31 19:00:00,289,Homepage,201.2,Tablet
+2024-05-26 06:00:00,428,Checkout,252.5,Desktop
+2024-09-04 06:00:00,249,Search,116.1,Mobile
+2024-11-15 20:00:00,150,Homepage,203.9,Mobile
+2024-11-16 00:00:00,61,Search,181.8,Desktop
+2024-05-03 05:00:00,15,Product Page,126.1,Desktop
+2024-04-19 12:00:00,87,Homepage,128.2,Mobile
+2024-11-25 18:00:00,12,Checkout,111.0,Desktop
+2024-01-13 21:00:00,193,Product Page,273.5,Desktop
+2024-07-09 20:00:00,343,Checkout,28.5,Mobile
+2024-06-24 04:00:00,261,Product Page,282.4,Tablet
+2024-09-08 01:00:00,109,Homepage,236.9,Tablet
+2024-12-17 06:00:00,126,Search,88.8,Tablet
+2024-03-12 11:00:00,436,Cart,273.1,Desktop
+2024-07-31 17:00:00,494,Homepage,105.1,Mobile
+2024-08-05 23:00:00,14,Search,241.9,Tablet
+2024-01-29 23:00:00,268,Search,52.8,Desktop
+2024-07-22 22:00:00,316,Cart,178.5,Tablet
+2024-08-13 10:00:00,450,Checkout,212.2,Tablet
+2024-02-09 21:00:00,366,Homepage,27.2,Desktop
+2024-10-16 14:00:00,67,Checkout,243.5,Desktop
+2024-10-13 13:00:00,222,Checkout,180.5,Desktop
+2024-02-29 12:00:00,181,Search,75.4,Desktop
+2024-07-27 14:00:00,114,Cart,268.6,Tablet
+2024-08-26 08:00:00,18,Homepage,39.5,Tablet
+2024-02-09 06:00:00,121,Search,30.7,Desktop
+2024-10-23 04:00:00,250,Homepage,185.9,Desktop
+2024-12-09 20:00:00,22,Product Page,33.4,Desktop
+2024-04-01 16:00:00,298,Search,238.4,Desktop
+2024-08-15 13:00:00,35,Search,185.2,Desktop
+2024-05-22 11:00:00,401,Homepage,287.0,Mobile
+2024-09-23 10:00:00,452,Homepage,186.9,Desktop
+2024-11-16 01:00:00,22,Checkout,295.9,Tablet
+2024-07-26 14:00:00,308,Checkout,53.6,Desktop
+2024-10-20 06:00:00,433,Cart,52.6,Mobile
+2024-06-25 08:00:00,437,Product Page,263.5,Tablet
+2024-12-14 07:00:00,435,Cart,231.2,Tablet
+2024-01-14 21:00:00,358,Checkout,252.1,Tablet
+2024-07-28 07:00:00,243,Product Page,161.1,Desktop
+2024-04-17 11:00:00,324,Product Page,261.2,Tablet
+2024-04-24 06:00:00,227,Product Page,20.9,Mobile
+2024-01-04 16:00:00,468,Search,297.5,Mobile
+2024-03-10 15:00:00,62,Cart,32.7,Tablet
+2024-02-29 03:00:00,1,Search,176.2,Tablet
+2024-03-20 15:00:00,305,Checkout,17.8,Tablet
+2024-08-14 21:00:00,104,Search,172.5,Tablet
+2024-06-11 08:00:00,80,Product Page,154.0,Mobile
+2024-02-21 21:00:00,457,Product Page,209.2,Mobile
+2024-12-19 03:00:00,227,Search,226.6,Desktop
+2024-11-10 19:00:00,450,Homepage,282.9,Mobile
+2024-02-01 02:00:00,228,Homepage,14.2,Mobile
+2024-11-26 10:00:00,153,Search,297.4,Desktop
+2024-08-16 19:00:00,266,Cart,52.3,Desktop
+2024-02-01 11:00:00,145,Checkout,115.6,Tablet
+2024-06-03 05:00:00,440,Checkout,141.5,Desktop
+2024-07-03 04:00:00,325,Cart,20.4,Desktop
+2024-12-15 00:00:00,356,Homepage,38.0,Tablet
+2024-06-17 01:00:00,51,Search,31.2,Mobile
+2024-10-28 07:00:00,246,Cart,24.8,Mobile
+2024-02-25 20:00:00,253,Search,164.4,Mobile
+2024-09-10 10:00:00,235,Product Page,210.5,Mobile
+2024-09-26 13:00:00,384,Search,25.9,Desktop
+2024-10-02 18:00:00,461,Homepage,214.7,Desktop
+2024-09-14 07:00:00,197,Checkout,160.7,Mobile
+2024-04-10 08:00:00,452,Checkout,36.0,Mobile
+2024-05-14 19:00:00,164,Homepage,101.0,Tablet
+2024-02-06 17:00:00,486,Checkout,95.9,Mobile
+2024-12-23 13:00:00,141,Cart,77.3,Desktop
+2024-01-12 10:00:00,313,Cart,62.7,Tablet
+2024-02-09 05:00:00,345,Checkout,96.5,Desktop
+2024-06-24 17:00:00,133,Checkout,120.8,Desktop
+2024-09-21 00:00:00,110,Checkout,208.2,Desktop
+2024-09-22 18:00:00,180,Product Page,75.9,Tablet
+2024-09-15 03:00:00,292,Checkout,186.1,Mobile
+2024-07-15 11:00:00,269,Product Page,91.5,Desktop
+2024-05-17 15:00:00,176,Search,115.7,Desktop
+2024-07-20 22:00:00,202,Search,10.1,Desktop
+2024-02-19 09:00:00,190,Checkout,163.9,Tablet
+2024-08-26 15:00:00,325,Homepage,137.2,Desktop
+2024-11-24 03:00:00,401,Search,91.4,Tablet
+2024-05-24 10:00:00,152,Cart,141.1,Mobile
+2024-02-17 22:00:00,438,Homepage,235.2,Tablet
+2024-02-15 08:00:00,490,Product Page,179.9,Mobile
+2024-03-17 03:00:00,392,Product Page,55.7,Tablet
+2024-10-09 19:00:00,273,Product Page,239.1,Mobile
+2024-06-20 11:00:00,377,Cart,199.3,Tablet
+2024-03-17 17:00:00,284,Product Page,81.5,Desktop
+2024-09-15 02:00:00,390,Checkout,248.0,Tablet
+2024-11-15 16:00:00,101,Cart,25.7,Mobile
+2024-05-30 22:00:00,294,Search,183.5,Desktop
+2024-06-28 17:00:00,35,Cart,177.1,Desktop
+2024-06-01 22:00:00,70,Search,158.4,Desktop
+2024-02-23 21:00:00,148,Search,86.4,Tablet
+2024-05-26 19:00:00,90,Checkout,226.5,Mobile
+2024-06-03 19:00:00,85,Homepage,24.1,Tablet
+2024-09-16 03:00:00,499,Homepage,111.9,Tablet
+2024-04-28 07:00:00,343,Cart,260.3,Tablet
+2024-02-27 20:00:00,228,Checkout,147.6,Mobile
+2024-12-02 03:00:00,463,Homepage,170.8,Desktop
+2024-04-23 11:00:00,159,Search,34.1,Mobile
+2024-11-08 08:00:00,246,Search,13.5,Tablet
+2024-04-07 22:00:00,340,Search,27.2,Desktop
+2024-05-24 11:00:00,54,Product Page,191.7,Mobile
+2024-02-25 20:00:00,245,Cart,51.7,Desktop
+2024-06-11 11:00:00,498,Checkout,99.8,Tablet
+2024-05-05 09:00:00,470,Product Page,121.4,Desktop
+2024-11-27 23:00:00,471,Checkout,245.3,Tablet
+2024-08-26 18:00:00,410,Checkout,17.1,Tablet
+2024-09-27 10:00:00,472,Checkout,190.9,Tablet
+2024-02-21 06:00:00,395,Checkout,297.7,Mobile
+2024-01-02 02:00:00,60,Cart,225.4,Tablet
+2024-02-24 19:00:00,483,Search,238.4,Desktop
+2024-12-14 08:00:00,210,Homepage,152.9,Desktop
+2024-07-01 09:00:00,242,Product Page,173.2,Tablet
+2024-10-18 07:00:00,427,Search,74.6,Desktop
+2024-07-04 04:00:00,172,Cart,14.0,Desktop
+2024-09-23 07:00:00,292,Checkout,135.7,Mobile
+2024-09-02 10:00:00,442,Product Page,68.2,Mobile
+2024-01-09 12:00:00,229,Cart,198.7,Desktop
+2024-12-24 01:00:00,336,Product Page,278.5,Mobile
+2024-09-12 16:00:00,272,Product Page,244.7,Tablet
+2024-02-24 06:00:00,415,Search,232.1,Mobile
+2024-07-06 02:00:00,85,Cart,129.7,Desktop
+2024-07-29 06:00:00,13,Product Page,46.2,Desktop
+2024-09-28 22:00:00,309,Homepage,289.9,Tablet
+2024-03-26 11:00:00,436,Checkout,23.8,Desktop
+2024-02-25 06:00:00,421,Cart,246.4,Mobile
+2024-02-20 18:00:00,14,Checkout,150.6,Desktop
+2024-03-18 21:00:00,168,Homepage,151.8,Mobile
+2024-10-08 15:00:00,21,Checkout,201.0,Tablet
+2024-11-20 01:00:00,443,Homepage,237.3,Desktop
+2024-12-01 13:00:00,463,Homepage,111.8,Desktop
+2024-10-02 02:00:00,5,Checkout,104.8,Tablet
+2024-05-20 21:00:00,192,Checkout,270.0,Mobile
+2024-01-10 15:00:00,182,Product Page,103.7,Desktop
+2024-11-29 08:00:00,162,Cart,288.2,Tablet
+2024-11-27 16:00:00,470,Product Page,34.7,Mobile
+2024-03-17 11:00:00,391,Cart,209.1,Tablet
+2024-11-26 08:00:00,469,Search,125.3,Desktop
+2024-04-19 03:00:00,140,Product Page,283.9,Tablet
+2024-07-20 22:00:00,225,Search,130.5,Tablet
+2024-12-29 10:00:00,39,Cart,73.5,Mobile
+2024-11-09 02:00:00,158,Product Page,228.2,Desktop
+2024-05-31 04:00:00,448,Cart,241.9,Tablet
+2024-04-27 23:00:00,167,Cart,255.4,Mobile
+2024-06-05 17:00:00,135,Cart,195.8,Tablet
+2024-06-14 18:00:00,191,Homepage,285.4,Mobile
+2024-02-04 22:00:00,81,Checkout,101.1,Mobile
+2024-12-19 16:00:00,135,Cart,34.9,Tablet
+2024-11-05 04:00:00,72,Checkout,30.5,Mobile
+2024-09-06 07:00:00,57,Cart,71.5,Mobile
+2024-08-11 22:00:00,166,Product Page,21.2,Desktop
+2024-09-10 14:00:00,254,Checkout,124.9,Mobile
+2024-06-05 19:00:00,349,Search,143.9,Tablet
+2024-05-27 12:00:00,449,Search,182.2,Mobile
+2024-01-18 07:00:00,308,Cart,144.4,Desktop
+2024-06-28 22:00:00,308,Product Page,294.5,Mobile
+2024-06-13 15:00:00,63,Cart,38.2,Mobile
+2024-03-23 11:00:00,261,Cart,133.3,Tablet
+2024-12-13 04:00:00,185,Checkout,14.8,Mobile
+2024-09-02 22:00:00,112,Cart,180.4,Tablet
+2024-01-23 16:00:00,188,Search,124.8,Mobile
+2024-05-07 07:00:00,113,Cart,149.8,Tablet
+2024-02-13 03:00:00,395,Checkout,44.8,Tablet
+2024-02-11 02:00:00,420,Search,236.3,Tablet
+2024-02-23 00:00:00,419,Product Page,83.4,Tablet
+2024-05-07 08:00:00,169,Homepage,278.6,Desktop
+2024-01-04 04:00:00,351,Cart,264.6,Desktop
+2024-05-06 02:00:00,174,Cart,120.2,Tablet
+2024-03-28 00:00:00,150,Product Page,200.6,Desktop
+2024-10-31 05:00:00,48,Search,107.6,Mobile
+2024-12-19 19:00:00,61,Cart,236.8,Mobile
+2024-02-23 14:00:00,306,Homepage,240.8,Desktop
+2024-02-07 03:00:00,88,Product Page,285.6,Mobile
+2024-05-13 11:00:00,286,Checkout,278.9,Tablet
+2024-07-12 07:00:00,359,Cart,210.9,Desktop
+2024-02-26 16:00:00,346,Cart,48.1,Mobile
+2024-07-07 14:00:00,340,Checkout,100.5,Tablet
+2024-09-14 19:00:00,445,Product Page,188.8,Desktop
+2024-02-06 07:00:00,170,Homepage,8.4,Tablet
+2024-10-14 01:00:00,98,Homepage,119.6,Desktop
+2024-12-26 04:00:00,474,Cart,189.6,Desktop
+2024-08-19 19:00:00,89,Product Page,161.2,Tablet
+2024-12-08 21:00:00,441,Checkout,67.1,Desktop
+2024-06-11 00:00:00,472,Search,136.3,Tablet
+2024-03-24 21:00:00,463,Checkout,251.0,Desktop
+2024-11-23 07:00:00,328,Checkout,16.7,Mobile
+2024-10-22 02:00:00,314,Search,196.7,Tablet
+2024-11-02 16:00:00,201,Checkout,122.1,Desktop
+2024-03-15 23:00:00,324,Cart,249.9,Tablet
+2024-06-08 03:00:00,387,Checkout,153.6,Desktop
+2024-08-26 15:00:00,170,Search,263.7,Desktop
+2024-09-15 20:00:00,48,Cart,175.0,Desktop
+2024-04-06 03:00:00,428,Checkout,156.2,Desktop
+2024-02-23 13:00:00,52,Product Page,218.7,Tablet
+2024-03-26 11:00:00,298,Search,196.4,Desktop
+2024-07-06 12:00:00,420,Search,9.2,Tablet
+2024-11-15 20:00:00,375,Checkout,293.5,Mobile
+2024-03-31 13:00:00,220,Homepage,7.2,Mobile
+2024-08-13 18:00:00,324,Checkout,128.8,Desktop
+2024-04-01 05:00:00,219,Checkout,237.6,Mobile
+2024-11-23 04:00:00,126,Product Page,264.6,Tablet
+2024-01-07 08:00:00,159,Checkout,271.1,Mobile
+2024-04-07 13:00:00,339,Checkout,207.6,Mobile
+2024-10-09 06:00:00,221,Homepage,210.9,Mobile
+2024-02-02 22:00:00,155,Homepage,210.6,Tablet
+2024-09-01 00:00:00,499,Cart,82.5,Desktop
+2024-09-08 08:00:00,232,Search,63.9,Desktop
+2024-03-03 02:00:00,101,Homepage,55.3,Mobile
+2024-12-11 03:00:00,64,Product Page,46.3,Mobile
+2024-04-28 02:00:00,478,Checkout,278.5,Desktop
+2024-04-20 19:00:00,29,Search,151.2,Mobile
+2024-10-16 17:00:00,225,Product Page,76.3,Desktop
+2024-09-16 10:00:00,150,Product Page,272.5,Mobile
+2024-02-16 06:00:00,108,Checkout,18.1,Tablet
+2024-03-07 14:00:00,359,Product Page,211.7,Tablet
+2024-06-17 18:00:00,266,Homepage,223.3,Tablet
+2024-08-25 13:00:00,291,Cart,101.1,Desktop
+2024-09-28 04:00:00,451,Homepage,106.9,Tablet
+2024-05-12 01:00:00,180,Cart,137.8,Tablet
+2024-01-14 20:00:00,28,Search,9.2,Tablet
+2024-11-06 04:00:00,445,Search,158.2,Desktop
+2024-11-09 17:00:00,88,Cart,56.0,Mobile
+2024-04-25 12:00:00,305,Checkout,105.1,Desktop
+2024-03-26 06:00:00,165,Checkout,158.2,Desktop
+2024-12-26 22:00:00,211,Homepage,72.0,Tablet
+2024-11-05 18:00:00,343,Checkout,288.2,Mobile
+2024-10-25 18:00:00,42,Search,186.2,Mobile
+2024-09-14 03:00:00,284,Checkout,175.5,Tablet
+2024-09-03 19:00:00,34,Checkout,224.3,Mobile
+2024-03-05 07:00:00,121,Product Page,40.7,Mobile
+2024-11-10 13:00:00,104,Search,24.2,Tablet
+2024-06-22 03:00:00,494,Cart,66.7,Desktop
+2024-04-05 06:00:00,7,Homepage,129.8,Mobile
+2024-09-28 04:00:00,434,Search,179.1,Mobile
+2024-11-13 10:00:00,231,Search,146.7,Tablet
+2024-06-24 23:00:00,491,Product Page,124.8,Mobile
+2024-06-15 02:00:00,5,Checkout,74.4,Mobile
+2024-12-18 21:00:00,419,Checkout,21.0,Tablet
+2024-12-21 11:00:00,14,Product Page,95.6,Tablet
+2024-03-01 01:00:00,480,Cart,247.2,Mobile
+2024-09-06 10:00:00,407,Checkout,178.7,Mobile
+2024-02-26 10:00:00,168,Search,189.3,Mobile
+2024-12-20 20:00:00,33,Search,275.1,Tablet
+2024-11-17 22:00:00,163,Cart,66.3,Mobile
+2024-10-26 11:00:00,275,Product Page,96.2,Tablet
+2024-11-11 11:00:00,378,Cart,236.1,Mobile
+2024-09-20 14:00:00,261,Checkout,196.1,Mobile
+2024-04-27 21:00:00,18,Homepage,10.2,Desktop
+2024-11-25 23:00:00,204,Search,55.8,Mobile
+2024-08-26 01:00:00,200,Product Page,38.8,Desktop
+2024-06-10 10:00:00,373,Product Page,114.0,Desktop
+2024-03-26 02:00:00,113,Checkout,95.1,Tablet
+2024-08-30 16:00:00,218,Checkout,237.6,Tablet
+2024-04-18 09:00:00,179,Homepage,244.9,Tablet
+2024-07-11 23:00:00,276,Cart,233.5,Tablet
+2024-03-12 19:00:00,128,Product Page,72.4,Mobile
+2024-11-10 03:00:00,1,Product Page,100.5,Mobile
+2024-07-16 01:00:00,140,Checkout,285.5,Mobile
+2024-11-12 00:00:00,6,Search,65.0,Mobile
+2024-10-27 12:00:00,264,Product Page,216.2,Desktop
+2024-10-20 18:00:00,331,Product Page,189.4,Mobile
+2024-03-05 16:00:00,125,Product Page,105.5,Mobile
+2024-02-27 11:00:00,365,Cart,67.2,Mobile
+2024-02-04 22:00:00,53,Search,164.3,Desktop
+2024-07-22 22:00:00,216,Search,244.2,Tablet
+2024-07-09 12:00:00,45,Search,206.0,Tablet
+2024-01-19 16:00:00,184,Product Page,109.7,Mobile
+2024-02-22 04:00:00,414,Product Page,102.9,Desktop
+2024-09-07 16:00:00,24,Search,103.6,Tablet
+2024-02-08 18:00:00,277,Homepage,45.1,Desktop
+2024-11-05 12:00:00,367,Search,228.2,Tablet
+2024-10-25 17:00:00,366,Cart,255.6,Tablet
+2024-07-15 00:00:00,211,Search,70.0,Desktop
+2024-02-23 06:00:00,468,Search,95.0,Desktop
+2024-03-03 12:00:00,354,Cart,210.8,Desktop
+2024-12-15 17:00:00,328,Checkout,201.2,Desktop
+2024-11-06 16:00:00,98,Homepage,298.9,Desktop
+2024-04-17 13:00:00,269,Homepage,286.5,Tablet
+2024-04-05 21:00:00,282,Homepage,153.1,Tablet
+2024-04-01 11:00:00,54,Homepage,52.1,Desktop
+2024-10-06 20:00:00,434,Product Page,182.2,Mobile
+2024-02-16 07:00:00,84,Cart,175.3,Tablet
+2024-09-23 22:00:00,156,Search,247.9,Desktop
+2024-02-14 18:00:00,338,Checkout,30.9,Mobile
+2024-07-28 11:00:00,33,Product Page,277.5,Tablet
+2024-12-22 12:00:00,31,Checkout,88.7,Desktop
+2024-10-29 16:00:00,406,Search,182.5,Tablet
+2024-03-02 04:00:00,106,Checkout,269.6,Tablet
+2024-06-02 00:00:00,125,Search,21.5,Mobile
+2024-07-14 10:00:00,377,Search,195.7,Tablet
+2024-12-11 04:00:00,214,Cart,189.5,Tablet
+2024-03-22 23:00:00,217,Cart,17.9,Tablet
+2024-12-11 04:00:00,304,Homepage,83.7,Desktop
+2024-02-03 22:00:00,57,Search,209.2,Tablet
+2024-12-25 01:00:00,400,Cart,103.0,Tablet
+2024-07-16 00:00:00,243,Search,65.5,Tablet
+2024-08-02 03:00:00,407,Homepage,19.8,Tablet
+2024-12-13 03:00:00,74,Cart,266.5,Desktop
+2024-05-24 13:00:00,95,Search,147.0,Desktop
+2024-07-11 12:00:00,113,Checkout,265.5,Tablet
+2024-12-22 17:00:00,18,Cart,245.0,Tablet
+2024-09-12 20:00:00,122,Cart,66.0,Desktop
+2024-03-14 05:00:00,423,Homepage,28.7,Mobile
+2024-03-29 17:00:00,111,Product Page,258.1,Mobile
+2024-02-28 10:00:00,280,Checkout,130.9,Tablet
+2024-08-30 04:00:00,243,Homepage,106.3,Mobile
+2024-09-13 03:00:00,63,Cart,172.6,Mobile
+2024-08-25 15:00:00,362,Checkout,294.5,Desktop
+2024-03-21 20:00:00,299,Search,115.8,Mobile
+2024-07-08 22:00:00,343,Search,262.0,Desktop
+2024-09-30 22:00:00,25,Cart,224.3,Tablet
+2024-12-11 15:00:00,92,Cart,25.6,Mobile
+2024-02-07 00:00:00,437,Cart,16.6,Tablet
+2024-01-14 18:00:00,147,Checkout,190.3,Desktop
+2024-01-16 11:00:00,86,Cart,154.7,Mobile
+2024-08-15 08:00:00,402,Checkout,141.5,Desktop
+2024-07-06 06:00:00,34,Search,151.3,Tablet
+2024-10-24 14:00:00,62,Checkout,46.3,Desktop
+2024-01-03 07:00:00,246,Checkout,12.8,Desktop
+2024-11-21 05:00:00,416,Search,149.0,Mobile
+2024-12-25 14:00:00,82,Checkout,192.2,Desktop
+2024-09-20 15:00:00,268,Homepage,132.1,Desktop
+2024-10-03 12:00:00,397,Homepage,111.1,Tablet
+2024-05-06 06:00:00,343,Search,153.8,Mobile
+2024-07-12 07:00:00,100,Homepage,233.7,Desktop
+2024-03-27 10:00:00,10,Product Page,135.5,Tablet
+2024-09-04 19:00:00,59,Product Page,21.7,Mobile
+2024-04-04 03:00:00,10,Homepage,297.3,Tablet
+2024-06-11 21:00:00,451,Search,77.7,Mobile
+2024-01-01 04:00:00,232,Checkout,287.1,Desktop
+2024-02-08 05:00:00,11,Product Page,179.6,Mobile
+2024-03-18 05:00:00,196,Cart,148.4,Desktop
+2024-11-20 18:00:00,282,Product Page,129.1,Desktop
+2024-10-30 00:00:00,374,Checkout,168.1,Desktop
+2024-04-21 16:00:00,77,Checkout,29.1,Mobile
+2024-04-01 21:00:00,165,Homepage,215.2,Tablet
+2024-01-06 14:00:00,500,Product Page,293.1,Desktop
+2024-10-25 08:00:00,358,Product Page,114.5,Desktop
+2024-03-15 20:00:00,107,Cart,246.0,Tablet
+2024-11-11 11:00:00,456,Product Page,20.0,Desktop
+2024-05-18 07:00:00,164,Search,189.5,Desktop
+2024-03-15 12:00:00,302,Cart,92.9,Mobile
+2024-07-16 22:00:00,246,Search,24.5,Mobile
+2024-10-21 15:00:00,8,Product Page,70.2,Tablet
+2024-11-08 16:00:00,85,Homepage,30.2,Tablet
+2024-04-14 08:00:00,255,Checkout,67.4,Desktop
+2024-07-18 05:00:00,420,Checkout,148.5,Mobile
+2024-05-15 21:00:00,142,Checkout,164.9,Desktop
+2024-05-27 06:00:00,426,Cart,265.4,Mobile
+2024-04-18 15:00:00,345,Search,192.8,Mobile
+2024-06-29 09:00:00,76,Checkout,189.8,Tablet
+2024-05-02 16:00:00,443,Cart,267.1,Mobile
+2024-09-12 21:00:00,427,Product Page,209.8,Desktop
+2024-04-20 17:00:00,134,Checkout,148.8,Mobile
+2024-04-29 01:00:00,377,Homepage,104.2,Desktop
+2024-09-08 23:00:00,284,Checkout,168.5,Tablet
+2024-10-30 11:00:00,377,Product Page,104.9,Desktop
+2024-12-02 18:00:00,39,Homepage,209.2,Tablet
+2024-09-24 02:00:00,383,Homepage,144.4,Desktop
+2024-11-29 01:00:00,112,Checkout,153.9,Mobile
+2024-06-14 20:00:00,96,Homepage,74.5,Tablet
+2024-12-20 01:00:00,312,Product Page,69.6,Tablet
+2024-03-02 10:00:00,75,Homepage,200.1,Desktop
+2024-12-15 17:00:00,260,Homepage,166.9,Desktop
+2024-03-28 16:00:00,133,Product Page,207.9,Desktop
+2024-07-15 07:00:00,335,Cart,262.9,Mobile
+2024-05-17 10:00:00,385,Product Page,186.4,Mobile
+2024-03-30 02:00:00,7,Product Page,182.2,Tablet
+2024-09-05 03:00:00,102,Product Page,42.6,Desktop
+2024-01-11 03:00:00,240,Cart,267.7,Tablet
+2024-01-24 22:00:00,283,Checkout,265.9,Desktop
+2024-11-13 08:00:00,126,Checkout,88.0,Tablet
+2024-02-25 20:00:00,351,Checkout,96.7,Tablet
+2024-01-07 13:00:00,448,Search,106.1,Tablet
+2024-04-19 22:00:00,73,Search,90.1,Tablet
+2024-06-12 05:00:00,388,Homepage,240.5,Desktop
+2024-09-03 09:00:00,203,Homepage,287.5,Mobile
+2024-04-29 06:00:00,483,Checkout,186.9,Mobile
+2024-10-13 12:00:00,325,Search,109.9,Mobile
+2024-02-21 08:00:00,254,Product Page,149.6,Tablet
+2024-05-01 04:00:00,307,Product Page,162.3,Desktop
+2024-01-06 17:00:00,488,Homepage,194.8,Mobile
+2024-03-18 11:00:00,260,Cart,143.1,Tablet
+2024-11-20 20:00:00,311,Homepage,262.7,Tablet
+2024-08-21 02:00:00,126,Checkout,187.3,Tablet
+2024-09-04 18:00:00,223,Homepage,289.4,Tablet
+2024-01-25 10:00:00,471,Checkout,282.7,Desktop
+2024-04-23 06:00:00,50,Homepage,110.2,Mobile
+2024-07-01 05:00:00,316,Search,260.7,Mobile
+2024-08-03 10:00:00,152,Checkout,33.3,Mobile
+2024-07-11 13:00:00,466,Product Page,154.7,Tablet
+2024-10-29 02:00:00,161,Homepage,90.1,Tablet
+2024-06-12 18:00:00,282,Homepage,184.9,Mobile
+2024-09-13 21:00:00,401,Search,275.7,Tablet
+2024-03-18 04:00:00,238,Product Page,226.2,Desktop
+2024-07-16 08:00:00,364,Homepage,29.4,Mobile
+2024-09-03 13:00:00,444,Search,246.6,Mobile
+2024-08-16 22:00:00,99,Cart,160.3,Tablet
+2024-08-24 06:00:00,116,Cart,213.7,Mobile
+2024-07-16 00:00:00,500,Checkout,278.5,Mobile
+2024-06-13 05:00:00,462,Checkout,113.1,Tablet
+2024-12-03 23:00:00,331,Search,210.2,Mobile
+2024-04-13 15:00:00,193,Checkout,166.0,Desktop
+2024-05-14 16:00:00,239,Product Page,292.0,Desktop
+2024-11-05 14:00:00,411,Cart,223.4,Tablet
+2024-08-17 19:00:00,310,Checkout,56.7,Tablet
+2024-12-03 09:00:00,91,Homepage,186.3,Tablet
+2024-04-21 14:00:00,259,Search,247.6,Desktop
+2024-10-18 05:00:00,435,Search,266.1,Tablet
+2024-01-31 13:00:00,132,Homepage,218.0,Desktop
+2024-03-12 21:00:00,323,Homepage,93.3,Tablet
+2024-12-02 07:00:00,492,Checkout,180.0,Mobile
+2024-05-05 08:00:00,260,Homepage,47.8,Desktop
+2024-12-30 11:00:00,74,Search,39.2,Mobile
+2024-09-27 18:00:00,153,Search,104.9,Mobile
+2024-11-16 01:00:00,198,Cart,272.1,Tablet
+2024-01-06 13:00:00,233,Homepage,153.8,Mobile
+2024-02-08 13:00:00,144,Product Page,138.1,Mobile
+2024-09-23 06:00:00,106,Search,192.4,Tablet
+2024-05-11 06:00:00,487,Homepage,101.1,Desktop
+2024-03-07 23:00:00,414,Cart,6.5,Tablet
+2024-05-29 01:00:00,261,Product Page,118.8,Mobile
+2024-08-18 13:00:00,228,Search,155.6,Mobile
+2024-10-12 22:00:00,415,Homepage,52.2,Mobile
+2024-05-20 04:00:00,428,Product Page,284.6,Tablet
+2024-02-02 13:00:00,411,Homepage,30.9,Tablet
+2024-08-22 10:00:00,72,Cart,214.8,Mobile
+2024-03-09 07:00:00,155,Product Page,97.0,Mobile
+2024-03-12 19:00:00,26,Product Page,42.4,Desktop
+2024-12-14 14:00:00,355,Search,184.7,Tablet
+2024-07-14 12:00:00,142,Checkout,271.6,Tablet
+2024-06-30 12:00:00,272,Cart,66.5,Tablet
+2024-10-17 03:00:00,121,Cart,28.3,Mobile
+2024-03-23 21:00:00,302,Checkout,265.9,Tablet
+2024-12-02 22:00:00,13,Search,83.2,Tablet
+2024-11-27 13:00:00,152,Checkout,272.2,Tablet
+2024-06-19 21:00:00,198,Product Page,130.9,Mobile
+2024-07-13 00:00:00,117,Search,61.0,Mobile
+2024-08-13 07:00:00,180,Search,48.1,Desktop
+2024-09-01 21:00:00,116,Product Page,147.7,Desktop
+2024-08-13 11:00:00,260,Cart,53.8,Tablet
+2024-01-17 18:00:00,117,Homepage,161.7,Tablet
+2024-11-22 13:00:00,285,Search,268.0,Tablet
+2024-09-04 21:00:00,239,Product Page,198.9,Tablet
+2024-04-05 12:00:00,482,Cart,113.3,Desktop
+2024-09-28 08:00:00,210,Product Page,64.7,Mobile
+2024-07-26 01:00:00,312,Search,137.5,Mobile
+2024-01-06 07:00:00,497,Homepage,163.4,Tablet
+2024-03-10 03:00:00,188,Cart,203.3,Tablet
+2024-08-15 03:00:00,477,Cart,47.8,Desktop
+2024-11-04 00:00:00,83,Checkout,36.3,Desktop
+2024-08-16 09:00:00,147,Search,237.2,Mobile
+2024-12-06 03:00:00,488,Homepage,110.1,Desktop
+2024-01-24 06:00:00,182,Product Page,207.8,Mobile
+2024-03-12 18:00:00,33,Cart,299.3,Tablet
+2024-09-18 07:00:00,437,Homepage,290.9,Mobile
+2024-11-15 23:00:00,440,Product Page,132.7,Mobile
+2024-03-12 11:00:00,280,Checkout,243.2,Desktop
+2024-10-06 11:00:00,445,Cart,142.6,Desktop
+2024-01-12 21:00:00,41,Homepage,37.3,Tablet
+2024-01-13 13:00:00,214,Product Page,210.7,Mobile
+2024-12-24 03:00:00,474,Product Page,61.1,Tablet
+2024-12-01 23:00:00,342,Cart,150.7,Mobile
+2024-12-09 05:00:00,281,Checkout,197.7,Desktop
+2024-12-07 18:00:00,470,Checkout,37.0,Tablet
+2024-03-29 01:00:00,270,Search,291.2,Tablet
+2024-12-05 04:00:00,77,Cart,68.6,Tablet
+2024-06-06 12:00:00,326,Search,130.6,Tablet
+2024-02-27 01:00:00,6,Cart,39.3,Tablet
+2024-05-09 23:00:00,216,Product Page,89.0,Desktop
+2024-12-03 00:00:00,341,Search,90.0,Mobile
+2024-06-12 14:00:00,397,Cart,90.0,Tablet
+2024-07-30 16:00:00,114,Search,161.0,Tablet
+2024-09-17 17:00:00,370,Homepage,86.5,Mobile
+2024-12-18 23:00:00,103,Cart,45.6,Tablet
+2024-05-25 15:00:00,358,Product Page,72.0,Tablet
+2024-07-07 19:00:00,74,Product Page,278.6,Mobile
+2024-10-14 13:00:00,294,Checkout,229.5,Mobile
+2024-12-07 21:00:00,286,Homepage,22.3,Tablet
+2024-06-26 10:00:00,490,Homepage,37.1,Tablet
+2024-06-29 03:00:00,464,Checkout,222.7,Desktop
+2024-03-13 01:00:00,97,Cart,49.3,Tablet
+2024-10-23 20:00:00,46,Cart,205.1,Desktop
+2024-11-13 09:00:00,160,Search,194.8,Tablet
+2024-03-16 01:00:00,466,Cart,114.7,Desktop
+2024-12-01 20:00:00,233,Homepage,79.8,Tablet
+2024-05-20 07:00:00,382,Homepage,34.5,Mobile
+2024-12-24 14:00:00,464,Search,109.2,Mobile
+2024-11-28 08:00:00,24,Search,269.1,Tablet
+2024-02-21 03:00:00,119,Cart,162.1,Tablet
+2024-10-29 05:00:00,288,Search,290.4,Tablet
+2024-01-04 05:00:00,393,Checkout,229.9,Tablet
+2024-01-26 03:00:00,171,Cart,294.6,Mobile
+2024-05-28 19:00:00,243,Homepage,55.3,Tablet
+2024-11-29 02:00:00,108,Product Page,85.1,Mobile
+2024-05-29 05:00:00,81,Cart,287.9,Desktop
+2024-03-01 08:00:00,36,Homepage,163.5,Mobile
+2024-02-17 09:00:00,475,Checkout,184.1,Tablet
+2024-03-22 12:00:00,182,Checkout,113.3,Desktop
+2024-10-20 01:00:00,327,Homepage,151.5,Mobile
+2024-02-27 17:00:00,89,Search,201.1,Tablet
+2024-05-26 11:00:00,445,Checkout,96.5,Tablet
+2024-12-12 20:00:00,198,Homepage,209.8,Tablet
+2024-11-28 13:00:00,232,Checkout,124.3,Desktop
+2024-08-07 04:00:00,113,Search,284.5,Desktop
+2024-10-31 21:00:00,56,Checkout,79.6,Desktop
+2024-02-04 08:00:00,362,Cart,5.8,Mobile
+2024-11-10 09:00:00,166,Product Page,161.4,Tablet
+2024-12-28 20:00:00,98,Homepage,118.9,Tablet
+2024-05-04 02:00:00,270,Product Page,149.9,Tablet
+2024-10-17 09:00:00,269,Cart,202.0,Desktop
+2024-04-06 20:00:00,264,Search,222.4,Desktop
+2024-11-06 05:00:00,310,Product Page,165.8,Mobile
+2024-05-05 06:00:00,281,Homepage,11.0,Desktop
+2024-09-14 04:00:00,88,Search,112.5,Mobile
+2024-10-31 22:00:00,245,Homepage,254.2,Tablet
+2024-08-16 23:00:00,3,Search,21.2,Desktop
+2024-06-07 11:00:00,431,Product Page,221.3,Tablet
+2024-12-07 10:00:00,490,Product Page,125.7,Mobile
+2024-07-15 19:00:00,76,Homepage,39.0,Desktop
+2024-03-28 19:00:00,138,Homepage,100.2,Mobile
+2024-12-29 21:00:00,52,Product Page,285.8,Desktop
+2024-11-13 17:00:00,285,Search,251.9,Tablet
+2024-05-22 12:00:00,209,Homepage,85.0,Desktop
+2024-05-20 16:00:00,245,Search,188.6,Desktop
+2024-03-13 22:00:00,195,Checkout,172.0,Mobile
+2024-07-25 11:00:00,174,Homepage,185.8,Mobile
+2024-01-24 21:00:00,96,Checkout,254.0,Tablet
+2024-05-18 22:00:00,490,Product Page,9.2,Tablet
+2024-10-17 02:00:00,39,Search,193.4,Mobile
+2024-07-23 02:00:00,176,Product Page,264.0,Tablet
+2024-11-06 13:00:00,285,Homepage,31.3,Tablet
+2024-10-17 02:00:00,448,Homepage,48.3,Desktop
+2024-07-13 10:00:00,174,Cart,129.8,Mobile
+2024-02-23 20:00:00,107,Search,198.5,Desktop
+2024-02-09 16:00:00,263,Product Page,51.5,Desktop
+2024-07-25 02:00:00,259,Product Page,259.1,Desktop
+2024-09-08 07:00:00,342,Homepage,169.3,Mobile
+2024-11-30 21:00:00,315,Homepage,195.8,Desktop
+2024-06-17 19:00:00,267,Cart,200.4,Desktop
+2024-03-25 14:00:00,290,Search,68.0,Mobile
+2024-07-30 06:00:00,340,Search,203.7,Desktop
+2024-08-26 12:00:00,222,Checkout,125.3,Mobile
+2024-06-11 14:00:00,415,Checkout,216.0,Tablet
+2024-10-10 11:00:00,268,Search,105.0,Desktop
+2024-12-25 18:00:00,377,Search,87.9,Tablet
+2024-07-18 16:00:00,162,Search,42.7,Mobile
+2024-10-25 21:00:00,89,Homepage,15.3,Tablet
+2024-02-12 02:00:00,446,Checkout,73.8,Mobile
+2024-01-10 04:00:00,34,Homepage,277.4,Mobile
+2024-02-13 06:00:00,238,Product Page,116.6,Tablet
+2024-11-18 06:00:00,313,Product Page,99.6,Desktop
+2024-02-02 16:00:00,499,Cart,293.0,Tablet
+2024-03-30 18:00:00,435,Search,158.3,Tablet
+2024-03-28 02:00:00,94,Cart,150.5,Desktop
+2024-04-28 14:00:00,396,Search,299.5,Mobile
+2024-04-22 04:00:00,89,Homepage,15.2,Desktop
+2024-11-02 06:00:00,435,Checkout,266.0,Mobile
+2024-11-14 20:00:00,217,Search,171.2,Desktop
+2024-02-15 15:00:00,232,Product Page,221.8,Desktop
+2024-12-16 12:00:00,18,Cart,121.8,Desktop
+2024-01-30 02:00:00,358,Product Page,218.1,Desktop
+2024-12-21 16:00:00,125,Search,297.1,Desktop
+2024-04-28 12:00:00,439,Cart,126.1,Tablet
+2024-09-03 00:00:00,413,Checkout,266.1,Mobile
+2024-02-13 00:00:00,62,Cart,152.8,Mobile
+2024-06-06 09:00:00,229,Product Page,195.9,Desktop
+2024-06-02 03:00:00,308,Cart,230.9,Tablet
+2024-01-03 03:00:00,366,Homepage,189.8,Tablet
+2024-07-30 20:00:00,20,Homepage,220.8,Mobile
+2024-01-16 19:00:00,221,Cart,156.0,Desktop
+2024-02-12 09:00:00,141,Homepage,243.7,Mobile
+2024-09-05 19:00:00,215,Cart,9.6,Desktop
+2024-08-02 04:00:00,32,Cart,245.0,Mobile
+2024-12-12 06:00:00,491,Search,242.7,Desktop
+2024-06-19 03:00:00,355,Search,21.3,Mobile
+2024-04-20 19:00:00,430,Homepage,213.2,Desktop
+2024-01-15 21:00:00,340,Product Page,152.6,Mobile
+2024-09-01 10:00:00,235,Product Page,31.8,Mobile
+2024-01-18 08:00:00,261,Cart,209.3,Desktop
+2024-02-09 04:00:00,297,Search,177.7,Mobile
+2024-07-07 17:00:00,449,Cart,273.2,Mobile
+2024-09-24 13:00:00,344,Product Page,37.2,Tablet
+2024-06-14 05:00:00,255,Search,164.4,Desktop
+2024-11-17 17:00:00,29,Product Page,174.5,Desktop
+2024-08-22 06:00:00,66,Product Page,58.8,Mobile
+2024-04-29 21:00:00,273,Cart,25.0,Desktop
+2024-12-21 13:00:00,161,Product Page,66.4,Mobile
+2024-07-15 10:00:00,254,Product Page,65.7,Mobile
+2024-02-14 18:00:00,288,Checkout,163.7,Tablet
+2024-08-02 18:00:00,241,Product Page,27.1,Tablet
+2024-12-20 22:00:00,144,Checkout,182.9,Tablet
+2024-04-16 13:00:00,183,Product Page,187.9,Mobile
+2024-03-29 11:00:00,178,Checkout,191.9,Tablet
+2024-10-28 10:00:00,106,Product Page,31.6,Mobile
+2024-10-13 01:00:00,348,Homepage,290.6,Tablet
+2024-12-10 14:00:00,361,Product Page,213.5,Tablet
+2024-05-08 07:00:00,340,Cart,151.1,Desktop
+2024-06-19 08:00:00,294,Homepage,215.2,Desktop
+2024-12-15 08:00:00,275,Cart,196.8,Tablet
+2024-01-28 08:00:00,94,Product Page,8.7,Desktop
+2024-02-20 07:00:00,414,Search,208.9,Tablet
+2024-03-28 23:00:00,303,Search,224.8,Tablet
+2024-01-23 23:00:00,206,Homepage,238.7,Desktop
+2024-06-04 19:00:00,93,Homepage,173.1,Mobile
+2024-02-05 20:00:00,66,Homepage,212.1,Tablet
+2024-03-09 12:00:00,245,Cart,293.2,Mobile
+2024-11-04 14:00:00,191,Cart,132.6,Desktop
+2024-07-12 11:00:00,225,Checkout,109.0,Tablet
+2024-12-30 02:00:00,494,Product Page,111.2,Desktop
+2024-05-25 21:00:00,162,Product Page,88.7,Tablet
+2024-10-14 14:00:00,58,Homepage,191.7,Tablet
+2024-11-15 00:00:00,408,Product Page,58.5,Tablet
+2024-02-23 10:00:00,419,Cart,120.2,Tablet
+2024-02-21 07:00:00,163,Cart,264.7,Mobile
+2024-07-19 04:00:00,291,Homepage,81.3,Tablet
+2024-09-12 13:00:00,213,Search,291.4,Mobile
+2024-08-13 21:00:00,496,Search,6.2,Desktop
+2024-10-02 16:00:00,42,Cart,132.4,Mobile
+2024-02-29 15:00:00,274,Cart,113.9,Desktop
+2024-09-06 11:00:00,57,Homepage,52.3,Tablet
+2024-06-29 16:00:00,63,Cart,116.8,Mobile
+2024-11-24 13:00:00,339,Checkout,278.9,Mobile
+2024-04-19 22:00:00,272,Checkout,150.0,Tablet
+2024-10-31 10:00:00,217,Checkout,31.5,Desktop
+2024-01-08 19:00:00,208,Homepage,43.7,Tablet
+2024-02-11 01:00:00,294,Cart,162.0,Mobile
+2024-02-29 01:00:00,469,Checkout,243.8,Mobile
+2024-07-19 19:00:00,254,Cart,221.2,Tablet
+2024-02-27 21:00:00,81,Product Page,79.4,Mobile
+2024-05-19 16:00:00,42,Search,176.3,Desktop
+2024-11-16 10:00:00,254,Search,231.7,Mobile
+2024-05-16 11:00:00,416,Product Page,104.3,Desktop
+2024-12-13 18:00:00,76,Homepage,284.2,Desktop
+2024-09-25 17:00:00,41,Product Page,275.2,Desktop
+2024-05-29 00:00:00,172,Product Page,147.6,Tablet
+2024-10-21 03:00:00,339,Checkout,191.2,Desktop
+2024-03-02 07:00:00,137,Homepage,30.2,Mobile
+2024-03-06 04:00:00,397,Product Page,264.5,Mobile
+2024-10-08 14:00:00,27,Homepage,41.6,Tablet
+2024-10-07 00:00:00,367,Checkout,51.4,Desktop
+2024-12-07 15:00:00,267,Cart,93.1,Mobile
+2024-01-03 06:00:00,272,Cart,115.2,Desktop
+2024-05-18 23:00:00,203,Homepage,194.6,Desktop
+2024-10-01 20:00:00,1,Checkout,127.5,Desktop
+2024-01-31 12:00:00,499,Checkout,102.8,Mobile
+2024-07-16 16:00:00,121,Cart,215.8,Mobile
+2024-02-02 00:00:00,30,Cart,276.0,Tablet
+2024-04-11 19:00:00,427,Cart,228.1,Tablet
+2024-09-22 16:00:00,246,Product Page,46.4,Tablet
+2024-01-06 02:00:00,120,Cart,249.2,Desktop
+2024-12-05 06:00:00,306,Homepage,218.5,Tablet
+2024-02-28 00:00:00,10,Homepage,256.9,Mobile
+2024-01-06 05:00:00,204,Product Page,104.8,Mobile
+2024-05-30 12:00:00,16,Checkout,102.0,Mobile
+2024-10-15 18:00:00,87,Cart,179.6,Tablet
+2024-11-05 20:00:00,125,Checkout,212.2,Tablet
+2024-11-03 05:00:00,416,Product Page,18.1,Mobile
+2024-03-24 15:00:00,86,Cart,244.0,Desktop
+2024-06-09 09:00:00,155,Checkout,205.2,Tablet
+2024-03-30 21:00:00,83,Cart,171.3,Desktop
+2024-07-02 10:00:00,479,Product Page,43.4,Desktop
+2024-11-03 19:00:00,157,Checkout,10.9,Mobile
+2024-07-20 12:00:00,287,Product Page,129.5,Tablet
+2024-06-03 12:00:00,299,Search,48.5,Desktop
+2024-06-10 15:00:00,366,Homepage,214.0,Tablet
+2024-09-08 10:00:00,82,Checkout,130.3,Tablet
+2024-12-01 13:00:00,375,Cart,174.4,Mobile
+2024-07-16 03:00:00,280,Cart,20.0,Mobile
+2024-04-22 10:00:00,115,Product Page,277.8,Mobile
+2024-06-09 22:00:00,457,Cart,183.5,Tablet
+2024-01-28 07:00:00,246,Search,265.5,Mobile
+2024-08-22 10:00:00,41,Homepage,81.7,Mobile
+2024-06-13 09:00:00,197,Search,175.7,Tablet
+2024-05-30 18:00:00,173,Homepage,198.0,Desktop
+2024-05-21 02:00:00,106,Checkout,49.7,Tablet
+2024-03-26 06:00:00,168,Cart,111.4,Tablet
+2024-06-11 08:00:00,69,Cart,155.6,Mobile
+2024-08-14 00:00:00,2,Cart,41.8,Mobile
+2024-12-26 04:00:00,401,Checkout,109.7,Tablet
+2024-09-30 12:00:00,492,Search,122.3,Desktop
+2024-06-10 22:00:00,260,Search,244.0,Desktop
+2024-07-25 13:00:00,121,Homepage,43.7,Tablet
+2024-03-10 10:00:00,456,Checkout,190.6,Mobile
+2024-08-28 02:00:00,489,Cart,6.8,Mobile
+2024-03-15 15:00:00,376,Homepage,87.1,Tablet
+2024-12-14 11:00:00,56,Product Page,157.7,Desktop
+2024-10-23 19:00:00,160,Checkout,212.0,Desktop
+2024-09-18 09:00:00,48,Homepage,57.9,Tablet
+2024-11-15 21:00:00,482,Cart,225.7,Tablet
+2024-02-11 17:00:00,43,Checkout,269.1,Desktop
+2024-08-29 05:00:00,438,Search,25.0,Desktop
+2024-04-04 23:00:00,204,Product Page,283.2,Mobile
+2024-01-26 13:00:00,354,Cart,40.5,Mobile
+2024-05-05 23:00:00,142,Homepage,139.6,Desktop
+2024-03-17 19:00:00,364,Homepage,184.5,Mobile
+2024-01-02 01:00:00,128,Product Page,263.5,Tablet
+2024-10-18 12:00:00,88,Search,128.1,Desktop
+2024-03-01 06:00:00,478,Cart,135.3,Mobile
+2024-09-28 09:00:00,330,Search,189.1,Tablet
+2024-06-28 09:00:00,125,Search,98.1,Mobile
+2024-08-17 21:00:00,359,Checkout,86.8,Mobile
+2024-01-04 09:00:00,257,Homepage,136.5,Desktop
+2024-04-15 16:00:00,399,Search,113.0,Desktop
+2024-03-04 17:00:00,219,Product Page,67.2,Mobile
+2024-03-21 22:00:00,14,Homepage,182.3,Mobile
+2024-06-29 14:00:00,488,Product Page,161.7,Tablet
+2024-05-12 08:00:00,420,Checkout,36.1,Desktop
+2024-03-04 13:00:00,379,Cart,204.6,Desktop
+2024-02-21 07:00:00,462,Checkout,185.8,Tablet
+2024-09-14 09:00:00,201,Homepage,36.3,Desktop
+2024-05-02 18:00:00,479,Checkout,210.9,Desktop
+2024-06-25 22:00:00,183,Checkout,55.2,Desktop
+2024-02-20 16:00:00,435,Search,14.0,Mobile
+2024-07-11 02:00:00,366,Homepage,169.0,Tablet
+2024-06-08 21:00:00,325,Search,261.6,Mobile
+2024-12-14 10:00:00,409,Search,147.8,Tablet
+2024-04-27 13:00:00,251,Homepage,202.1,Mobile
+2024-04-07 03:00:00,317,Checkout,34.8,Tablet
+2024-10-31 06:00:00,126,Homepage,201.9,Desktop
+2024-08-01 04:00:00,281,Cart,283.1,Desktop
+2024-10-04 01:00:00,496,Homepage,226.7,Desktop
+2024-10-20 02:00:00,492,Search,41.0,Tablet
+2024-05-15 11:00:00,86,Homepage,59.8,Tablet
+2024-08-07 09:00:00,312,Checkout,39.7,Desktop
+2024-01-15 09:00:00,244,Homepage,13.0,Desktop
+2024-08-07 13:00:00,195,Product Page,140.6,Tablet
+2024-07-05 11:00:00,21,Checkout,151.3,Desktop
+2024-12-12 04:00:00,310,Cart,172.9,Desktop
+2024-08-26 02:00:00,340,Product Page,75.3,Tablet
+2024-04-17 13:00:00,147,Product Page,172.6,Tablet
+2024-12-13 06:00:00,286,Homepage,16.6,Desktop
+2024-10-12 11:00:00,5,Search,230.5,Desktop
+2024-04-12 11:00:00,200,Cart,94.4,Tablet
+2024-12-11 06:00:00,113,Homepage,197.7,Mobile
+2024-02-25 09:00:00,193,Checkout,132.8,Mobile
+2024-10-21 12:00:00,2,Homepage,96.2,Tablet
+2024-08-13 20:00:00,144,Checkout,146.4,Mobile
+2024-10-10 10:00:00,240,Checkout,31.0,Mobile
+2024-01-23 03:00:00,489,Cart,117.8,Tablet
+2024-11-20 15:00:00,440,Checkout,144.7,Tablet
+2024-03-07 13:00:00,134,Cart,237.6,Desktop
+2024-03-18 22:00:00,459,Search,164.5,Tablet
+2024-01-28 09:00:00,107,Search,225.7,Desktop
+2024-04-28 20:00:00,173,Cart,178.5,Desktop
+2024-01-13 10:00:00,275,Homepage,142.5,Desktop
+2024-02-18 19:00:00,386,Search,156.1,Tablet
+2024-03-01 02:00:00,113,Product Page,29.6,Tablet
+2024-06-20 11:00:00,383,Homepage,234.1,Tablet
+2024-09-29 18:00:00,351,Product Page,7.0,Mobile
+2024-10-09 09:00:00,116,Homepage,282.0,Mobile
+2024-10-24 19:00:00,100,Homepage,144.0,Desktop
+2024-01-09 14:00:00,196,Product Page,72.0,Mobile
+2024-03-23 05:00:00,208,Homepage,51.2,Desktop
+2024-05-04 07:00:00,471,Cart,290.9,Desktop
+2024-02-19 02:00:00,223,Product Page,118.1,Mobile
+2024-12-06 08:00:00,321,Homepage,260.0,Mobile
+2024-03-24 01:00:00,111,Product Page,137.5,Desktop
+2024-06-22 23:00:00,107,Product Page,16.3,Tablet
+2024-07-12 08:00:00,267,Checkout,168.5,Desktop
+2024-09-18 12:00:00,129,Product Page,30.6,Mobile
+2024-10-26 14:00:00,165,Product Page,266.8,Mobile
+2024-06-26 07:00:00,78,Cart,122.7,Tablet
+2024-05-20 04:00:00,165,Cart,251.5,Desktop
+2024-11-01 16:00:00,489,Search,123.2,Tablet
+2024-08-23 18:00:00,278,Product Page,100.6,Desktop
+2024-02-03 04:00:00,125,Checkout,281.8,Mobile
+2024-07-10 07:00:00,392,Cart,25.2,Desktop
+2024-02-01 23:00:00,83,Cart,103.0,Mobile
+2024-08-12 10:00:00,281,Checkout,141.4,Mobile
+2024-12-19 18:00:00,343,Search,60.5,Tablet
+2024-07-07 18:00:00,206,Homepage,10.4,Mobile
+2024-06-17 14:00:00,495,Cart,288.8,Tablet
+2024-06-27 23:00:00,332,Homepage,129.9,Mobile
+2024-10-11 16:00:00,452,Checkout,278.9,Tablet
+2024-10-12 07:00:00,190,Homepage,26.4,Tablet
+2024-04-27 08:00:00,292,Checkout,199.7,Desktop
+2024-11-12 09:00:00,74,Product Page,278.6,Tablet
+2024-07-25 19:00:00,392,Checkout,207.1,Tablet
+2024-09-18 15:00:00,433,Homepage,100.7,Mobile
+2024-09-01 02:00:00,83,Search,176.1,Tablet
+2024-10-21 00:00:00,174,Search,236.4,Desktop
+2024-07-01 19:00:00,129,Search,223.1,Tablet
+2024-10-03 15:00:00,102,Product Page,267.5,Desktop
+2024-07-12 23:00:00,425,Cart,207.2,Tablet
+2024-11-10 18:00:00,88,Search,113.7,Tablet
+2024-05-28 10:00:00,409,Cart,108.4,Mobile
+2024-03-13 23:00:00,439,Homepage,89.7,Mobile
+2024-12-30 20:00:00,82,Product Page,296.8,Desktop
+2024-07-09 06:00:00,112,Checkout,203.5,Desktop
+2024-12-24 10:00:00,81,Search,290.7,Mobile
+2024-10-31 23:00:00,110,Search,101.4,Mobile
+2024-06-13 01:00:00,96,Product Page,37.6,Tablet
+2024-01-28 22:00:00,269,Product Page,225.3,Desktop
+2024-09-03 15:00:00,493,Search,110.1,Tablet
+2024-09-06 11:00:00,367,Checkout,170.1,Desktop
+2024-06-15 20:00:00,217,Product Page,141.1,Tablet
+2024-11-22 06:00:00,242,Product Page,179.1,Desktop
+2024-01-08 16:00:00,48,Cart,29.5,Desktop
+2024-07-27 19:00:00,217,Checkout,53.2,Mobile
+2024-04-18 05:00:00,364,Checkout,104.9,Mobile
+2024-03-18 19:00:00,173,Checkout,77.1,Desktop
+2024-10-02 10:00:00,407,Checkout,286.6,Tablet
+2024-09-29 17:00:00,359,Search,8.3,Desktop
+2024-01-04 06:00:00,496,Checkout,244.9,Tablet
+2024-04-07 10:00:00,31,Search,208.6,Mobile
+2024-08-17 07:00:00,195,Product Page,281.5,Tablet
+2024-08-14 14:00:00,250,Product Page,273.1,Tablet
+2024-08-20 01:00:00,26,Homepage,241.5,Desktop
+2024-01-24 14:00:00,76,Search,139.3,Mobile
+2024-03-23 16:00:00,170,Search,273.2,Mobile
+2024-05-17 23:00:00,23,Search,105.4,Mobile
+2024-11-29 07:00:00,53,Homepage,27.9,Tablet
+2024-12-28 20:00:00,227,Homepage,9.0,Mobile
+2024-03-04 11:00:00,28,Cart,58.5,Mobile
+2024-03-06 08:00:00,334,Checkout,126.1,Tablet
+2024-04-18 20:00:00,474,Search,248.3,Desktop
+2024-04-17 00:00:00,345,Homepage,268.4,Desktop
+2024-02-12 23:00:00,264,Checkout,229.3,Desktop
+2024-08-18 04:00:00,191,Homepage,279.1,Desktop
+2024-04-22 18:00:00,406,Product Page,170.9,Tablet
+2024-06-30 02:00:00,311,Homepage,63.6,Mobile
+2024-01-09 08:00:00,419,Homepage,173.8,Desktop
+2024-04-09 04:00:00,56,Checkout,229.8,Mobile
+2024-06-14 07:00:00,422,Search,211.5,Mobile
+2024-08-06 00:00:00,11,Cart,227.7,Tablet
+2024-04-11 00:00:00,278,Checkout,205.3,Mobile
+2024-06-19 05:00:00,352,Homepage,150.0,Mobile
+2024-06-04 02:00:00,403,Cart,102.5,Desktop
+2024-06-28 07:00:00,297,Homepage,157.8,Tablet
+2024-06-05 12:00:00,349,Product Page,284.7,Tablet
+2024-02-21 18:00:00,19,Homepage,29.9,Tablet
+2024-08-17 13:00:00,323,Cart,71.2,Mobile
+2024-07-07 22:00:00,364,Homepage,113.9,Desktop
+2024-11-09 12:00:00,238,Product Page,281.1,Mobile
+2024-08-29 01:00:00,141,Search,68.4,Mobile
+2024-11-15 03:00:00,273,Search,202.5,Desktop
+2024-04-19 22:00:00,100,Checkout,99.2,Tablet
+2024-12-29 03:00:00,64,Cart,181.5,Desktop
+2024-10-14 17:00:00,88,Checkout,102.9,Tablet
+2024-03-29 23:00:00,393,Homepage,171.0,Mobile
+2024-11-01 19:00:00,182,Cart,80.4,Tablet
+2024-06-08 13:00:00,117,Homepage,139.1,Desktop
+2024-05-06 03:00:00,16,Product Page,177.1,Mobile
+2024-08-01 02:00:00,62,Search,107.0,Tablet
+2024-06-13 20:00:00,132,Search,143.6,Desktop
+2024-12-12 00:00:00,64,Checkout,166.6,Mobile
+2024-12-16 22:00:00,242,Homepage,299.7,Mobile
+2024-07-13 04:00:00,284,Homepage,97.4,Mobile
+2024-02-12 05:00:00,381,Homepage,148.9,Desktop
+2024-05-27 23:00:00,462,Cart,114.9,Tablet
+2024-05-10 07:00:00,392,Checkout,178.9,Desktop
+2024-12-13 22:00:00,81,Homepage,76.4,Desktop
+2024-09-20 22:00:00,106,Checkout,169.2,Desktop
+2024-01-10 02:00:00,362,Search,65.7,Mobile
+2024-06-06 00:00:00,214,Checkout,266.3,Tablet
+2024-01-15 02:00:00,187,Cart,247.6,Desktop
+2024-10-09 17:00:00,436,Product Page,205.6,Tablet
+2024-04-24 19:00:00,392,Homepage,24.9,Desktop
+2024-10-05 14:00:00,408,Cart,142.0,Mobile
+2024-12-06 06:00:00,362,Product Page,195.6,Tablet
+2024-04-06 09:00:00,25,Checkout,107.5,Tablet
+2024-04-29 01:00:00,274,Homepage,108.8,Desktop
+2024-10-10 10:00:00,350,Product Page,80.6,Desktop
+2024-07-20 12:00:00,176,Cart,29.2,Tablet
+2024-12-16 07:00:00,38,Homepage,17.8,Desktop
+2024-06-02 11:00:00,16,Homepage,82.5,Desktop
+2024-08-01 22:00:00,57,Homepage,6.4,Tablet
+2024-06-16 04:00:00,248,Homepage,223.4,Desktop
+2024-01-10 12:00:00,134,Checkout,117.7,Mobile
+2024-08-17 19:00:00,126,Checkout,68.1,Tablet
+2024-02-21 02:00:00,155,Product Page,194.8,Mobile
+2024-04-21 14:00:00,26,Homepage,260.3,Mobile
+2024-08-22 21:00:00,40,Checkout,72.8,Mobile
+2024-09-21 07:00:00,106,Search,36.4,Tablet
+2024-10-06 23:00:00,398,Product Page,184.2,Desktop
+2024-06-18 12:00:00,379,Checkout,136.5,Desktop
+2024-01-07 11:00:00,48,Product Page,231.9,Tablet
+2024-11-19 23:00:00,435,Homepage,130.9,Mobile
+2024-07-20 11:00:00,273,Cart,154.0,Mobile
+2024-06-12 13:00:00,85,Search,210.0,Mobile
+2024-04-07 15:00:00,172,Product Page,113.2,Tablet
+2024-10-22 17:00:00,257,Homepage,149.4,Tablet
+2024-03-18 07:00:00,131,Homepage,195.2,Mobile
+2024-11-16 21:00:00,314,Checkout,124.0,Tablet
+2024-09-28 08:00:00,413,Homepage,31.0,Tablet
+2024-06-02 00:00:00,333,Product Page,243.0,Desktop
+2024-09-08 09:00:00,24,Homepage,175.5,Mobile
+2024-09-06 22:00:00,55,Homepage,124.6,Tablet
+2024-10-25 08:00:00,26,Cart,51.1,Mobile
+2024-01-03 13:00:00,219,Search,79.7,Desktop
+2024-10-11 04:00:00,259,Homepage,250.5,Desktop
+2024-07-18 08:00:00,341,Search,205.0,Desktop
+2024-09-10 06:00:00,339,Product Page,279.1,Mobile
+2024-11-03 05:00:00,65,Checkout,228.1,Desktop
+2024-06-16 15:00:00,355,Checkout,158.9,Mobile
+2024-07-31 19:00:00,321,Search,120.1,Mobile
+2024-10-20 23:00:00,112,Homepage,208.2,Mobile
+2024-02-12 18:00:00,331,Homepage,24.4,Mobile
+2024-03-14 16:00:00,492,Homepage,275.6,Tablet
+2024-05-22 18:00:00,359,Homepage,50.3,Tablet
+2024-06-29 20:00:00,456,Checkout,235.8,Desktop
+2024-05-22 04:00:00,333,Checkout,205.7,Tablet
+2024-12-19 21:00:00,250,Checkout,53.9,Desktop
+2024-06-22 18:00:00,390,Product Page,9.4,Mobile
+2024-07-12 20:00:00,203,Product Page,263.0,Desktop
+2024-05-15 11:00:00,424,Product Page,179.2,Mobile
+2024-11-25 08:00:00,117,Homepage,91.4,Tablet
+2024-02-17 22:00:00,158,Search,154.2,Tablet
+2024-05-31 20:00:00,304,Cart,215.0,Tablet
+2024-11-28 17:00:00,366,Product Page,252.4,Mobile
+2024-04-08 01:00:00,277,Homepage,201.3,Mobile
+2024-05-05 02:00:00,189,Search,63.6,Desktop
+2024-08-03 08:00:00,299,Cart,286.0,Mobile
+2024-03-25 22:00:00,388,Cart,276.7,Mobile
+2024-03-09 21:00:00,253,Homepage,125.2,Desktop
+2024-09-25 23:00:00,482,Cart,47.1,Desktop
+2024-12-01 14:00:00,314,Checkout,245.2,Tablet
+2024-11-24 08:00:00,326,Search,40.0,Tablet
+2024-07-23 22:00:00,337,Product Page,245.6,Desktop
+2024-12-15 18:00:00,253,Search,296.3,Mobile
+2024-01-04 00:00:00,231,Product Page,246.7,Desktop
+2024-10-01 10:00:00,29,Cart,247.1,Tablet
+2024-05-12 11:00:00,433,Search,110.4,Tablet
+2024-11-18 01:00:00,444,Checkout,257.6,Desktop
+2024-08-26 00:00:00,450,Search,135.9,Tablet
+2024-01-12 21:00:00,38,Homepage,37.4,Mobile
+2024-06-08 12:00:00,318,Search,234.1,Mobile
+2024-12-29 12:00:00,77,Checkout,118.4,Mobile
+2024-10-10 17:00:00,408,Homepage,65.6,Desktop
+2024-01-26 08:00:00,52,Homepage,28.3,Tablet
+2024-02-11 15:00:00,491,Product Page,134.9,Tablet
+2024-09-15 08:00:00,44,Product Page,294.9,Desktop
+2024-04-25 03:00:00,411,Checkout,55.9,Tablet
+2024-09-07 12:00:00,423,Search,48.7,Tablet
+2024-11-12 01:00:00,113,Homepage,121.7,Mobile
+2024-11-18 05:00:00,204,Search,219.0,Mobile
+2024-07-15 20:00:00,287,Checkout,291.8,Mobile
+2024-03-13 04:00:00,466,Checkout,37.4,Tablet
+2024-01-15 21:00:00,403,Checkout,146.4,Desktop
+2024-05-21 21:00:00,44,Product Page,279.8,Desktop
+2024-03-24 01:00:00,368,Search,21.0,Tablet
+2024-09-26 06:00:00,72,Checkout,163.3,Desktop
+2024-08-12 05:00:00,477,Cart,255.8,Mobile
+2024-05-24 02:00:00,394,Homepage,269.2,Tablet
+2024-02-02 03:00:00,42,Checkout,107.3,Desktop
+2024-03-14 10:00:00,154,Product Page,155.3,Desktop
+2024-04-03 23:00:00,440,Cart,264.9,Mobile
+2024-11-25 22:00:00,63,Homepage,125.2,Desktop
+2024-08-30 03:00:00,369,Cart,122.3,Mobile
+2024-08-29 21:00:00,147,Checkout,49.8,Desktop
+2024-04-01 12:00:00,212,Checkout,244.6,Tablet
+2024-09-29 06:00:00,131,Product Page,37.4,Mobile
+2024-06-28 18:00:00,155,Homepage,192.7,Mobile
+2024-08-04 17:00:00,333,Product Page,199.7,Mobile
+2024-05-28 20:00:00,227,Checkout,274.2,Mobile
+2024-11-17 08:00:00,211,Checkout,93.3,Desktop
+2024-08-02 22:00:00,238,Checkout,122.2,Mobile
+2024-12-08 16:00:00,4,Cart,46.9,Desktop
+2024-08-06 08:00:00,413,Search,187.8,Mobile
+2024-11-20 11:00:00,144,Cart,167.3,Desktop
+2024-05-26 04:00:00,251,Cart,296.4,Tablet
+2024-05-06 03:00:00,462,Homepage,202.4,Desktop
+2024-06-22 22:00:00,42,Cart,109.3,Mobile
+2024-06-26 18:00:00,272,Checkout,169.3,Mobile
+2024-08-23 14:00:00,10,Checkout,12.1,Desktop
+2024-07-26 14:00:00,205,Homepage,110.4,Desktop
+2024-11-02 19:00:00,182,Checkout,238.0,Mobile
+2024-12-16 13:00:00,239,Search,12.4,Desktop
+2024-01-04 02:00:00,76,Product Page,163.7,Desktop
+2024-04-05 08:00:00,126,Search,169.7,Desktop
+2024-06-09 19:00:00,441,Checkout,150.0,Tablet
+2024-03-29 03:00:00,45,Product Page,99.3,Mobile
+2024-10-04 16:00:00,33,Search,9.6,Desktop
+2024-04-19 12:00:00,19,Search,148.7,Tablet
+2024-01-16 20:00:00,30,Cart,97.8,Desktop
+2024-01-19 10:00:00,359,Search,88.3,Desktop
+2024-09-24 10:00:00,25,Homepage,196.4,Desktop
+2024-07-31 15:00:00,252,Homepage,49.6,Mobile
+2024-02-07 13:00:00,232,Search,133.1,Desktop
+2024-11-17 07:00:00,285,Checkout,121.5,Tablet
+2024-01-08 00:00:00,219,Checkout,72.7,Tablet
+2024-04-29 15:00:00,30,Checkout,148.2,Mobile
+2024-06-11 06:00:00,261,Homepage,232.6,Desktop
+2024-03-02 17:00:00,394,Search,270.9,Tablet
+2024-08-29 12:00:00,254,Search,71.7,Desktop
+2024-09-04 08:00:00,406,Homepage,193.7,Desktop
+2024-03-13 01:00:00,237,Checkout,35.3,Tablet
+2024-08-18 12:00:00,390,Product Page,259.8,Desktop
+2024-02-03 23:00:00,138,Search,120.9,Tablet
+2024-01-23 04:00:00,281,Homepage,294.3,Tablet
+2024-05-10 20:00:00,180,Checkout,174.7,Desktop
+2024-05-27 06:00:00,480,Checkout,71.3,Desktop
+2024-08-14 18:00:00,226,Checkout,263.9,Tablet
+2024-05-15 16:00:00,490,Checkout,144.6,Tablet
+2024-12-28 12:00:00,18,Product Page,140.0,Mobile
+2024-05-01 12:00:00,229,Checkout,94.1,Tablet
+2024-12-30 19:00:00,270,Cart,19.5,Mobile
+2024-02-09 04:00:00,56,Homepage,295.6,Desktop
+2024-12-06 04:00:00,288,Homepage,177.0,Tablet
+2024-06-12 01:00:00,147,Search,32.3,Tablet
+2024-03-24 17:00:00,26,Cart,97.2,Tablet
+2024-11-18 06:00:00,267,Product Page,83.1,Mobile
+2024-01-20 08:00:00,52,Checkout,273.3,Mobile
+2024-08-01 06:00:00,206,Checkout,138.3,Mobile
+2024-05-28 03:00:00,408,Product Page,173.8,Desktop
+2024-09-11 05:00:00,276,Checkout,117.0,Tablet
+2024-02-05 09:00:00,322,Cart,294.5,Tablet
+2024-05-29 14:00:00,476,Cart,205.0,Desktop
+2024-06-18 14:00:00,356,Checkout,185.5,Tablet
+2024-01-02 14:00:00,351,Search,153.8,Mobile
+2024-08-16 14:00:00,271,Product Page,75.7,Mobile
+2024-10-17 10:00:00,88,Checkout,219.1,Mobile
+2024-12-19 03:00:00,41,Checkout,85.4,Mobile
+2024-11-06 15:00:00,474,Search,247.1,Mobile
+2024-03-01 18:00:00,303,Product Page,13.7,Desktop
+2024-11-29 04:00:00,429,Search,84.8,Mobile
+2024-03-13 17:00:00,336,Cart,263.2,Mobile
+2024-08-27 18:00:00,227,Homepage,99.1,Tablet
+2024-10-19 08:00:00,59,Checkout,208.3,Tablet
+2024-10-17 09:00:00,361,Cart,189.0,Desktop
+2024-05-09 10:00:00,429,Product Page,56.0,Tablet
+2024-05-07 04:00:00,264,Homepage,174.3,Tablet
+2024-10-22 12:00:00,248,Product Page,245.3,Tablet
+2024-11-28 05:00:00,206,Product Page,54.3,Desktop
+2024-10-06 04:00:00,11,Product Page,266.8,Tablet
+2024-11-21 21:00:00,324,Cart,287.4,Mobile
+2024-03-09 01:00:00,51,Cart,236.8,Tablet
+2024-12-15 19:00:00,194,Homepage,43.5,Mobile
+2024-03-07 20:00:00,7,Search,214.8,Tablet
+2024-01-16 16:00:00,147,Checkout,238.4,Desktop
+2024-07-23 03:00:00,226,Cart,228.1,Mobile
+2024-03-21 15:00:00,221,Checkout,118.7,Tablet
+2024-03-31 23:00:00,299,Cart,22.8,Tablet
+2024-02-15 18:00:00,257,Homepage,48.9,Mobile
+2024-02-24 13:00:00,81,Checkout,256.4,Tablet
+2024-10-27 04:00:00,406,Product Page,85.7,Desktop
+2024-11-05 14:00:00,432,Search,156.3,Tablet
+2024-04-08 00:00:00,439,Search,157.4,Mobile
+2024-12-25 13:00:00,316,Search,227.7,Tablet
+2024-10-10 00:00:00,211,Search,141.1,Mobile
+2024-03-08 20:00:00,68,Checkout,167.1,Tablet
+2024-07-08 09:00:00,187,Cart,267.6,Desktop
+2024-02-17 15:00:00,269,Homepage,98.7,Desktop
+2024-11-06 10:00:00,388,Product Page,217.4,Desktop
+2024-04-01 21:00:00,279,Search,157.0,Tablet
+2024-11-26 02:00:00,160,Product Page,37.3,Mobile
+2024-03-25 20:00:00,43,Product Page,252.3,Desktop
+2024-01-14 13:00:00,357,Search,154.6,Desktop
+2024-11-08 15:00:00,275,Search,156.4,Desktop
+2024-03-13 07:00:00,148,Cart,19.7,Mobile
+2024-05-02 18:00:00,121,Homepage,179.6,Tablet
+2024-08-12 21:00:00,58,Product Page,106.9,Mobile
+2024-12-27 22:00:00,97,Search,96.0,Mobile
+2024-05-08 09:00:00,68,Checkout,188.1,Mobile
+2024-12-06 23:00:00,170,Product Page,254.8,Mobile
+2024-09-25 22:00:00,333,Homepage,170.6,Desktop
+2024-06-06 23:00:00,470,Cart,81.9,Mobile
+2024-11-27 23:00:00,116,Checkout,280.7,Tablet
+2024-05-05 14:00:00,55,Search,201.2,Desktop
+2024-12-20 20:00:00,248,Checkout,224.6,Desktop
+2024-10-09 12:00:00,223,Cart,185.9,Mobile
+2024-06-23 06:00:00,304,Search,243.7,Tablet
+2024-05-08 20:00:00,261,Checkout,208.9,Mobile
+2024-01-12 20:00:00,492,Product Page,124.1,Mobile
+2024-12-14 23:00:00,330,Checkout,125.1,Tablet
+2024-02-12 17:00:00,207,Cart,82.4,Tablet
+2024-11-24 07:00:00,398,Checkout,87.3,Desktop
+2024-04-16 18:00:00,432,Checkout,213.5,Desktop
+2024-07-03 16:00:00,66,Product Page,62.4,Tablet
+2024-07-15 11:00:00,286,Product Page,226.3,Tablet
+2024-04-27 01:00:00,358,Homepage,132.3,Desktop
+2024-02-24 08:00:00,337,Checkout,158.9,Mobile
+2024-05-29 18:00:00,329,Search,31.8,Desktop
+2024-06-15 16:00:00,58,Search,268.9,Tablet
+2024-02-07 02:00:00,455,Checkout,214.4,Tablet
+2024-03-04 11:00:00,427,Homepage,5.3,Mobile
+2024-10-08 14:00:00,256,Product Page,281.3,Mobile
+2024-03-22 11:00:00,29,Product Page,58.6,Desktop
+2024-07-23 03:00:00,489,Homepage,96.3,Tablet
+2024-12-12 07:00:00,43,Cart,77.8,Desktop
+2024-03-08 04:00:00,60,Checkout,112.7,Desktop
+2024-04-07 16:00:00,166,Homepage,105.2,Mobile
+2024-11-14 15:00:00,121,Search,38.5,Tablet
+2024-05-22 00:00:00,20,Cart,166.2,Mobile
+2024-11-01 06:00:00,166,Product Page,50.3,Tablet
+2024-10-20 20:00:00,276,Product Page,61.1,Tablet
+2024-03-13 02:00:00,113,Cart,48.1,Desktop
+2024-12-30 19:00:00,185,Product Page,161.1,Tablet
+2024-08-27 22:00:00,319,Product Page,16.8,Tablet
+2024-01-08 03:00:00,177,Search,205.2,Tablet
+2024-03-24 21:00:00,232,Product Page,7.6,Desktop
+2024-04-10 11:00:00,358,Product Page,258.8,Desktop
+2024-04-28 07:00:00,210,Cart,255.0,Desktop
+2024-05-29 03:00:00,108,Search,274.8,Tablet
+2024-09-20 12:00:00,479,Search,191.2,Tablet
+2024-06-24 06:00:00,119,Checkout,224.0,Tablet
+2024-05-15 15:00:00,500,Checkout,245.7,Mobile
+2024-01-01 07:00:00,86,Checkout,135.3,Desktop
+2024-12-03 18:00:00,209,Homepage,136.3,Tablet
+2024-10-22 06:00:00,322,Search,205.4,Desktop
+2024-12-14 00:00:00,36,Checkout,282.2,Desktop
+2024-03-08 07:00:00,303,Search,125.7,Tablet
+2024-07-14 06:00:00,393,Homepage,123.6,Desktop
+2024-07-13 11:00:00,244,Cart,91.3,Desktop
+2024-12-14 11:00:00,169,Cart,21.5,Mobile
+2024-06-03 01:00:00,193,Cart,130.8,Tablet
+2024-11-28 09:00:00,260,Search,64.9,Mobile
+2024-09-06 13:00:00,381,Cart,240.7,Desktop
+2024-04-08 18:00:00,177,Checkout,124.3,Desktop
+2024-11-30 02:00:00,212,Checkout,241.1,Tablet
+2024-10-13 23:00:00,469,Checkout,75.6,Mobile
+2024-10-16 16:00:00,36,Product Page,151.5,Tablet
+2024-03-19 03:00:00,268,Search,269.6,Tablet
+2024-02-13 14:00:00,418,Product Page,237.7,Desktop
+2024-10-28 01:00:00,25,Checkout,295.7,Mobile
+2024-02-19 11:00:00,261,Checkout,28.7,Desktop
+2024-04-13 00:00:00,108,Cart,55.8,Tablet
+2024-08-24 00:00:00,372,Homepage,72.9,Desktop
+2024-12-05 00:00:00,106,Checkout,194.1,Tablet
+2024-10-27 10:00:00,224,Search,273.5,Mobile
+2024-06-06 03:00:00,444,Cart,159.8,Tablet
+2024-04-29 23:00:00,400,Product Page,273.6,Mobile
+2024-05-21 15:00:00,449,Search,206.4,Mobile
+2024-01-30 04:00:00,44,Checkout,109.2,Mobile
+2024-03-12 14:00:00,424,Homepage,251.1,Desktop
+2024-06-23 13:00:00,203,Checkout,166.7,Tablet
+2024-08-05 03:00:00,267,Checkout,115.7,Desktop
+2024-03-28 22:00:00,122,Homepage,69.3,Mobile
+2024-07-18 09:00:00,249,Cart,53.8,Tablet
+2024-04-07 20:00:00,459,Cart,110.0,Desktop
+2024-04-26 08:00:00,417,Product Page,107.4,Desktop
+2024-10-27 06:00:00,454,Cart,299.0,Tablet
+2024-05-06 10:00:00,194,Homepage,288.2,Mobile
+2024-12-11 22:00:00,2,Homepage,297.8,Tablet
+2024-02-13 03:00:00,253,Product Page,61.7,Mobile
+2024-12-28 02:00:00,315,Product Page,180.0,Desktop
+2024-10-17 07:00:00,468,Search,164.2,Tablet
+2024-07-27 11:00:00,404,Product Page,195.1,Desktop
+2024-07-14 11:00:00,411,Cart,295.5,Tablet
+2024-07-03 11:00:00,130,Checkout,34.0,Tablet
+2024-07-21 22:00:00,359,Homepage,181.4,Mobile
+2024-03-21 13:00:00,429,Homepage,51.5,Mobile
+2024-07-28 02:00:00,170,Search,146.8,Mobile
+2024-02-04 09:00:00,146,Product Page,285.5,Mobile
+2024-10-15 16:00:00,176,Product Page,95.6,Mobile
+2024-02-20 05:00:00,464,Checkout,119.7,Tablet
+2024-12-10 08:00:00,240,Search,132.1,Tablet
+2024-06-10 09:00:00,389,Homepage,182.0,Desktop
+2024-04-23 09:00:00,117,Product Page,61.0,Mobile
+2024-04-09 10:00:00,145,Product Page,246.2,Tablet
+2024-06-27 04:00:00,174,Search,156.6,Mobile
+2024-06-24 14:00:00,489,Homepage,145.8,Desktop
+2024-10-12 02:00:00,367,Cart,147.9,Tablet
+2024-08-07 18:00:00,491,Product Page,72.5,Mobile
+2024-08-29 09:00:00,11,Homepage,133.4,Mobile
+2024-12-22 13:00:00,32,Cart,17.9,Desktop
+2024-01-04 07:00:00,291,Homepage,68.4,Tablet
+2024-11-12 11:00:00,395,Product Page,162.1,Mobile
+2024-09-08 04:00:00,471,Checkout,152.5,Mobile
+2024-07-31 14:00:00,49,Cart,25.7,Tablet
+2024-10-28 08:00:00,63,Product Page,253.9,Desktop
+2024-10-06 09:00:00,227,Checkout,101.2,Desktop
+2024-08-04 20:00:00,57,Cart,156.8,Tablet
+2024-07-23 15:00:00,256,Search,267.2,Tablet
+2024-12-20 00:00:00,389,Homepage,179.2,Mobile
+2024-11-03 12:00:00,16,Homepage,258.1,Desktop
+2024-09-08 16:00:00,65,Search,40.5,Mobile
+2024-05-29 14:00:00,204,Search,264.8,Desktop
+2024-11-18 10:00:00,65,Homepage,119.1,Mobile
+2024-02-03 01:00:00,312,Homepage,124.6,Tablet
+2024-09-12 23:00:00,362,Search,109.2,Tablet
+2024-11-08 05:00:00,296,Homepage,20.5,Tablet
+2024-06-21 00:00:00,7,Homepage,153.4,Desktop
+2024-12-07 05:00:00,410,Cart,273.8,Mobile
+2024-05-09 19:00:00,364,Product Page,100.3,Desktop
+2024-05-24 01:00:00,61,Homepage,12.6,Mobile
+2024-07-22 09:00:00,306,Search,101.1,Tablet
+2024-02-29 22:00:00,253,Cart,236.3,Tablet
+2024-07-05 13:00:00,242,Checkout,221.1,Tablet
+2024-01-21 08:00:00,493,Homepage,166.0,Mobile
+2024-08-09 03:00:00,393,Product Page,67.6,Mobile
+2024-03-26 03:00:00,77,Homepage,38.9,Mobile
+2024-12-17 07:00:00,128,Search,65.6,Desktop
+2024-10-30 23:00:00,273,Product Page,130.0,Desktop
+2024-12-26 15:00:00,314,Product Page,234.8,Mobile
+2024-08-11 16:00:00,450,Homepage,185.4,Tablet
+2024-05-14 11:00:00,252,Search,233.3,Mobile
+2024-07-06 07:00:00,402,Cart,56.8,Mobile
+2024-05-05 05:00:00,243,Cart,161.1,Tablet
+2024-05-03 05:00:00,415,Product Page,216.7,Tablet
+2024-05-08 11:00:00,219,Search,245.1,Tablet
+2024-12-17 08:00:00,430,Cart,266.7,Tablet
+2024-04-02 20:00:00,436,Cart,170.2,Mobile
+2024-09-11 19:00:00,255,Cart,197.5,Mobile
+2024-01-28 20:00:00,128,Search,63.6,Mobile
+2024-07-27 14:00:00,241,Cart,64.8,Desktop
+2024-01-04 07:00:00,192,Search,199.7,Mobile
+2024-06-21 09:00:00,116,Product Page,237.3,Tablet
+2024-06-11 08:00:00,385,Cart,47.7,Tablet
+2024-12-01 19:00:00,380,Product Page,276.0,Tablet
+2024-02-08 07:00:00,162,Cart,171.4,Desktop
+2024-09-21 17:00:00,101,Homepage,171.8,Mobile
+2024-05-21 12:00:00,277,Homepage,262.2,Mobile
+2024-10-15 02:00:00,3,Checkout,176.2,Mobile
+2024-01-23 16:00:00,468,Search,199.6,Desktop
+2024-02-17 07:00:00,43,Search,266.3,Desktop
+2024-04-03 09:00:00,286,Product Page,207.1,Mobile
+2024-07-13 09:00:00,33,Checkout,186.0,Tablet
+2024-06-17 00:00:00,415,Product Page,233.0,Desktop
+2024-01-25 10:00:00,132,Search,232.7,Desktop
+2024-09-23 15:00:00,465,Checkout,227.9,Desktop
+2024-11-06 08:00:00,185,Homepage,136.5,Tablet
+2024-11-21 22:00:00,128,Homepage,230.8,Mobile
+2024-09-02 13:00:00,128,Homepage,152.9,Mobile
+2024-05-30 18:00:00,11,Checkout,244.9,Mobile
+2024-07-31 20:00:00,226,Product Page,86.5,Desktop
+2024-04-19 23:00:00,296,Search,9.5,Tablet
+2024-04-02 01:00:00,84,Checkout,257.8,Tablet
+2024-09-02 02:00:00,465,Homepage,270.6,Desktop
+2024-12-21 10:00:00,415,Search,263.3,Mobile
+2024-03-19 06:00:00,134,Product Page,24.0,Tablet
+2024-12-22 18:00:00,290,Checkout,163.1,Desktop
+2024-04-08 03:00:00,35,Product Page,35.6,Desktop
+2024-08-08 21:00:00,69,Cart,19.0,Desktop
+2024-07-04 13:00:00,384,Checkout,10.1,Tablet
+2024-08-17 22:00:00,412,Cart,165.8,Mobile
+2024-01-27 22:00:00,153,Product Page,76.3,Mobile
+2024-12-23 04:00:00,324,Search,239.3,Desktop
+2024-04-16 18:00:00,400,Search,168.8,Tablet
+2024-05-06 00:00:00,378,Search,103.9,Desktop
+2024-02-22 23:00:00,271,Homepage,79.6,Mobile
+2024-10-13 00:00:00,497,Homepage,40.0,Desktop
+2024-09-09 14:00:00,234,Homepage,291.8,Tablet
+2024-01-24 10:00:00,367,Homepage,18.5,Tablet
+2024-05-03 16:00:00,476,Homepage,155.7,Mobile
+2024-10-07 09:00:00,111,Product Page,211.5,Mobile
+2024-04-23 12:00:00,315,Homepage,12.6,Tablet
+2024-07-17 20:00:00,92,Cart,51.9,Mobile
+2024-11-20 04:00:00,307,Checkout,274.5,Tablet
+2024-07-13 17:00:00,351,Homepage,191.6,Mobile
+2024-09-16 07:00:00,216,Product Page,72.6,Mobile
+2024-03-20 12:00:00,444,Cart,224.3,Mobile
+2024-12-09 14:00:00,413,Checkout,292.3,Tablet
+2024-03-28 04:00:00,226,Product Page,223.2,Mobile
+2024-11-10 07:00:00,207,Product Page,276.0,Desktop
+2024-06-06 17:00:00,346,Product Page,110.8,Mobile
+2024-08-11 01:00:00,298,Homepage,162.0,Tablet
+2024-10-13 13:00:00,163,Cart,62.7,Desktop
+2024-08-29 07:00:00,248,Homepage,108.8,Mobile
+2024-03-10 13:00:00,303,Checkout,258.6,Tablet
+2024-02-19 14:00:00,190,Cart,76.6,Desktop
+2024-06-04 10:00:00,402,Homepage,69.0,Mobile
+2024-03-02 21:00:00,199,Checkout,66.9,Tablet
+2024-04-23 18:00:00,302,Product Page,148.1,Tablet
+2024-01-07 01:00:00,91,Search,223.3,Mobile
+2024-06-23 17:00:00,116,Search,64.9,Tablet
+2024-05-26 21:00:00,99,Product Page,242.0,Desktop
+2024-09-18 11:00:00,242,Search,116.8,Tablet
+2024-10-07 02:00:00,353,Search,9.0,Mobile
+2024-02-11 07:00:00,500,Cart,232.3,Mobile
+2024-03-06 13:00:00,337,Checkout,185.2,Mobile
+2024-06-17 18:00:00,163,Search,65.0,Desktop
+2024-11-17 17:00:00,237,Homepage,82.9,Desktop
+2024-06-17 02:00:00,273,Search,224.2,Desktop
+2024-11-29 14:00:00,389,Cart,41.4,Tablet
+2024-07-10 12:00:00,261,Homepage,237.3,Desktop
+2024-07-26 20:00:00,414,Homepage,49.4,Tablet
+2024-05-29 04:00:00,89,Cart,216.7,Desktop
+2024-02-15 04:00:00,158,Search,137.4,Desktop
+2024-01-14 18:00:00,421,Checkout,151.2,Desktop
+2024-08-19 10:00:00,21,Search,299.1,Desktop
+2024-03-02 15:00:00,297,Search,16.1,Tablet
+2024-12-27 20:00:00,88,Checkout,208.2,Tablet
+2024-06-24 20:00:00,138,Search,130.7,Tablet
+2024-12-16 20:00:00,155,Homepage,209.9,Desktop
+2024-06-09 00:00:00,398,Checkout,14.1,Desktop
+2024-12-29 11:00:00,209,Checkout,270.4,Tablet
+2024-11-02 04:00:00,160,Homepage,170.9,Mobile
+2024-07-13 07:00:00,494,Homepage,159.6,Desktop
+2024-12-25 20:00:00,454,Homepage,39.7,Tablet
+2024-11-13 19:00:00,85,Product Page,72.7,Desktop
+2024-10-11 23:00:00,315,Homepage,198.0,Tablet
+2024-10-07 17:00:00,132,Search,24.7,Desktop
+2024-08-18 15:00:00,331,Search,26.9,Tablet
+2024-07-28 15:00:00,383,Homepage,68.9,Mobile
+2024-10-25 14:00:00,331,Cart,278.0,Desktop
+2024-02-25 02:00:00,418,Search,103.2,Tablet
+2024-06-03 21:00:00,402,Cart,194.5,Desktop
+2024-06-22 22:00:00,118,Cart,168.6,Desktop
+2024-05-10 10:00:00,256,Checkout,215.5,Tablet
+2024-06-13 17:00:00,220,Homepage,154.0,Mobile
+2024-08-21 17:00:00,327,Search,28.5,Mobile
+2024-02-16 15:00:00,327,Search,293.9,Desktop
+2024-05-06 16:00:00,298,Homepage,13.9,Tablet
+2024-05-20 02:00:00,254,Cart,261.2,Tablet
+2024-07-20 14:00:00,272,Checkout,162.7,Mobile
+2024-10-07 05:00:00,458,Checkout,158.6,Mobile
+2024-06-18 09:00:00,428,Product Page,69.6,Desktop
+2024-01-15 07:00:00,239,Search,113.1,Tablet
+2024-04-15 04:00:00,340,Homepage,27.7,Desktop
+2024-03-08 09:00:00,344,Search,228.1,Tablet
+2024-09-09 18:00:00,406,Checkout,235.0,Mobile
+2024-10-28 05:00:00,136,Checkout,167.3,Desktop
+2024-02-08 17:00:00,101,Homepage,73.6,Tablet
+2024-11-12 21:00:00,340,Cart,92.1,Desktop
+2024-01-11 20:00:00,381,Product Page,39.1,Desktop
+2024-11-15 10:00:00,50,Search,74.8,Mobile
+2024-03-31 06:00:00,293,Cart,169.6,Desktop
+2024-12-03 19:00:00,259,Cart,192.5,Mobile
+2024-09-04 02:00:00,330,Product Page,203.9,Mobile
+2024-09-20 05:00:00,235,Homepage,62.8,Tablet
+2024-07-19 17:00:00,381,Cart,154.9,Tablet
+2024-04-06 12:00:00,147,Cart,277.4,Desktop
+2024-01-03 14:00:00,293,Search,291.7,Desktop
+2024-06-25 20:00:00,178,Search,262.2,Desktop
+2024-05-21 23:00:00,143,Checkout,209.9,Mobile
+2024-06-07 06:00:00,456,Search,54.3,Mobile
+2024-05-29 16:00:00,388,Homepage,237.1,Mobile
+2024-12-04 16:00:00,146,Cart,254.8,Mobile
+2024-12-26 22:00:00,151,Search,40.3,Mobile
+2024-07-04 21:00:00,298,Product Page,188.4,Tablet
+2024-05-24 20:00:00,221,Homepage,93.5,Tablet
+2024-10-21 19:00:00,248,Product Page,14.7,Desktop
+2024-10-08 22:00:00,3,Checkout,215.8,Desktop
+2024-05-14 00:00:00,342,Cart,194.3,Mobile
+2024-02-21 10:00:00,271,Search,71.1,Mobile
+2024-02-10 10:00:00,237,Homepage,193.5,Desktop
+2024-04-20 14:00:00,37,Product Page,184.0,Mobile
+2024-07-29 12:00:00,392,Search,237.2,Desktop
+2024-01-16 13:00:00,50,Checkout,6.8,Desktop
+2024-05-15 05:00:00,261,Search,107.2,Desktop
+2024-02-02 01:00:00,334,Checkout,104.6,Desktop
+2024-07-22 12:00:00,226,Checkout,30.0,Mobile
+2024-12-03 04:00:00,350,Cart,156.1,Desktop
+2024-04-08 10:00:00,27,Homepage,120.1,Mobile
+2024-01-14 13:00:00,287,Checkout,195.4,Desktop
+2024-09-22 23:00:00,443,Product Page,186.0,Mobile
+2024-05-01 07:00:00,279,Product Page,8.7,Tablet
+2024-07-23 06:00:00,407,Checkout,202.3,Desktop
+2024-12-06 19:00:00,25,Cart,221.7,Tablet
+2024-07-17 11:00:00,473,Product Page,273.8,Mobile
+2024-03-07 11:00:00,153,Homepage,116.2,Mobile
+2024-10-19 14:00:00,62,Product Page,198.6,Mobile
+2024-01-05 06:00:00,459,Product Page,186.8,Mobile
+2024-03-15 03:00:00,419,Cart,93.4,Desktop
+2024-01-17 16:00:00,464,Checkout,258.7,Desktop
+2024-10-23 04:00:00,283,Checkout,108.9,Desktop
+2024-01-17 12:00:00,391,Cart,16.1,Desktop
+2024-07-02 06:00:00,283,Homepage,56.2,Tablet
+2024-10-29 11:00:00,376,Homepage,189.4,Mobile
+2024-09-30 12:00:00,70,Checkout,164.9,Mobile
+2024-12-29 22:00:00,156,Product Page,231.4,Tablet
+2024-01-06 19:00:00,381,Cart,24.3,Tablet
+2024-03-31 09:00:00,483,Cart,270.3,Tablet
+2024-09-14 11:00:00,443,Product Page,142.4,Mobile
+2024-02-27 07:00:00,73,Checkout,13.7,Tablet
+2024-02-05 15:00:00,431,Product Page,226.2,Desktop
+2024-11-07 10:00:00,71,Search,112.8,Desktop
+2024-05-02 02:00:00,302,Search,211.2,Desktop
+2024-07-17 12:00:00,277,Product Page,275.8,Mobile
+2024-05-19 05:00:00,263,Checkout,240.6,Desktop
+2024-03-30 08:00:00,84,Product Page,267.2,Mobile
+2024-08-25 05:00:00,45,Homepage,153.3,Desktop
+2024-08-19 13:00:00,377,Cart,21.2,Tablet
+2024-12-05 19:00:00,50,Product Page,76.5,Desktop
+2024-01-19 20:00:00,432,Product Page,65.7,Desktop
+2024-07-05 19:00:00,381,Search,169.2,Tablet
+2024-12-28 10:00:00,172,Product Page,238.7,Desktop
+2024-12-21 20:00:00,356,Product Page,153.2,Mobile
+2024-04-01 23:00:00,499,Cart,41.8,Desktop
+2024-09-02 18:00:00,189,Search,139.7,Desktop
+2024-08-12 07:00:00,38,Cart,166.8,Mobile
+2024-04-17 00:00:00,213,Cart,39.1,Mobile
+2024-10-03 05:00:00,84,Product Page,173.2,Desktop
+2024-12-16 21:00:00,357,Homepage,136.5,Desktop
+2024-05-28 14:00:00,499,Homepage,112.1,Tablet
+2024-02-19 04:00:00,45,Search,175.3,Desktop
+2024-02-26 13:00:00,176,Search,30.4,Mobile
+2024-04-25 04:00:00,42,Homepage,213.8,Mobile
+2024-08-26 00:00:00,23,Product Page,106.0,Desktop
+2024-07-03 07:00:00,309,Checkout,14.2,Desktop
+2024-04-24 18:00:00,298,Product Page,118.5,Desktop
+2024-09-19 22:00:00,233,Checkout,41.4,Tablet
+2024-05-23 01:00:00,461,Checkout,39.6,Desktop
+2024-07-20 02:00:00,477,Homepage,150.6,Mobile
+2024-04-16 01:00:00,293,Cart,60.2,Tablet
+2024-08-27 13:00:00,213,Product Page,158.3,Desktop
+2024-12-18 01:00:00,4,Checkout,217.6,Mobile
+2024-12-06 23:00:00,449,Cart,119.1,Desktop
+2024-09-30 02:00:00,465,Checkout,172.8,Tablet
+2024-02-29 05:00:00,239,Search,230.9,Tablet
+2024-05-11 16:00:00,164,Cart,221.7,Mobile
+2024-08-16 06:00:00,469,Homepage,174.5,Mobile
+2024-02-08 11:00:00,416,Homepage,157.1,Tablet
+2024-08-15 01:00:00,420,Homepage,264.0,Tablet
+2024-12-17 07:00:00,428,Homepage,28.5,Desktop
+2024-10-30 01:00:00,45,Homepage,207.4,Mobile
+2024-03-29 11:00:00,369,Search,109.7,Tablet
+2024-02-05 10:00:00,361,Search,46.3,Desktop
+2024-08-26 11:00:00,118,Search,68.9,Tablet
+2024-07-03 12:00:00,473,Cart,69.9,Tablet
+2024-02-04 04:00:00,284,Search,91.6,Mobile
+2024-04-22 03:00:00,153,Homepage,114.0,Mobile
+2024-05-07 07:00:00,323,Homepage,287.5,Desktop
+2024-06-10 13:00:00,16,Cart,192.0,Mobile
+2024-08-18 22:00:00,240,Product Page,234.7,Desktop
+2024-11-25 02:00:00,9,Product Page,233.5,Mobile
+2024-01-16 22:00:00,123,Homepage,31.3,Tablet
+2024-11-21 19:00:00,296,Checkout,204.2,Desktop
+2024-04-05 14:00:00,436,Search,143.1,Mobile
+2024-12-25 23:00:00,128,Search,206.5,Mobile
+2024-05-28 10:00:00,41,Checkout,220.8,Tablet
+2024-09-22 03:00:00,340,Checkout,9.3,Desktop
+2024-10-19 07:00:00,221,Checkout,242.7,Mobile
+2024-05-01 22:00:00,199,Cart,181.1,Mobile
+2024-11-09 11:00:00,138,Checkout,138.3,Tablet
+2024-03-17 15:00:00,365,Homepage,216.9,Tablet
+2024-01-27 05:00:00,84,Product Page,107.3,Tablet
+2024-05-18 09:00:00,170,Checkout,236.6,Mobile
+2024-10-27 22:00:00,130,Search,73.9,Desktop
+2024-01-25 01:00:00,301,Cart,60.6,Desktop
+2024-09-11 10:00:00,279,Cart,262.9,Desktop
+2024-05-02 16:00:00,137,Checkout,252.0,Mobile
+2024-02-27 11:00:00,416,Search,299.4,Tablet
+2024-10-09 22:00:00,359,Homepage,277.0,Desktop
+2024-06-29 10:00:00,377,Checkout,24.3,Desktop
+2024-11-07 17:00:00,289,Search,146.4,Tablet
+2024-04-16 22:00:00,441,Checkout,30.9,Mobile
+2024-04-12 13:00:00,480,Search,102.5,Tablet
+2024-08-20 01:00:00,392,Cart,149.8,Desktop
+2024-03-21 14:00:00,62,Search,294.1,Mobile
+2024-07-11 12:00:00,257,Checkout,224.2,Mobile
+2024-08-01 00:00:00,109,Product Page,49.4,Mobile
+2024-09-27 23:00:00,286,Homepage,170.4,Tablet
+2024-08-12 07:00:00,61,Search,255.6,Desktop
+2024-02-06 03:00:00,369,Checkout,46.3,Desktop
+2024-05-31 07:00:00,161,Cart,76.3,Tablet
+2024-06-25 21:00:00,231,Product Page,138.5,Mobile
+2024-07-13 16:00:00,123,Checkout,128.7,Tablet
+2024-02-02 14:00:00,281,Homepage,231.9,Mobile
+2024-10-05 09:00:00,386,Checkout,35.1,Desktop
+2024-01-04 04:00:00,224,Product Page,213.9,Desktop
+2024-08-17 11:00:00,206,Checkout,248.9,Desktop
+2024-11-26 16:00:00,175,Checkout,69.7,Tablet
+2024-04-26 07:00:00,195,Search,234.5,Desktop
+2024-05-24 00:00:00,493,Search,167.7,Desktop
+2024-11-16 05:00:00,257,Cart,236.0,Mobile
+2024-10-24 02:00:00,287,Cart,13.8,Desktop
+2024-11-17 18:00:00,427,Cart,117.7,Mobile
+2024-11-01 02:00:00,156,Cart,257.9,Tablet
+2024-01-06 20:00:00,323,Homepage,153.9,Desktop
+2024-01-01 09:00:00,13,Checkout,290.7,Tablet
+2024-12-07 11:00:00,100,Search,158.8,Mobile
+2024-12-02 04:00:00,323,Cart,27.4,Desktop
+2024-12-26 11:00:00,232,Checkout,194.9,Mobile
+2024-07-03 07:00:00,406,Product Page,64.3,Mobile
+2024-10-22 12:00:00,60,Product Page,264.6,Tablet
+2024-06-03 15:00:00,492,Product Page,79.3,Tablet
+2024-11-04 00:00:00,183,Product Page,158.5,Mobile
+2024-03-24 16:00:00,79,Checkout,138.5,Desktop
+2024-07-22 19:00:00,302,Product Page,44.6,Mobile
+2024-04-15 02:00:00,403,Checkout,204.6,Tablet
+2024-02-14 10:00:00,236,Homepage,105.7,Desktop
+2024-06-13 07:00:00,163,Homepage,293.1,Mobile
+2024-05-18 04:00:00,196,Homepage,26.9,Tablet
+2024-10-29 10:00:00,386,Search,194.5,Desktop
+2024-11-20 10:00:00,407,Product Page,43.5,Mobile
+2024-10-15 17:00:00,282,Checkout,64.8,Tablet
+2024-02-11 15:00:00,332,Cart,251.4,Tablet
+2024-02-12 01:00:00,101,Homepage,269.5,Desktop
+2024-08-29 12:00:00,154,Cart,128.7,Tablet
+2024-11-29 09:00:00,444,Checkout,61.5,Desktop
+2024-11-12 08:00:00,464,Product Page,136.6,Desktop
+2024-03-13 17:00:00,221,Checkout,81.5,Desktop
+2024-08-20 16:00:00,179,Homepage,165.8,Desktop
+2024-09-07 11:00:00,284,Product Page,78.7,Tablet
+2024-10-08 09:00:00,285,Checkout,193.1,Desktop
+2024-12-23 02:00:00,177,Checkout,243.6,Tablet
+2024-11-08 13:00:00,309,Search,56.2,Desktop
+2024-08-09 04:00:00,433,Homepage,251.5,Desktop
+2024-11-13 02:00:00,51,Homepage,190.6,Mobile
+2024-05-14 15:00:00,74,Product Page,118.5,Mobile
+2024-09-25 23:00:00,25,Product Page,289.7,Tablet
+2024-03-30 22:00:00,428,Homepage,163.3,Desktop
+2024-05-30 11:00:00,89,Cart,210.6,Desktop
+2024-10-04 12:00:00,377,Homepage,244.8,Desktop
+2024-05-29 15:00:00,346,Checkout,140.1,Mobile
+2024-08-01 03:00:00,298,Checkout,150.0,Desktop
+2024-01-12 11:00:00,188,Search,250.9,Tablet
+2024-01-01 10:00:00,142,Homepage,33.3,Desktop
+2024-04-07 08:00:00,438,Search,64.7,Tablet
+2024-12-14 15:00:00,420,Product Page,298.5,Tablet
+2024-11-22 20:00:00,92,Search,275.0,Tablet
+2024-05-27 06:00:00,286,Homepage,183.2,Tablet
+2024-04-09 22:00:00,256,Cart,209.1,Desktop
+2024-07-28 10:00:00,172,Search,69.5,Tablet
+2024-02-16 00:00:00,102,Cart,120.7,Tablet
+2024-09-08 19:00:00,335,Search,28.2,Mobile
+2024-04-25 15:00:00,85,Product Page,62.2,Tablet
+2024-01-05 04:00:00,494,Cart,112.4,Mobile
+2024-12-14 03:00:00,253,Product Page,99.9,Tablet
+2024-06-16 13:00:00,208,Checkout,88.2,Tablet
+2024-06-11 03:00:00,235,Search,103.1,Mobile
+2024-09-05 23:00:00,214,Cart,242.6,Desktop
+2024-09-27 03:00:00,63,Homepage,201.8,Mobile
+2024-10-16 12:00:00,182,Homepage,217.4,Mobile
+2024-02-08 01:00:00,450,Homepage,291.4,Tablet
+2024-11-01 11:00:00,426,Checkout,26.7,Mobile
+2024-02-17 11:00:00,313,Cart,113.7,Tablet
+2024-10-06 04:00:00,316,Search,244.1,Tablet
+2024-11-04 10:00:00,60,Homepage,78.8,Tablet
+2024-10-25 16:00:00,182,Cart,248.4,Desktop
+2024-12-13 16:00:00,176,Product Page,14.9,Desktop
+2024-07-02 04:00:00,172,Search,199.1,Mobile
+2024-02-17 22:00:00,326,Product Page,13.9,Tablet
+2024-11-13 12:00:00,76,Homepage,43.8,Mobile
+2024-12-27 05:00:00,299,Product Page,147.4,Mobile
+2024-09-06 22:00:00,297,Checkout,272.4,Mobile
+2024-11-10 13:00:00,1,Search,287.9,Desktop
+2024-12-27 01:00:00,438,Homepage,262.7,Desktop
+2024-03-24 06:00:00,80,Cart,286.0,Tablet
+2024-09-01 15:00:00,192,Product Page,116.6,Mobile
+2024-07-29 13:00:00,466,Search,181.0,Tablet
+2024-02-16 16:00:00,296,Homepage,185.3,Tablet
+2024-09-23 20:00:00,184,Search,292.7,Mobile
+2024-03-17 09:00:00,86,Product Page,253.9,Tablet
+2024-11-10 07:00:00,267,Checkout,192.0,Desktop
+2024-07-29 22:00:00,361,Cart,296.1,Desktop
+2024-11-29 01:00:00,206,Checkout,63.4,Tablet
+2024-07-15 21:00:00,175,Checkout,287.0,Tablet
+2024-11-19 11:00:00,185,Cart,97.3,Tablet
+2024-03-13 08:00:00,221,Search,13.6,Mobile
+2024-08-26 02:00:00,193,Homepage,7.6,Tablet
+2024-07-06 21:00:00,222,Search,247.5,Mobile
+2024-08-04 08:00:00,277,Search,184.8,Mobile
+2024-12-28 15:00:00,413,Cart,243.5,Desktop
+2024-01-14 04:00:00,249,Homepage,15.7,Tablet
+2024-01-18 00:00:00,67,Homepage,32.8,Mobile
+2024-03-12 16:00:00,318,Homepage,51.0,Tablet
+2024-02-04 05:00:00,328,Product Page,118.5,Mobile
+2024-10-31 00:00:00,236,Search,87.3,Desktop
+2024-02-16 20:00:00,345,Checkout,221.2,Mobile
+2024-02-28 03:00:00,304,Checkout,226.2,Desktop
+2024-09-25 11:00:00,44,Product Page,210.3,Mobile
+2024-02-04 14:00:00,60,Homepage,260.1,Mobile
+2024-01-28 10:00:00,117,Search,92.5,Desktop
+2024-08-21 21:00:00,191,Homepage,99.7,Tablet
+2024-08-29 09:00:00,352,Homepage,121.1,Desktop
+2024-02-19 11:00:00,300,Checkout,58.9,Tablet
+2024-08-24 14:00:00,75,Product Page,7.6,Tablet
+2024-09-05 14:00:00,111,Search,91.3,Tablet
+2024-08-08 04:00:00,144,Search,208.5,Mobile
+2024-10-12 15:00:00,332,Checkout,171.2,Tablet
+2024-06-13 11:00:00,328,Search,265.9,Mobile
+2024-09-07 01:00:00,469,Cart,99.2,Desktop
+2024-07-30 00:00:00,397,Homepage,206.8,Tablet
+2024-09-30 04:00:00,342,Homepage,92.3,Desktop
+2024-06-03 18:00:00,61,Checkout,63.7,Tablet
+2024-03-07 21:00:00,185,Checkout,80.6,Mobile
+2024-05-24 09:00:00,37,Checkout,214.3,Mobile
+2024-10-21 20:00:00,6,Checkout,239.1,Desktop
+2024-11-12 02:00:00,428,Cart,284.3,Mobile
+2024-04-14 13:00:00,90,Product Page,33.9,Desktop
+2024-03-18 06:00:00,312,Product Page,193.2,Mobile
+2024-03-05 11:00:00,362,Product Page,89.3,Tablet
+2024-07-13 10:00:00,266,Cart,296.3,Mobile
+2024-01-23 17:00:00,262,Search,166.7,Tablet
+2024-09-14 06:00:00,129,Search,61.9,Desktop
+2024-04-15 10:00:00,66,Search,144.5,Tablet
+2024-03-24 10:00:00,369,Cart,126.4,Desktop
+2024-04-30 01:00:00,380,Cart,19.7,Mobile
+2024-08-26 03:00:00,138,Search,266.3,Mobile
+2024-01-21 05:00:00,368,Search,110.1,Mobile
+2024-10-29 23:00:00,164,Product Page,276.8,Mobile
+2024-11-28 22:00:00,281,Product Page,117.2,Mobile
+2024-01-08 18:00:00,1,Search,237.6,Mobile
+2024-09-14 15:00:00,342,Checkout,106.9,Tablet
+2024-08-21 00:00:00,130,Cart,119.3,Tablet
+2024-07-14 10:00:00,133,Checkout,267.7,Tablet
+2024-01-07 06:00:00,341,Homepage,73.1,Desktop
+2024-09-01 08:00:00,398,Checkout,288.4,Mobile
+2024-03-20 16:00:00,115,Checkout,217.5,Tablet
+2024-06-12 08:00:00,246,Product Page,33.9,Tablet
+2024-09-04 11:00:00,58,Product Page,126.5,Desktop
+2024-12-06 07:00:00,253,Search,236.6,Mobile
+2024-01-19 21:00:00,440,Search,84.5,Desktop
+2024-06-11 21:00:00,345,Search,192.5,Mobile
+2024-02-04 20:00:00,157,Homepage,278.8,Mobile
+2024-05-28 09:00:00,34,Homepage,52.5,Mobile
+2024-10-23 07:00:00,163,Product Page,265.6,Tablet
+2024-11-28 15:00:00,16,Homepage,249.5,Desktop
+2024-08-06 10:00:00,441,Search,233.2,Mobile
+2024-12-01 12:00:00,357,Homepage,104.7,Tablet
+2024-11-07 10:00:00,427,Product Page,72.5,Tablet
+2024-01-28 04:00:00,105,Cart,245.3,Mobile
+2024-12-03 20:00:00,29,Search,152.6,Desktop
+2024-07-20 14:00:00,5,Product Page,59.3,Mobile
+2024-10-09 21:00:00,308,Search,157.3,Tablet
+2024-10-10 07:00:00,237,Cart,196.5,Mobile
+2024-10-30 17:00:00,101,Checkout,59.9,Mobile
+2024-05-16 10:00:00,3,Search,97.4,Mobile
+2024-08-31 15:00:00,85,Homepage,244.5,Mobile
+2024-05-21 08:00:00,9,Product Page,139.9,Tablet
+2024-07-12 13:00:00,168,Homepage,229.5,Desktop
+2024-02-04 03:00:00,368,Checkout,248.7,Desktop
+2024-04-10 16:00:00,348,Product Page,36.3,Mobile
+2024-12-08 00:00:00,88,Product Page,227.3,Tablet
+2024-11-11 20:00:00,107,Homepage,48.8,Desktop
+2024-03-18 20:00:00,110,Search,87.0,Tablet
+2024-01-07 13:00:00,89,Product Page,163.3,Desktop
+2024-06-12 05:00:00,113,Product Page,275.9,Mobile
+2024-10-01 19:00:00,149,Checkout,247.8,Desktop
+2024-10-18 12:00:00,75,Checkout,282.4,Tablet
+2024-01-25 17:00:00,461,Homepage,26.4,Tablet
+2024-03-11 13:00:00,366,Product Page,270.6,Mobile
+2024-03-20 16:00:00,287,Product Page,255.5,Tablet
+2024-09-13 13:00:00,31,Search,183.6,Tablet
+2024-12-23 14:00:00,360,Search,5.2,Mobile
+2024-12-25 21:00:00,486,Homepage,114.9,Desktop
+2024-07-10 14:00:00,293,Search,51.8,Mobile
+2024-04-16 17:00:00,171,Homepage,285.7,Tablet
+2024-07-20 10:00:00,223,Checkout,133.5,Tablet
+2024-08-01 14:00:00,259,Homepage,11.0,Mobile
+2024-10-07 18:00:00,358,Homepage,256.6,Tablet
+2024-04-08 05:00:00,419,Checkout,156.9,Mobile
+2024-02-24 13:00:00,405,Checkout,55.8,Mobile
+2024-12-27 17:00:00,297,Cart,5.9,Desktop
+2024-01-23 11:00:00,152,Search,209.8,Mobile
+2024-08-25 12:00:00,287,Product Page,94.4,Tablet
+2024-04-13 02:00:00,170,Homepage,294.2,Mobile
+2024-01-30 08:00:00,273,Checkout,237.5,Mobile
+2024-12-16 08:00:00,213,Homepage,220.5,Desktop
+2024-09-02 20:00:00,380,Product Page,12.8,Desktop
+2024-10-04 00:00:00,459,Checkout,217.0,Desktop
+2024-01-25 08:00:00,20,Product Page,75.3,Desktop
+2024-07-10 03:00:00,169,Product Page,238.7,Mobile
+2024-11-14 22:00:00,2,Search,177.3,Mobile
+2024-02-14 03:00:00,328,Search,237.8,Tablet
+2024-10-26 12:00:00,239,Search,173.1,Tablet
+2024-12-22 12:00:00,445,Homepage,126.6,Mobile
+2024-03-03 20:00:00,328,Cart,104.8,Desktop
+2024-01-15 05:00:00,123,Product Page,202.3,Desktop
+2024-01-30 22:00:00,463,Search,57.8,Mobile
+2024-06-10 18:00:00,426,Checkout,183.0,Desktop
+2024-08-22 23:00:00,447,Product Page,234.3,Desktop
+2024-10-18 12:00:00,421,Cart,119.7,Mobile
+2024-07-26 07:00:00,448,Checkout,183.4,Desktop
+2024-11-05 12:00:00,405,Search,54.9,Tablet
+2024-09-05 02:00:00,493,Search,174.1,Mobile
+2024-09-04 08:00:00,137,Product Page,7.1,Desktop
+2024-12-13 11:00:00,184,Product Page,294.9,Desktop
+2024-02-15 11:00:00,87,Homepage,197.6,Mobile
+2024-02-27 02:00:00,263,Cart,90.8,Tablet
+2024-03-02 02:00:00,186,Cart,261.9,Desktop
+2024-02-05 19:00:00,113,Cart,36.7,Mobile
+2024-08-23 08:00:00,339,Checkout,196.7,Tablet
+2024-07-20 10:00:00,28,Checkout,298.2,Desktop
+2024-07-23 21:00:00,85,Search,14.3,Mobile
+2024-01-09 16:00:00,270,Homepage,248.2,Tablet
+2024-06-14 07:00:00,471,Checkout,131.0,Desktop
+2024-02-23 16:00:00,171,Checkout,80.5,Desktop
+2024-12-07 20:00:00,178,Cart,52.2,Tablet
+2024-02-06 09:00:00,256,Homepage,270.2,Mobile
+2024-09-12 14:00:00,212,Homepage,221.2,Tablet
+2024-08-29 09:00:00,481,Checkout,99.0,Tablet
+2024-12-22 05:00:00,493,Product Page,185.6,Tablet
+2024-12-25 06:00:00,432,Product Page,144.9,Tablet
+2024-09-12 16:00:00,42,Cart,43.1,Tablet
+2024-01-15 23:00:00,229,Checkout,277.7,Tablet
+2024-02-21 12:00:00,213,Cart,115.3,Desktop
+2024-03-26 02:00:00,196,Search,32.0,Mobile
+2024-01-16 06:00:00,450,Search,51.6,Desktop
+2024-08-12 06:00:00,211,Search,206.3,Desktop
+2024-02-28 23:00:00,443,Cart,14.1,Tablet
+2024-12-01 21:00:00,24,Cart,26.9,Tablet
+2024-09-28 18:00:00,458,Product Page,251.3,Desktop
+2024-12-02 15:00:00,457,Cart,47.7,Desktop
+2024-04-18 10:00:00,39,Product Page,105.5,Tablet
+2024-03-22 13:00:00,261,Checkout,173.7,Desktop
+2024-09-17 07:00:00,457,Product Page,145.4,Mobile
+2024-09-22 05:00:00,120,Product Page,202.6,Desktop
+2024-06-15 13:00:00,264,Homepage,42.3,Desktop
+2024-08-14 14:00:00,350,Checkout,60.2,Tablet
+2024-12-19 17:00:00,447,Search,24.6,Desktop
+2024-03-17 18:00:00,426,Search,286.7,Mobile
+2024-04-05 14:00:00,344,Checkout,113.0,Desktop
+2024-07-16 06:00:00,281,Homepage,31.1,Desktop
+2024-03-18 22:00:00,121,Cart,78.6,Mobile
+2024-11-13 19:00:00,187,Product Page,295.8,Mobile
+2024-10-12 19:00:00,194,Cart,121.4,Mobile
+2024-03-13 07:00:00,122,Homepage,62.0,Desktop
+2024-11-29 06:00:00,360,Checkout,111.6,Tablet
+2024-03-01 15:00:00,334,Cart,101.9,Desktop
+2024-11-13 04:00:00,244,Cart,37.1,Desktop
+2024-07-04 17:00:00,140,Homepage,247.6,Mobile
+2024-05-07 07:00:00,400,Search,27.9,Tablet
+2024-02-23 21:00:00,361,Product Page,135.4,Tablet
+2024-08-27 10:00:00,126,Product Page,221.8,Desktop
+2024-11-09 00:00:00,36,Checkout,212.6,Mobile
+2024-01-07 15:00:00,487,Product Page,258.6,Mobile
+2024-04-28 04:00:00,12,Cart,210.7,Desktop
+2024-09-20 11:00:00,499,Search,255.7,Tablet
+2024-05-21 08:00:00,156,Homepage,88.3,Desktop
+2024-01-29 16:00:00,76,Search,171.4,Mobile
+2024-07-26 19:00:00,164,Cart,132.1,Desktop
+2024-11-24 14:00:00,163,Checkout,28.0,Mobile
+2024-10-25 16:00:00,296,Search,222.2,Desktop
+2024-11-24 09:00:00,374,Product Page,81.6,Desktop
+2024-06-25 18:00:00,314,Homepage,65.8,Mobile
+2024-05-31 15:00:00,218,Checkout,135.2,Mobile
+2024-12-20 17:00:00,60,Search,129.4,Desktop
+2024-11-09 03:00:00,373,Checkout,38.1,Mobile
+2024-10-20 15:00:00,413,Homepage,133.5,Tablet
+2024-10-21 17:00:00,243,Checkout,12.2,Tablet
+2024-12-22 00:00:00,15,Search,59.1,Tablet
+2024-11-04 06:00:00,423,Search,46.9,Mobile
+2024-04-15 16:00:00,86,Checkout,177.1,Mobile
+2024-01-28 16:00:00,133,Product Page,124.1,Tablet
+2024-03-26 01:00:00,477,Homepage,215.4,Tablet
+2024-03-04 13:00:00,334,Search,296.5,Desktop
+2024-04-07 12:00:00,343,Homepage,165.3,Tablet
+2024-12-20 02:00:00,430,Checkout,130.2,Mobile
+2024-01-10 10:00:00,491,Product Page,46.9,Tablet
+2024-04-25 04:00:00,120,Cart,59.9,Mobile
+2024-06-03 21:00:00,278,Checkout,162.1,Desktop
+2024-10-30 11:00:00,57,Product Page,246.9,Desktop
+2024-06-05 22:00:00,32,Product Page,202.7,Mobile
+2024-03-24 21:00:00,74,Cart,294.6,Tablet
+2024-01-09 13:00:00,211,Homepage,12.4,Mobile
+2024-06-02 12:00:00,13,Checkout,102.5,Mobile
+2024-09-08 05:00:00,3,Cart,112.4,Mobile
+2024-10-03 16:00:00,252,Homepage,274.6,Desktop
+2024-03-16 10:00:00,392,Homepage,234.0,Mobile
+2024-06-24 22:00:00,289,Search,213.6,Mobile
+2024-11-28 01:00:00,1,Checkout,154.8,Desktop
+2024-06-27 15:00:00,273,Homepage,122.2,Mobile
+2024-11-17 11:00:00,232,Cart,157.6,Tablet
+2024-01-24 06:00:00,426,Homepage,295.7,Mobile
+2024-10-22 16:00:00,2,Homepage,270.1,Tablet
+2024-07-27 18:00:00,289,Product Page,223.4,Desktop
+2024-12-15 12:00:00,127,Cart,96.6,Desktop
+2024-09-29 02:00:00,417,Product Page,87.3,Mobile
+2024-11-18 23:00:00,144,Cart,261.5,Mobile
+2024-04-04 23:00:00,477,Product Page,95.0,Mobile
+2024-10-06 23:00:00,193,Checkout,138.7,Desktop
+2024-05-13 21:00:00,268,Search,123.1,Tablet
+2024-04-18 17:00:00,269,Search,216.5,Desktop
+2024-02-12 09:00:00,460,Checkout,160.2,Mobile
+2024-04-12 16:00:00,385,Homepage,297.2,Desktop
+2024-05-11 22:00:00,120,Checkout,256.7,Desktop
+2024-04-22 05:00:00,327,Search,201.6,Mobile
+2024-11-17 20:00:00,246,Cart,101.9,Desktop
+2024-12-12 00:00:00,53,Search,46.3,Tablet
+2024-12-26 03:00:00,164,Checkout,257.5,Tablet
+2024-07-14 01:00:00,212,Checkout,223.7,Mobile
+2024-12-28 18:00:00,391,Product Page,24.6,Desktop
+2024-06-10 05:00:00,136,Product Page,14.6,Desktop
+2024-12-04 05:00:00,225,Cart,201.9,Tablet
+2024-05-04 17:00:00,262,Homepage,255.4,Tablet
+2024-10-23 21:00:00,337,Search,104.5,Desktop
+2024-03-09 12:00:00,449,Homepage,28.4,Mobile
+2024-03-10 09:00:00,174,Product Page,55.6,Tablet
+2024-01-20 05:00:00,247,Homepage,258.2,Desktop
+2024-12-10 16:00:00,94,Search,44.0,Tablet
+2024-05-01 03:00:00,391,Cart,190.7,Mobile
+2024-06-11 23:00:00,66,Cart,107.8,Tablet
+2024-08-08 07:00:00,285,Cart,228.4,Tablet
+2024-08-08 08:00:00,258,Homepage,45.5,Mobile
+2024-05-02 05:00:00,301,Search,132.8,Mobile
+2024-12-01 18:00:00,72,Checkout,292.5,Desktop
+2024-06-21 19:00:00,467,Cart,101.1,Mobile
+2024-01-08 14:00:00,381,Checkout,286.1,Desktop
+2024-08-23 03:00:00,318,Cart,23.8,Mobile
+2024-02-24 18:00:00,277,Cart,184.7,Tablet
+2024-05-06 16:00:00,404,Checkout,57.9,Mobile
+2024-04-22 13:00:00,47,Search,29.1,Mobile
+2024-06-06 11:00:00,247,Homepage,133.7,Mobile
+2024-02-27 18:00:00,389,Product Page,243.1,Tablet
+2024-06-07 05:00:00,248,Checkout,143.8,Tablet
+2024-08-01 03:00:00,180,Checkout,213.9,Desktop
+2024-12-30 16:00:00,144,Search,137.0,Mobile
+2024-02-20 04:00:00,96,Product Page,135.6,Desktop
+2024-01-25 03:00:00,373,Product Page,194.7,Tablet
+2024-12-06 19:00:00,152,Search,284.4,Desktop
+2024-01-28 10:00:00,237,Checkout,95.1,Mobile
+2024-02-09 05:00:00,478,Product Page,167.9,Mobile
+2024-10-09 07:00:00,422,Cart,215.9,Mobile
+2024-04-13 02:00:00,375,Search,231.1,Mobile
+2024-10-27 16:00:00,234,Cart,235.5,Desktop
+2024-06-24 19:00:00,272,Cart,166.0,Tablet
+2024-01-21 04:00:00,431,Product Page,230.9,Mobile
+2024-10-03 02:00:00,257,Cart,240.9,Tablet
+2024-07-06 12:00:00,432,Checkout,230.3,Desktop
+2024-01-08 14:00:00,18,Product Page,154.1,Tablet
+2024-12-17 19:00:00,289,Search,5.4,Mobile
+2024-08-15 22:00:00,148,Checkout,141.5,Mobile
+2024-12-05 21:00:00,35,Product Page,56.6,Desktop
+2024-11-02 04:00:00,50,Checkout,256.3,Desktop
+2024-04-03 09:00:00,175,Product Page,269.9,Mobile
+2024-05-26 16:00:00,331,Product Page,185.9,Tablet
+2024-09-26 20:00:00,492,Product Page,247.5,Tablet
+2024-07-16 09:00:00,185,Homepage,47.0,Tablet
+2024-06-16 10:00:00,18,Search,291.4,Tablet
+2024-01-11 03:00:00,473,Cart,104.3,Desktop
+2024-01-13 07:00:00,53,Cart,265.0,Mobile
+2024-01-08 17:00:00,100,Checkout,279.8,Mobile
+2024-11-04 21:00:00,341,Product Page,18.9,Mobile
+2024-10-28 09:00:00,108,Cart,277.7,Mobile
+2024-05-17 17:00:00,399,Search,38.8,Desktop
+2024-06-10 01:00:00,287,Product Page,208.6,Mobile
+2024-05-06 23:00:00,13,Checkout,97.0,Tablet
+2024-11-26 05:00:00,141,Cart,88.5,Tablet
+2024-11-12 22:00:00,253,Cart,31.3,Tablet
+2024-02-06 05:00:00,224,Cart,67.7,Tablet
+2024-12-23 04:00:00,339,Checkout,102.6,Desktop
+2024-02-14 06:00:00,17,Product Page,33.9,Desktop
+2024-12-04 21:00:00,304,Checkout,138.4,Tablet
+2024-04-13 13:00:00,427,Checkout,74.6,Desktop
+2024-03-17 03:00:00,290,Search,291.8,Mobile
+2024-05-19 08:00:00,174,Homepage,223.8,Mobile
+2024-01-22 09:00:00,482,Search,208.2,Tablet
+2024-07-29 00:00:00,120,Search,137.0,Desktop
+2024-07-03 00:00:00,457,Cart,242.2,Desktop
+2024-01-02 18:00:00,78,Checkout,65.2,Desktop
+2024-09-17 21:00:00,351,Checkout,156.3,Mobile
+2024-02-26 05:00:00,371,Cart,64.0,Tablet
+2024-10-31 17:00:00,156,Checkout,237.3,Desktop
+2024-11-21 09:00:00,45,Search,240.1,Desktop
+2024-08-29 15:00:00,61,Checkout,171.3,Mobile
+2024-12-01 09:00:00,113,Checkout,215.5,Mobile
+2024-04-04 17:00:00,316,Product Page,72.3,Desktop
+2024-06-27 11:00:00,473,Homepage,143.8,Desktop
+2024-04-10 11:00:00,491,Homepage,289.1,Tablet
+2024-08-21 00:00:00,16,Checkout,138.3,Desktop
+2024-01-11 19:00:00,382,Cart,294.0,Desktop
+2024-07-08 02:00:00,76,Product Page,238.9,Mobile
+2024-04-23 04:00:00,36,Cart,291.2,Desktop
+2024-02-27 06:00:00,371,Checkout,258.7,Desktop
+2024-03-18 21:00:00,63,Checkout,128.4,Tablet
+2024-02-25 00:00:00,148,Cart,294.0,Desktop
+2024-07-23 04:00:00,230,Checkout,277.8,Mobile
+2024-01-30 04:00:00,421,Homepage,166.0,Tablet
+2024-02-03 16:00:00,467,Search,291.3,Mobile
+2024-11-02 08:00:00,321,Homepage,32.4,Mobile
+2024-05-28 08:00:00,227,Product Page,295.5,Desktop
+2024-08-12 10:00:00,362,Checkout,131.3,Desktop
+2024-03-02 17:00:00,189,Cart,18.9,Tablet
+2024-09-14 12:00:00,25,Homepage,92.7,Mobile
+2024-11-14 22:00:00,287,Product Page,157.2,Tablet
+2024-02-04 16:00:00,386,Homepage,288.0,Tablet
+2024-12-05 22:00:00,298,Search,281.1,Mobile
+2024-10-08 17:00:00,444,Search,193.2,Tablet
+2024-09-01 08:00:00,466,Cart,267.5,Tablet
+2024-07-11 07:00:00,408,Product Page,265.9,Desktop
+2024-09-20 19:00:00,253,Checkout,114.6,Tablet
+2024-08-01 09:00:00,90,Product Page,291.8,Mobile
+2024-10-09 06:00:00,381,Checkout,142.7,Tablet
+2024-03-24 07:00:00,217,Cart,118.7,Tablet
+2024-01-05 18:00:00,14,Homepage,158.7,Tablet
+2024-07-12 17:00:00,256,Checkout,175.2,Tablet
+2024-08-11 08:00:00,116,Product Page,221.4,Tablet
+2024-10-17 23:00:00,307,Search,246.9,Tablet
+2024-12-28 05:00:00,254,Search,148.0,Tablet
+2024-05-18 14:00:00,428,Cart,231.3,Desktop
+2024-02-27 10:00:00,106,Product Page,144.5,Desktop
+2024-06-18 05:00:00,252,Cart,104.6,Tablet
+2024-01-19 17:00:00,499,Cart,119.1,Mobile
+2024-11-25 15:00:00,136,Product Page,163.1,Tablet
+2024-11-23 07:00:00,108,Cart,235.5,Desktop
+2024-10-26 06:00:00,76,Product Page,95.7,Tablet
+2024-03-13 19:00:00,488,Product Page,261.3,Desktop
+2024-01-14 11:00:00,227,Search,40.5,Tablet
+2024-05-05 10:00:00,76,Checkout,161.3,Desktop
+2024-10-01 16:00:00,370,Homepage,147.2,Mobile
+2024-06-13 06:00:00,341,Product Page,163.3,Mobile
+2024-10-18 03:00:00,227,Cart,28.8,Desktop
+2024-10-06 06:00:00,497,Product Page,10.4,Tablet
+2024-08-24 10:00:00,178,Product Page,75.7,Tablet
+2024-11-12 20:00:00,363,Checkout,187.1,Desktop
+2024-11-20 14:00:00,289,Cart,103.6,Mobile
+2024-10-18 17:00:00,36,Homepage,50.5,Mobile
+2024-07-18 18:00:00,180,Search,222.2,Tablet
+2024-11-05 01:00:00,116,Cart,163.2,Desktop
+2024-10-23 21:00:00,176,Search,100.1,Tablet
+2024-05-19 08:00:00,341,Checkout,152.3,Desktop
+2024-07-22 21:00:00,149,Homepage,177.6,Mobile
+2024-09-02 03:00:00,329,Search,193.4,Desktop
+2024-01-30 04:00:00,158,Homepage,188.7,Tablet
+2024-12-04 23:00:00,217,Search,66.5,Desktop
+2024-09-15 15:00:00,427,Homepage,278.0,Tablet
+2024-12-16 01:00:00,345,Checkout,59.5,Tablet
+2024-10-23 01:00:00,334,Checkout,51.9,Tablet
+2024-09-17 12:00:00,205,Search,139.0,Mobile
+2024-03-21 05:00:00,369,Search,270.2,Mobile
+2024-05-28 16:00:00,231,Checkout,205.8,Mobile
+2024-11-26 11:00:00,63,Homepage,77.4,Mobile
+2024-08-31 17:00:00,176,Search,180.4,Desktop
+2024-07-09 02:00:00,241,Checkout,144.7,Mobile
+2024-12-27 20:00:00,417,Checkout,209.6,Tablet
+2024-02-29 22:00:00,278,Product Page,145.7,Desktop
+2024-12-07 08:00:00,118,Product Page,119.8,Mobile
+2024-07-05 15:00:00,131,Cart,191.1,Tablet
+2024-01-18 19:00:00,410,Checkout,228.2,Mobile
+2024-01-26 07:00:00,61,Checkout,224.5,Mobile
+2024-03-21 22:00:00,120,Cart,127.7,Mobile
+2024-12-29 10:00:00,172,Product Page,296.4,Mobile
+2024-04-09 16:00:00,330,Checkout,193.1,Desktop
+2024-10-31 21:00:00,421,Search,278.6,Tablet
+2024-08-27 06:00:00,402,Cart,132.8,Mobile
+2024-11-02 18:00:00,277,Product Page,217.7,Tablet
+2024-12-17 04:00:00,68,Homepage,155.6,Desktop
+2024-06-04 11:00:00,191,Search,97.3,Mobile
+2024-06-25 23:00:00,289,Search,59.6,Tablet
+2024-12-02 08:00:00,41,Checkout,213.4,Desktop
+2024-03-26 21:00:00,433,Cart,267.2,Desktop
+2024-11-08 21:00:00,307,Search,182.4,Tablet
+2024-12-02 17:00:00,355,Homepage,98.4,Mobile
+2024-09-22 12:00:00,313,Product Page,196.6,Mobile
+2024-03-12 09:00:00,493,Homepage,273.9,Tablet
+2024-12-03 03:00:00,171,Product Page,54.2,Tablet
+2024-04-08 22:00:00,174,Search,162.7,Desktop
+2024-04-10 04:00:00,23,Product Page,65.6,Tablet
+2024-08-28 04:00:00,366,Checkout,99.6,Tablet
+2024-03-12 08:00:00,182,Product Page,170.4,Desktop
+2024-10-15 07:00:00,453,Homepage,158.3,Desktop
+2024-02-04 12:00:00,485,Product Page,225.9,Tablet
+2024-03-23 00:00:00,149,Cart,87.8,Mobile
+2024-12-27 15:00:00,406,Product Page,84.6,Desktop
+2024-12-06 16:00:00,73,Homepage,279.6,Mobile
+2024-08-30 17:00:00,271,Checkout,122.4,Desktop
+2024-10-17 09:00:00,390,Checkout,198.8,Mobile
+2024-08-26 02:00:00,39,Product Page,242.3,Desktop
+2024-06-27 05:00:00,314,Cart,188.2,Mobile
+2024-09-18 18:00:00,294,Checkout,109.8,Tablet
+2024-11-08 11:00:00,135,Checkout,41.6,Tablet
+2024-01-21 02:00:00,488,Cart,278.7,Desktop
+2024-12-19 01:00:00,105,Homepage,163.8,Tablet
+2024-06-16 01:00:00,220,Checkout,81.3,Desktop
+2024-08-31 14:00:00,293,Cart,199.3,Tablet
+2024-03-20 00:00:00,416,Product Page,214.8,Mobile
+2024-06-27 05:00:00,178,Homepage,67.4,Desktop
+2024-03-25 09:00:00,242,Homepage,26.4,Tablet
+2024-11-27 11:00:00,198,Homepage,225.0,Desktop
+2024-11-08 18:00:00,289,Cart,160.0,Tablet
+2024-09-05 18:00:00,153,Cart,104.5,Desktop
+2024-09-28 04:00:00,15,Checkout,8.0,Mobile
+2024-10-22 23:00:00,146,Checkout,193.9,Mobile
+2024-06-13 01:00:00,172,Checkout,52.9,Desktop
+2024-06-19 00:00:00,40,Homepage,101.4,Tablet
+2024-11-14 23:00:00,98,Checkout,229.5,Tablet
+2024-09-29 02:00:00,370,Product Page,14.2,Desktop
+2024-04-04 18:00:00,84,Search,277.4,Tablet
+2024-12-09 12:00:00,54,Cart,198.2,Desktop
+2024-04-09 18:00:00,429,Homepage,147.2,Desktop
+2024-07-30 01:00:00,169,Search,42.6,Tablet
+2024-08-17 14:00:00,373,Cart,139.9,Tablet
+2024-08-26 16:00:00,322,Homepage,222.7,Tablet
+2024-03-12 14:00:00,276,Cart,289.8,Mobile
+2024-04-16 21:00:00,287,Checkout,31.9,Tablet
+2024-01-05 18:00:00,247,Cart,98.5,Tablet
+2024-06-14 00:00:00,330,Product Page,165.9,Tablet
+2024-05-15 02:00:00,419,Homepage,62.4,Mobile
+2024-02-11 04:00:00,358,Homepage,96.7,Mobile
+2024-11-23 16:00:00,247,Cart,55.9,Desktop
+2024-09-02 08:00:00,359,Homepage,113.6,Tablet
+2024-01-23 07:00:00,97,Homepage,73.1,Desktop
+2024-08-08 09:00:00,496,Checkout,6.8,Tablet
+2024-04-28 02:00:00,231,Checkout,196.5,Desktop
+2024-12-11 07:00:00,101,Homepage,118.1,Tablet
+2024-03-29 05:00:00,109,Cart,199.1,Mobile
+2024-01-23 11:00:00,353,Cart,75.9,Mobile
+2024-08-11 08:00:00,114,Checkout,191.8,Tablet
+2024-10-17 18:00:00,436,Checkout,31.4,Mobile
+2024-11-09 18:00:00,57,Checkout,196.1,Tablet
+2024-01-29 17:00:00,278,Cart,263.0,Tablet
+2024-01-09 01:00:00,292,Product Page,258.1,Desktop
+2024-09-09 03:00:00,149,Search,199.4,Mobile
+2024-08-20 01:00:00,295,Search,14.1,Tablet
+2024-03-09 08:00:00,62,Checkout,266.3,Desktop
+2024-01-30 05:00:00,145,Search,157.6,Tablet
+2024-11-30 16:00:00,268,Checkout,260.1,Tablet
+2024-01-17 07:00:00,201,Checkout,84.6,Desktop
+2024-06-21 23:00:00,61,Homepage,88.3,Desktop
+2024-07-27 16:00:00,369,Checkout,107.7,Mobile
+2024-03-29 22:00:00,166,Search,107.6,Desktop
+2024-06-09 23:00:00,356,Checkout,19.7,Mobile
+2024-06-07 21:00:00,347,Homepage,249.4,Mobile
+2024-02-03 19:00:00,220,Homepage,95.5,Desktop
+2024-07-22 10:00:00,35,Checkout,17.8,Desktop
+2024-04-03 22:00:00,54,Cart,21.8,Desktop
+2024-07-31 11:00:00,456,Product Page,117.9,Desktop
+2024-04-27 04:00:00,294,Homepage,203.1,Mobile
+2024-06-14 22:00:00,96,Cart,87.6,Mobile
+2024-10-03 20:00:00,17,Checkout,267.0,Mobile
+2024-07-18 05:00:00,319,Cart,57.6,Desktop
+2024-09-24 03:00:00,77,Checkout,99.9,Desktop
+2024-10-08 12:00:00,345,Homepage,142.1,Desktop
+2024-12-06 09:00:00,163,Search,230.3,Tablet
+2024-09-02 22:00:00,142,Homepage,249.8,Mobile
+2024-09-05 17:00:00,229,Checkout,99.4,Desktop
+2024-11-09 02:00:00,269,Cart,101.7,Tablet
+2024-02-19 11:00:00,292,Product Page,12.1,Desktop
+2024-06-07 15:00:00,17,Cart,105.9,Tablet
+2024-10-25 00:00:00,16,Homepage,170.4,Mobile
+2024-12-15 23:00:00,27,Homepage,174.5,Tablet
+2024-08-07 19:00:00,407,Homepage,30.6,Desktop
+2024-07-27 15:00:00,150,Cart,292.6,Desktop
+2024-03-25 11:00:00,191,Homepage,175.1,Mobile
+2024-08-13 04:00:00,371,Search,189.7,Mobile
+2024-08-29 14:00:00,26,Cart,74.6,Tablet
+2024-05-07 09:00:00,11,Homepage,120.7,Tablet
+2024-11-27 20:00:00,344,Checkout,241.9,Mobile
+2024-02-01 21:00:00,391,Search,94.0,Tablet
+2024-08-24 07:00:00,79,Checkout,173.8,Tablet
+2024-06-13 22:00:00,173,Product Page,10.2,Desktop
+2024-09-23 04:00:00,356,Checkout,246.4,Tablet
+2024-06-08 00:00:00,437,Search,99.8,Mobile
+2024-04-08 12:00:00,21,Checkout,57.2,Mobile
+2024-11-21 15:00:00,396,Search,217.9,Tablet
+2024-06-05 13:00:00,475,Cart,228.2,Mobile
+2024-03-10 06:00:00,466,Cart,282.8,Desktop
+2024-04-28 00:00:00,128,Product Page,61.8,Tablet
+2024-11-01 14:00:00,46,Homepage,252.2,Desktop
+2024-04-18 23:00:00,274,Cart,167.3,Mobile
+2024-09-06 00:00:00,467,Product Page,281.8,Mobile
+2024-05-18 09:00:00,351,Cart,246.1,Tablet
+2024-02-19 18:00:00,101,Homepage,107.9,Mobile
+2024-03-15 12:00:00,61,Checkout,238.6,Desktop
+2024-08-29 23:00:00,450,Checkout,27.8,Tablet
+2024-02-20 11:00:00,366,Homepage,12.5,Mobile
+2024-10-09 22:00:00,280,Checkout,64.1,Desktop
+2024-04-28 06:00:00,191,Homepage,11.2,Tablet
+2024-04-27 04:00:00,205,Cart,131.8,Mobile
+2024-09-01 04:00:00,256,Checkout,160.5,Desktop
+2024-11-26 03:00:00,151,Product Page,197.0,Mobile
+2024-08-04 16:00:00,334,Cart,81.7,Mobile
+2024-05-15 16:00:00,79,Homepage,103.2,Mobile
+2024-02-22 04:00:00,461,Checkout,28.8,Desktop
+2024-03-10 17:00:00,441,Product Page,144.8,Tablet
+2024-12-05 00:00:00,372,Homepage,131.1,Desktop
+2024-10-10 08:00:00,24,Cart,230.4,Mobile
+2024-08-12 20:00:00,369,Product Page,172.5,Mobile
+2024-11-25 06:00:00,27,Search,38.6,Desktop
+2024-10-26 15:00:00,390,Search,126.6,Tablet
+2024-10-25 08:00:00,409,Homepage,242.8,Tablet
+2024-01-14 20:00:00,304,Cart,258.5,Desktop
+2024-08-30 04:00:00,54,Checkout,187.9,Mobile
+2024-05-23 19:00:00,335,Homepage,204.9,Tablet
+2024-11-28 18:00:00,460,Product Page,284.9,Tablet
+2024-12-15 17:00:00,52,Cart,13.9,Mobile
+2024-08-24 12:00:00,327,Checkout,189.2,Desktop
+2024-06-03 14:00:00,337,Cart,107.5,Mobile
+2024-08-19 01:00:00,460,Product Page,198.3,Mobile
+2024-11-20 01:00:00,293,Cart,67.9,Mobile
+2024-12-14 01:00:00,403,Checkout,152.5,Mobile
+2024-11-20 00:00:00,247,Homepage,141.0,Tablet
+2024-01-12 02:00:00,35,Homepage,231.3,Mobile
+2024-11-30 10:00:00,121,Cart,230.0,Desktop
+2024-08-20 23:00:00,221,Checkout,87.9,Mobile
+2024-12-17 02:00:00,336,Checkout,221.1,Desktop
+2024-04-03 07:00:00,36,Homepage,32.5,Desktop
+2024-01-01 20:00:00,397,Cart,230.2,Tablet
+2024-04-05 04:00:00,344,Search,112.6,Mobile
+2024-06-16 08:00:00,248,Cart,266.9,Desktop
+2024-09-18 18:00:00,259,Homepage,230.1,Desktop
+2024-10-13 18:00:00,287,Homepage,261.1,Tablet
+2024-11-06 16:00:00,391,Cart,80.4,Desktop
+2024-04-13 01:00:00,381,Checkout,274.1,Tablet
+2024-11-02 13:00:00,150,Search,150.1,Desktop
+2024-02-11 16:00:00,90,Product Page,228.1,Desktop
+2024-03-26 00:00:00,81,Search,253.8,Tablet
+2024-02-09 18:00:00,74,Product Page,143.6,Desktop
+2024-04-02 20:00:00,260,Product Page,53.4,Mobile
+2024-07-14 13:00:00,329,Cart,90.7,Tablet
+2024-03-21 05:00:00,150,Search,256.1,Tablet
+2024-06-01 21:00:00,427,Checkout,44.0,Desktop
+2024-07-12 05:00:00,61,Checkout,211.4,Desktop
+2024-07-31 21:00:00,107,Cart,13.8,Mobile
+2024-07-15 05:00:00,81,Search,162.1,Tablet
+2024-04-19 02:00:00,441,Homepage,139.2,Tablet
+2024-06-17 13:00:00,141,Homepage,54.2,Mobile
+2024-06-11 00:00:00,153,Checkout,114.3,Tablet
+2024-05-10 06:00:00,273,Product Page,181.0,Tablet
+2024-08-29 21:00:00,493,Homepage,21.4,Mobile
+2024-10-15 11:00:00,290,Product Page,86.6,Mobile
+2024-08-17 10:00:00,24,Search,21.2,Desktop
+2024-12-22 23:00:00,273,Search,134.5,Tablet
+2024-07-27 06:00:00,18,Cart,222.3,Mobile
+2024-10-19 17:00:00,401,Search,158.3,Desktop
+2024-09-19 16:00:00,234,Cart,116.1,Mobile
+2024-09-24 06:00:00,497,Homepage,111.9,Tablet
+2024-12-24 14:00:00,467,Checkout,251.1,Tablet
+2024-11-29 00:00:00,433,Homepage,137.3,Tablet
+2024-06-04 07:00:00,73,Checkout,189.6,Mobile
+2024-05-21 07:00:00,111,Homepage,129.9,Tablet
+2024-12-27 22:00:00,134,Search,109.5,Mobile
+2024-06-11 20:00:00,476,Homepage,291.2,Tablet
+2024-07-07 00:00:00,62,Homepage,54.1,Tablet
+2024-10-24 23:00:00,307,Product Page,184.3,Desktop
+2024-06-17 19:00:00,488,Product Page,165.0,Tablet
+2024-02-17 22:00:00,437,Search,25.2,Mobile
+2024-12-10 05:00:00,31,Checkout,126.7,Tablet
+2024-12-12 20:00:00,445,Checkout,254.2,Tablet
+2024-06-27 20:00:00,95,Checkout,246.8,Mobile
+2024-10-28 02:00:00,395,Product Page,251.6,Mobile
+2024-08-02 03:00:00,175,Product Page,195.4,Mobile
+2024-02-03 11:00:00,12,Cart,275.0,Desktop
+2024-10-07 01:00:00,323,Cart,21.7,Desktop
+2024-07-28 21:00:00,374,Checkout,50.4,Desktop
+2024-12-10 00:00:00,282,Product Page,249.8,Tablet
+2024-02-25 21:00:00,468,Search,147.5,Tablet
+2024-05-27 04:00:00,279,Homepage,49.2,Tablet
+2024-04-26 20:00:00,137,Checkout,129.7,Tablet
+2024-01-24 22:00:00,235,Cart,111.2,Mobile
+2024-08-23 20:00:00,326,Search,106.7,Tablet
+2024-04-07 13:00:00,223,Checkout,48.7,Tablet
+2024-02-19 11:00:00,303,Checkout,12.6,Desktop
+2024-09-05 14:00:00,379,Product Page,274.5,Desktop
+2024-04-13 22:00:00,321,Product Page,100.4,Mobile
+2024-06-10 04:00:00,296,Checkout,205.3,Desktop
+2024-02-07 09:00:00,237,Homepage,283.5,Mobile
+2024-05-21 14:00:00,162,Cart,279.1,Tablet
+2024-01-03 03:00:00,181,Checkout,205.0,Tablet
+2024-02-29 21:00:00,285,Cart,68.1,Tablet
+2024-09-16 06:00:00,304,Product Page,128.5,Desktop
+2024-07-11 09:00:00,231,Product Page,292.2,Mobile
+2024-04-06 22:00:00,497,Search,100.5,Tablet
+2024-03-10 04:00:00,457,Search,147.2,Tablet
+2024-06-13 19:00:00,296,Product Page,119.6,Mobile
+2024-09-07 08:00:00,477,Checkout,149.5,Mobile
+2024-09-11 03:00:00,25,Product Page,125.0,Tablet
+2024-06-10 05:00:00,163,Homepage,118.1,Tablet
+2024-03-04 03:00:00,57,Homepage,211.2,Tablet
+2024-12-03 18:00:00,490,Search,170.0,Desktop
+2024-07-31 15:00:00,129,Homepage,201.7,Mobile
+2024-10-07 20:00:00,457,Product Page,272.7,Tablet
+2024-08-26 00:00:00,468,Checkout,294.9,Tablet
+2024-01-19 21:00:00,486,Homepage,270.6,Tablet
+2024-02-01 22:00:00,497,Search,89.4,Desktop
+2024-02-05 21:00:00,308,Product Page,83.1,Mobile
+2024-05-21 03:00:00,86,Search,98.6,Mobile
+2024-09-23 04:00:00,12,Homepage,45.3,Tablet
+2024-02-22 03:00:00,335,Cart,68.8,Tablet
+2024-07-18 01:00:00,211,Search,151.1,Desktop
+2024-05-31 01:00:00,157,Homepage,85.3,Desktop
+2024-07-08 10:00:00,489,Checkout,94.3,Tablet
+2024-03-03 09:00:00,466,Cart,209.1,Mobile
+2024-06-07 05:00:00,404,Product Page,234.1,Mobile
+2024-05-31 09:00:00,75,Checkout,102.1,Desktop
+2024-09-13 09:00:00,126,Checkout,7.4,Tablet
+2024-04-04 23:00:00,458,Homepage,270.8,Tablet
+2024-11-28 22:00:00,51,Product Page,157.5,Mobile
+2024-09-25 09:00:00,171,Checkout,296.2,Tablet
+2024-02-12 05:00:00,208,Product Page,190.0,Desktop
+2024-12-05 02:00:00,394,Product Page,115.0,Tablet
+2024-06-25 19:00:00,175,Product Page,29.0,Mobile
+2024-06-08 18:00:00,458,Search,281.3,Mobile
+2024-11-03 17:00:00,158,Search,234.0,Tablet
+2024-07-21 20:00:00,174,Cart,223.2,Desktop
+2024-11-19 18:00:00,38,Homepage,44.4,Mobile
+2024-05-02 15:00:00,100,Product Page,112.4,Desktop
+2024-05-08 02:00:00,216,Product Page,271.0,Tablet
+2024-01-15 04:00:00,296,Homepage,169.4,Mobile
+2024-07-17 11:00:00,131,Product Page,28.4,Desktop
+2024-10-23 16:00:00,433,Product Page,297.4,Desktop
+2024-07-31 14:00:00,293,Cart,235.6,Desktop
+2024-03-08 17:00:00,198,Homepage,255.6,Desktop
+2024-03-25 15:00:00,342,Search,255.4,Desktop
+2024-12-26 22:00:00,382,Homepage,218.3,Desktop
+2024-06-13 07:00:00,287,Search,159.7,Mobile
+2024-02-26 14:00:00,329,Search,135.2,Mobile
+2024-10-21 13:00:00,340,Homepage,266.6,Mobile
+2024-01-02 11:00:00,421,Search,153.6,Desktop
+2024-12-26 00:00:00,231,Search,256.9,Desktop
+2024-05-03 20:00:00,426,Cart,152.2,Mobile
+2024-03-25 20:00:00,359,Homepage,269.0,Tablet
+2024-03-18 04:00:00,202,Search,80.5,Mobile
+2024-10-30 05:00:00,237,Product Page,250.8,Desktop
+2024-11-18 17:00:00,122,Homepage,225.9,Desktop
+2024-09-28 05:00:00,436,Checkout,182.1,Mobile
+2024-09-02 17:00:00,69,Checkout,40.4,Tablet
+2024-10-30 18:00:00,52,Homepage,123.8,Desktop
+2024-12-05 17:00:00,11,Cart,43.8,Mobile
+2024-05-24 11:00:00,255,Product Page,196.3,Desktop
+2024-12-27 06:00:00,228,Homepage,266.9,Desktop
+2024-06-10 19:00:00,34,Product Page,44.9,Mobile
+2024-04-01 12:00:00,281,Product Page,247.3,Desktop
+2024-08-24 01:00:00,201,Homepage,149.4,Desktop
+2024-05-25 22:00:00,10,Checkout,163.7,Mobile
+2024-01-03 03:00:00,252,Homepage,46.7,Mobile
+2024-01-24 15:00:00,439,Homepage,213.2,Desktop
+2024-04-17 07:00:00,489,Search,76.5,Tablet
+2024-10-12 12:00:00,104,Search,213.4,Mobile
+2024-02-21 15:00:00,103,Homepage,260.3,Desktop
+2024-07-11 06:00:00,248,Product Page,188.4,Tablet
+2024-11-27 08:00:00,259,Cart,15.8,Tablet
+2024-10-04 05:00:00,430,Homepage,152.2,Desktop
+2024-10-19 14:00:00,407,Search,245.1,Tablet
+2024-02-23 06:00:00,279,Product Page,181.9,Mobile
+2024-06-20 19:00:00,246,Product Page,45.6,Mobile
+2024-07-09 15:00:00,428,Product Page,210.7,Mobile
+2024-01-03 10:00:00,261,Checkout,140.0,Mobile
+2024-09-30 17:00:00,464,Product Page,131.6,Mobile
+2024-01-29 06:00:00,256,Cart,157.6,Tablet
+2024-06-18 06:00:00,359,Search,76.7,Tablet
+2024-08-01 21:00:00,306,Homepage,109.2,Tablet
+2024-07-20 18:00:00,193,Cart,7.4,Mobile
+2024-05-11 11:00:00,452,Checkout,141.7,Mobile
+2024-02-28 21:00:00,498,Product Page,225.3,Tablet
+2024-12-11 06:00:00,281,Search,298.9,Tablet
+2024-01-17 17:00:00,46,Checkout,47.7,Desktop
+2024-08-24 10:00:00,135,Checkout,202.8,Desktop
+2024-10-15 05:00:00,208,Checkout,236.0,Mobile
+2024-10-06 20:00:00,232,Search,146.6,Mobile
+2024-01-03 22:00:00,186,Search,130.0,Desktop
+2024-11-11 13:00:00,48,Checkout,129.2,Tablet
+2024-10-13 12:00:00,55,Search,33.9,Tablet
+2024-01-16 05:00:00,349,Homepage,134.7,Tablet
+2024-07-09 10:00:00,207,Checkout,266.0,Desktop
+2024-04-11 10:00:00,203,Checkout,243.7,Desktop
+2024-04-18 06:00:00,162,Product Page,150.2,Mobile
+2024-05-29 21:00:00,313,Homepage,77.2,Desktop
+2024-02-28 15:00:00,434,Homepage,166.0,Mobile
+2024-05-08 11:00:00,446,Cart,150.6,Tablet
+2024-02-24 09:00:00,330,Homepage,218.9,Tablet
+2024-03-05 02:00:00,79,Cart,145.0,Desktop
+2024-03-23 14:00:00,237,Checkout,236.7,Desktop
+2024-04-14 06:00:00,396,Product Page,85.9,Mobile
+2024-12-06 15:00:00,245,Homepage,28.4,Tablet
+2024-05-18 13:00:00,493,Checkout,67.4,Desktop
+2024-09-12 04:00:00,463,Homepage,88.8,Mobile
+2024-11-02 22:00:00,177,Checkout,216.2,Mobile
+2024-07-11 13:00:00,353,Homepage,264.9,Tablet
+2024-11-21 16:00:00,463,Cart,45.3,Tablet
+2024-08-03 20:00:00,222,Product Page,264.6,Mobile
+2024-07-26 13:00:00,303,Homepage,32.2,Tablet
+2024-12-05 21:00:00,201,Checkout,215.3,Desktop
+2024-01-01 07:00:00,325,Cart,173.9,Tablet
+2024-03-22 08:00:00,223,Cart,233.5,Tablet
+2024-04-30 08:00:00,227,Checkout,74.3,Mobile
+2024-05-29 07:00:00,69,Product Page,250.4,Desktop
+2024-01-23 15:00:00,433,Checkout,297.3,Desktop
+2024-10-02 23:00:00,195,Checkout,5.1,Mobile
+2024-10-10 05:00:00,382,Checkout,130.0,Mobile
+2024-10-23 11:00:00,86,Search,144.4,Desktop
+2024-09-24 03:00:00,239,Product Page,241.2,Desktop
+2024-03-12 16:00:00,114,Homepage,88.6,Mobile
+2024-05-31 22:00:00,220,Search,199.8,Desktop
+2024-11-19 23:00:00,206,Homepage,90.0,Tablet
+2024-05-03 20:00:00,430,Homepage,234.2,Mobile
+2024-05-23 22:00:00,470,Cart,148.8,Desktop
+2024-04-07 13:00:00,458,Cart,271.1,Desktop
+2024-05-22 20:00:00,392,Checkout,51.8,Desktop
+2024-09-15 03:00:00,452,Cart,38.9,Desktop
+2024-07-24 23:00:00,266,Search,288.1,Desktop
+2024-09-21 16:00:00,313,Homepage,130.3,Desktop
+2024-07-20 03:00:00,102,Checkout,63.3,Desktop
+2024-05-27 07:00:00,401,Homepage,144.3,Mobile
+2024-02-19 15:00:00,320,Search,18.0,Mobile
+2024-06-15 09:00:00,98,Cart,56.3,Tablet
+2024-06-15 19:00:00,81,Product Page,181.3,Desktop
+2024-05-10 13:00:00,53,Search,166.5,Tablet
+2024-11-19 09:00:00,211,Checkout,67.1,Tablet
+2024-11-28 21:00:00,29,Cart,205.4,Mobile
+2024-07-10 14:00:00,126,Product Page,187.9,Mobile
+2024-03-14 20:00:00,45,Checkout,69.2,Tablet
+2024-07-30 02:00:00,142,Product Page,249.5,Tablet
+2024-10-04 03:00:00,198,Cart,244.9,Desktop
+2024-07-09 21:00:00,182,Homepage,52.4,Mobile
+2024-04-16 00:00:00,329,Cart,266.1,Mobile
+2024-08-27 01:00:00,371,Search,127.9,Tablet
+2024-02-24 19:00:00,14,Search,287.8,Tablet
+2024-12-10 23:00:00,167,Cart,82.2,Mobile
+2024-03-05 01:00:00,375,Homepage,89.6,Desktop
+2024-10-15 18:00:00,420,Checkout,289.1,Tablet
+2024-10-30 00:00:00,421,Homepage,272.9,Desktop
+2024-02-18 04:00:00,69,Checkout,51.5,Desktop
+2024-02-13 14:00:00,201,Homepage,75.8,Mobile
+2024-05-13 09:00:00,76,Cart,61.0,Desktop
+2024-04-14 02:00:00,402,Checkout,186.7,Tablet
+2024-05-01 20:00:00,81,Homepage,129.4,Desktop
+2024-09-24 14:00:00,429,Cart,155.7,Mobile
+2024-04-22 00:00:00,104,Cart,136.1,Mobile
+2024-07-20 02:00:00,434,Cart,146.9,Tablet
+2024-02-24 01:00:00,238,Cart,272.0,Desktop
+2024-05-05 14:00:00,280,Search,245.0,Tablet
+2024-05-07 11:00:00,103,Checkout,205.9,Tablet
+2024-12-30 16:00:00,411,Cart,69.0,Tablet
+2024-04-29 02:00:00,480,Cart,144.9,Desktop
+2024-08-29 13:00:00,90,Checkout,39.5,Mobile
+2024-06-07 01:00:00,180,Cart,41.8,Desktop
+2024-05-07 19:00:00,338,Checkout,155.2,Mobile
+2024-12-27 13:00:00,466,Checkout,261.8,Desktop
+2024-04-15 17:00:00,155,Product Page,42.0,Tablet
+2024-11-01 17:00:00,315,Cart,59.0,Mobile
+2024-06-02 09:00:00,33,Cart,86.5,Mobile
+2024-05-09 01:00:00,78,Checkout,103.3,Mobile
+2024-07-08 06:00:00,372,Homepage,282.8,Mobile
+2024-03-22 10:00:00,249,Search,62.3,Desktop
+2024-01-08 23:00:00,66,Product Page,37.2,Tablet
+2024-07-06 06:00:00,75,Search,272.4,Tablet
+2024-06-04 18:00:00,193,Cart,53.4,Tablet
+2024-06-05 09:00:00,410,Cart,286.1,Desktop
+2024-06-22 10:00:00,230,Checkout,68.5,Tablet
+2024-10-14 13:00:00,79,Homepage,15.7,Mobile
+2024-03-15 19:00:00,228,Product Page,78.8,Desktop
+2024-12-12 22:00:00,399,Checkout,43.0,Tablet
+2024-08-26 02:00:00,79,Checkout,264.7,Tablet
+2024-03-11 10:00:00,331,Product Page,192.9,Tablet
+2024-11-03 02:00:00,145,Cart,119.5,Tablet
+2024-07-05 10:00:00,366,Product Page,119.9,Tablet
+2024-09-22 19:00:00,93,Homepage,225.9,Tablet
+2024-04-13 12:00:00,239,Checkout,225.1,Desktop
+2024-10-30 12:00:00,269,Cart,227.5,Desktop
+2024-11-16 02:00:00,149,Checkout,130.3,Tablet
+2024-07-06 14:00:00,481,Search,240.5,Mobile
+2024-04-24 05:00:00,463,Homepage,31.9,Mobile
+2024-11-29 06:00:00,497,Product Page,182.0,Mobile
+2024-03-05 22:00:00,439,Checkout,47.1,Mobile
+2024-08-05 10:00:00,12,Cart,10.4,Tablet
+2024-01-19 13:00:00,291,Search,28.0,Tablet
+2024-11-24 00:00:00,242,Homepage,208.1,Mobile
+2024-12-06 09:00:00,129,Checkout,277.4,Mobile
+2024-04-30 06:00:00,280,Product Page,157.5,Tablet
+2024-06-08 05:00:00,157,Checkout,131.7,Mobile
+2024-06-29 22:00:00,72,Cart,264.3,Mobile
+2024-07-22 03:00:00,325,Product Page,233.7,Mobile
+2024-03-31 23:00:00,404,Product Page,93.7,Desktop
+2024-06-11 08:00:00,319,Cart,162.8,Mobile
+2024-05-05 07:00:00,344,Product Page,219.1,Mobile
+2024-06-01 16:00:00,232,Homepage,232.4,Desktop
+2024-02-22 17:00:00,201,Product Page,150.2,Tablet
+2024-07-26 14:00:00,135,Product Page,136.5,Desktop
+2024-12-27 20:00:00,8,Product Page,295.6,Mobile
+2024-11-11 05:00:00,450,Search,65.5,Tablet
+2024-04-14 06:00:00,453,Search,37.3,Desktop
+2024-11-12 03:00:00,228,Homepage,189.4,Tablet
+2024-01-14 01:00:00,102,Homepage,58.6,Desktop
+2024-06-09 14:00:00,390,Checkout,283.9,Desktop
+2024-09-12 13:00:00,33,Search,290.7,Mobile
+2024-01-05 15:00:00,28,Cart,107.6,Tablet
+2024-09-06 10:00:00,430,Homepage,63.0,Tablet
+2024-04-22 22:00:00,200,Search,90.1,Tablet
+2024-09-09 06:00:00,8,Search,287.3,Desktop
+2024-05-21 02:00:00,219,Checkout,192.4,Desktop
+2024-01-11 18:00:00,174,Product Page,20.4,Desktop
+2024-11-15 05:00:00,278,Search,96.1,Mobile
+2024-09-09 10:00:00,266,Checkout,144.1,Tablet
+2024-07-07 07:00:00,151,Homepage,16.1,Tablet
+2024-09-22 14:00:00,242,Cart,27.7,Tablet
+2024-07-01 11:00:00,441,Product Page,111.3,Desktop
+2024-07-12 05:00:00,13,Product Page,193.3,Tablet
+2024-04-03 12:00:00,492,Homepage,153.4,Mobile
+2024-04-12 22:00:00,127,Cart,292.8,Mobile
+2024-01-10 12:00:00,160,Checkout,266.7,Mobile
+2024-06-21 10:00:00,46,Product Page,22.3,Tablet
+2024-09-05 07:00:00,457,Cart,295.6,Mobile
+2024-12-26 11:00:00,492,Cart,29.5,Tablet
+2024-10-09 14:00:00,290,Homepage,25.4,Tablet
+2024-04-01 14:00:00,68,Cart,33.9,Mobile
+2024-08-27 16:00:00,15,Checkout,89.7,Tablet
+2024-06-26 05:00:00,264,Search,106.0,Tablet
+2024-01-05 20:00:00,439,Search,233.6,Tablet
+2024-04-06 19:00:00,159,Search,37.5,Tablet
+2024-09-06 15:00:00,33,Homepage,23.1,Tablet
+2024-09-19 13:00:00,142,Homepage,25.2,Tablet
+2024-07-25 04:00:00,357,Homepage,299.1,Mobile
+2024-08-09 01:00:00,248,Homepage,157.0,Tablet
+2024-12-30 19:00:00,241,Product Page,287.9,Tablet
+2024-04-15 10:00:00,446,Checkout,243.2,Tablet
+2024-03-14 11:00:00,403,Product Page,111.5,Tablet
+2024-02-18 20:00:00,103,Checkout,132.6,Mobile
+2024-01-10 19:00:00,378,Search,193.3,Tablet
+2024-06-01 19:00:00,259,Checkout,32.9,Tablet
+2024-12-23 17:00:00,386,Homepage,21.1,Tablet
+2024-05-13 01:00:00,418,Product Page,239.0,Mobile
+2024-02-29 14:00:00,450,Homepage,8.4,Tablet
+2024-03-06 10:00:00,157,Homepage,134.7,Mobile
+2024-09-05 22:00:00,306,Search,80.4,Tablet
+2024-12-27 21:00:00,300,Homepage,224.0,Desktop
+2024-07-18 00:00:00,309,Search,274.5,Tablet
+2024-11-15 00:00:00,382,Checkout,224.7,Tablet
+2024-10-15 20:00:00,31,Homepage,187.2,Desktop
+2024-08-31 17:00:00,422,Checkout,109.2,Desktop
+2024-11-02 16:00:00,108,Product Page,87.1,Tablet
+2024-10-26 23:00:00,127,Homepage,129.9,Desktop
+2024-10-09 01:00:00,59,Product Page,77.6,Tablet
+2024-06-13 09:00:00,379,Cart,272.6,Desktop
+2024-02-21 13:00:00,495,Homepage,295.5,Desktop
+2024-08-26 10:00:00,263,Homepage,21.7,Tablet
+2024-12-05 12:00:00,245,Product Page,119.0,Tablet
+2024-06-14 22:00:00,176,Product Page,37.5,Tablet
+2024-12-07 21:00:00,443,Cart,30.7,Tablet
+2024-11-26 18:00:00,128,Cart,276.7,Tablet
+2024-04-29 12:00:00,298,Checkout,82.3,Tablet
+2024-04-27 04:00:00,489,Homepage,177.8,Tablet
+2024-05-22 07:00:00,270,Cart,39.6,Desktop
+2024-06-02 18:00:00,54,Checkout,69.9,Desktop
+2024-07-21 13:00:00,189,Homepage,40.7,Tablet
+2024-08-08 17:00:00,121,Checkout,205.1,Tablet
+2024-05-10 20:00:00,249,Search,104.5,Tablet
+2024-06-17 14:00:00,381,Search,40.2,Tablet
+2024-04-18 21:00:00,216,Checkout,21.0,Mobile
+2024-04-23 15:00:00,500,Cart,141.8,Desktop
+2024-12-30 03:00:00,434,Product Page,24.2,Mobile
+2024-10-07 17:00:00,491,Homepage,265.0,Mobile
+2024-05-04 10:00:00,239,Search,19.8,Mobile
+2024-12-17 15:00:00,117,Checkout,251.4,Tablet
+2024-11-21 22:00:00,378,Homepage,210.7,Desktop
+2024-06-07 12:00:00,195,Search,117.0,Desktop
+2024-07-19 17:00:00,280,Checkout,166.6,Desktop
+2024-03-20 11:00:00,385,Cart,123.0,Desktop
+2024-01-27 22:00:00,40,Search,53.0,Mobile
+2024-07-12 23:00:00,158,Checkout,180.7,Tablet
+2024-07-20 01:00:00,463,Product Page,33.6,Tablet
+2024-11-12 00:00:00,440,Checkout,161.1,Desktop
+2024-02-02 09:00:00,298,Product Page,28.7,Mobile
+2024-05-12 22:00:00,397,Cart,59.4,Mobile
+2024-11-24 15:00:00,278,Product Page,194.9,Desktop
+2024-08-22 16:00:00,51,Cart,231.0,Desktop
+2024-02-16 12:00:00,225,Homepage,245.6,Desktop
+2024-12-22 07:00:00,437,Checkout,79.3,Mobile
+2024-06-05 18:00:00,285,Homepage,50.7,Tablet
+2024-09-24 11:00:00,120,Checkout,55.0,Tablet
+2024-06-14 06:00:00,204,Checkout,148.8,Mobile
+2024-08-09 06:00:00,300,Checkout,6.1,Tablet
+2024-10-28 11:00:00,143,Cart,49.0,Desktop
+2024-05-23 16:00:00,332,Homepage,23.7,Tablet
+2024-02-09 12:00:00,248,Product Page,46.6,Tablet
+2024-10-16 14:00:00,131,Search,105.7,Mobile
+2024-07-23 06:00:00,205,Cart,65.3,Mobile
+2024-01-10 12:00:00,133,Homepage,299.3,Tablet
+2024-05-19 16:00:00,284,Search,108.3,Mobile
+2024-02-27 20:00:00,408,Checkout,87.5,Desktop
+2024-12-18 14:00:00,309,Checkout,162.3,Mobile
+2024-04-03 15:00:00,88,Cart,177.6,Desktop
+2024-08-29 00:00:00,444,Cart,17.7,Tablet
+2024-07-09 17:00:00,231,Checkout,292.9,Mobile
+2024-10-19 23:00:00,117,Homepage,194.9,Desktop
+2024-12-03 17:00:00,224,Search,81.6,Desktop
+2024-03-20 18:00:00,468,Cart,178.9,Mobile
+2024-03-26 22:00:00,404,Product Page,267.2,Mobile
+2024-10-15 02:00:00,83,Cart,110.3,Desktop
+2024-01-03 13:00:00,390,Checkout,165.0,Tablet
+2024-10-30 10:00:00,137,Product Page,297.2,Tablet
+2024-10-08 20:00:00,418,Search,45.9,Desktop
+2024-05-12 03:00:00,111,Cart,245.2,Tablet
+2024-05-15 22:00:00,325,Cart,67.5,Desktop
+2024-10-29 13:00:00,94,Checkout,11.4,Mobile
+2024-11-25 01:00:00,171,Checkout,254.6,Mobile
+2024-03-31 12:00:00,278,Product Page,48.9,Desktop
+2024-11-01 09:00:00,289,Product Page,63.7,Desktop
+2024-01-12 22:00:00,495,Search,131.7,Tablet
+2024-09-21 13:00:00,449,Homepage,182.0,Mobile
+2024-02-24 18:00:00,395,Cart,255.1,Desktop
+2024-05-08 00:00:00,296,Search,121.3,Tablet
+2024-07-16 15:00:00,177,Cart,13.6,Tablet
+2024-08-19 05:00:00,488,Checkout,181.6,Mobile
+2024-02-01 05:00:00,145,Product Page,67.0,Tablet
+2024-11-28 05:00:00,268,Homepage,256.6,Mobile
+2024-10-06 03:00:00,200,Cart,133.3,Mobile
+2024-04-27 20:00:00,481,Checkout,198.1,Tablet
+2024-04-18 22:00:00,452,Search,28.3,Mobile
+2024-05-06 17:00:00,331,Cart,265.0,Tablet
+2024-02-28 17:00:00,406,Search,297.6,Desktop
+2024-08-28 12:00:00,126,Cart,93.0,Tablet
+2024-10-14 00:00:00,268,Search,113.1,Desktop
+2024-11-05 04:00:00,343,Search,228.9,Tablet
+2024-05-02 04:00:00,260,Homepage,231.1,Desktop
+2024-11-18 11:00:00,484,Search,289.8,Mobile
+2024-02-28 12:00:00,39,Product Page,271.0,Tablet
+2024-11-19 12:00:00,87,Search,34.7,Desktop
+2024-06-08 22:00:00,445,Homepage,177.0,Tablet
+2024-04-09 02:00:00,280,Checkout,44.7,Desktop
+2024-01-28 22:00:00,168,Homepage,262.9,Mobile
+2024-09-19 19:00:00,197,Checkout,222.9,Mobile
+2024-06-13 12:00:00,358,Checkout,126.8,Desktop
+2024-08-24 06:00:00,180,Homepage,106.8,Mobile
+2024-03-30 12:00:00,467,Homepage,292.4,Mobile
+2024-11-27 16:00:00,110,Cart,36.3,Mobile
+2024-11-29 04:00:00,327,Homepage,258.9,Tablet
+2024-09-19 07:00:00,56,Checkout,129.1,Desktop
+2024-05-25 14:00:00,447,Product Page,202.6,Mobile
+2024-08-10 14:00:00,204,Cart,166.2,Tablet
+2024-11-22 08:00:00,438,Cart,204.0,Desktop
+2024-07-04 12:00:00,497,Checkout,215.3,Mobile
+2024-10-28 03:00:00,119,Cart,143.9,Mobile
+2024-09-16 06:00:00,21,Checkout,228.4,Tablet
+2024-12-15 20:00:00,492,Homepage,87.1,Mobile
+2024-10-14 08:00:00,492,Checkout,134.0,Mobile
+2024-09-11 21:00:00,455,Homepage,197.6,Desktop
+2024-03-23 04:00:00,174,Cart,36.6,Mobile
+2024-04-12 18:00:00,176,Search,43.3,Mobile
+2024-11-06 13:00:00,229,Product Page,211.2,Mobile
+2024-08-19 23:00:00,388,Checkout,255.3,Mobile
+2024-06-28 22:00:00,177,Product Page,230.3,Tablet
